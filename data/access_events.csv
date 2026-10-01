@@ -1,0 +1,321 @@
+event_id,user_id,system,event_type,severity,event_date,status
+EV00001,U0066,HR Portal,After-Hours Login,Medium,2026-07-12,Investigating
+EV00002,U0216,Billing System,After-Hours Login,Medium,2026-07-14,Investigating
+EV00003,U0197,HR Portal,After-Hours Login,Medium,2026-07-22,Investigating
+EV00004,U0235,Active Directory,Failed Login Burst (10+),High,2026-09-11,Open
+EV00005,U0565,Pharmacy System,Impossible Travel,Critical,2026-08-11,Investigating
+EV00006,U0028,Pharmacy System,After-Hours Login,Medium,2026-08-07,Closed
+EV00007,U0556,VPN,Privilege Escalation Attempt,Critical,2026-07-29,Investigating
+EV00008,U0587,Email,After-Hours Login,Medium,2026-09-08,Open
+EV00009,U0143,EHR,After-Hours Login,Medium,2026-07-22,Open
+EV00010,U0195,VPN,Failed Login Burst (10+),High,2026-08-19,Closed
+EV00011,U0071,EHR,Mass Export Download,High,2026-08-06,Investigating
+EV00012,U0089,Email,After-Hours Login,Medium,2026-07-30,Investigating
+EV00013,U0157,Billing System,Privilege Escalation Attempt,Critical,2026-09-24,Investigating
+EV00014,U0399,VPN,Impossible Travel,Critical,2026-07-25,Closed
+EV00015,U0138,Billing System,Privilege Escalation Attempt,Critical,2026-09-09,Investigating
+EV00016,U0370,Active Directory,After-Hours Login,Medium,2026-08-06,Open
+EV00017,U0323,EHR,Privilege Escalation Attempt,Critical,2026-08-22,Open
+EV00018,U0323,HR Portal,Dormant Account Login,High,2026-08-27,Investigating
+EV00019,U0210,Pharmacy System,Dormant Account Login,High,2026-08-28,Closed
+EV00020,U0187,Pharmacy System,After-Hours Login,Medium,2026-09-04,Investigating
+EV00021,U0133,Pharmacy System,Impossible Travel,Critical,2026-08-08,Open
+EV00022,U0299,VPN,Mass Export Download,High,2026-08-26,Investigating
+EV00023,U0056,Pharmacy System,Privilege Escalation Attempt,Critical,2026-08-24,Closed
+EV00024,U0358,Pharmacy System,After-Hours Login,Medium,2026-09-21,Closed
+EV00025,U0040,Radiology PACS,Mass Export Download,High,2026-09-13,Investigating
+EV00026,U0176,Billing System,After-Hours Login,Medium,2026-09-02,Open
+EV00027,U0522,Billing System,Impossible Travel,Critical,2026-08-26,Open
+EV00028,U0095,Billing System,Privilege Escalation Attempt,Critical,2026-07-13,Open
+EV00029,U0166,Pharmacy System,After-Hours Login,Medium,2026-07-15,Investigating
+EV00030,U0564,Active Directory,After-Hours Login,Medium,2026-07-12,Open
+EV00031,U0207,EHR,Failed Login Burst (10+),High,2026-09-24,Open
+EV00032,U0016,Active Directory,Failed Login Burst (10+),High,2026-09-02,Open
+EV00033,U0587,VPN,Dormant Account Login,High,2026-09-13,Open
+EV00034,U0529,HR Portal,Privilege Escalation Attempt,Critical,2026-09-12,Closed
+EV00035,U0480,EHR,Privilege Escalation Attempt,Critical,2026-09-02,Closed
+EV00036,U0568,HR Portal,After-Hours Login,Medium,2026-07-11,Closed
+EV00037,U0565,Radiology PACS,After-Hours Login,Medium,2026-08-07,Closed
+EV00038,U0237,VPN,After-Hours Login,Medium,2026-08-31,Investigating
+EV00039,U0406,Billing System,Mass Export Download,High,2026-08-12,Open
+EV00040,U0067,Billing System,After-Hours Login,Medium,2026-09-23,Open
+EV00041,U0351,Radiology PACS,After-Hours Login,Medium,2026-08-27,Open
+EV00042,U0154,VPN,Dormant Account Login,High,2026-08-01,Closed
+EV00043,U0065,Pharmacy System,Dormant Account Login,High,2026-07-24,Closed
+EV00044,U0355,Active Directory,Failed Login Burst (10+),High,2026-09-01,Open
+EV00045,U0293,HR Portal,Dormant Account Login,High,2026-07-22,Investigating
+EV00046,U0040,Email,After-Hours Login,Medium,2026-08-31,Investigating
+EV00047,U0186,EHR,Failed Login Burst (10+),High,2026-09-22,Open
+EV00048,U0556,Radiology PACS,After-Hours Login,Medium,2026-07-06,Investigating
+EV00049,U0254,Radiology PACS,After-Hours Login,Medium,2026-08-08,Open
+EV00050,U0419,EHR,Dormant Account Login,High,2026-07-17,Open
+EV00051,U0354,Billing System,Dormant Account Login,High,2026-07-02,Investigating
+EV00052,U0542,EHR,After-Hours Login,Medium,2026-09-23,Investigating
+EV00053,U0593,VPN,After-Hours Login,Medium,2026-08-12,Open
+EV00054,U0576,Pharmacy System,Failed Login Burst (10+),High,2026-08-07,Open
+EV00055,U0428,VPN,After-Hours Login,Medium,2026-09-23,Closed
+EV00056,U0538,Radiology PACS,After-Hours Login,Medium,2026-08-02,Open
+EV00057,U0592,HR Portal,Failed Login Burst (10+),High,2026-09-04,Closed
+EV00058,U0174,Email,Failed Login Burst (10+),High,2026-08-26,Closed
+EV00059,U0157,Email,Dormant Account Login,High,2026-08-31,Investigating
+EV00060,U0483,VPN,After-Hours Login,Medium,2026-07-23,Closed
+EV00061,U0496,Email,After-Hours Login,Medium,2026-08-25,Closed
+EV00062,U0195,Email,Failed Login Burst (10+),High,2026-09-20,Open
+EV00063,U0316,Radiology PACS,Failed Login Burst (10+),High,2026-09-11,Open
+EV00064,U0162,EHR,Impossible Travel,Critical,2026-09-09,Open
+EV00065,U0002,Billing System,Dormant Account Login,High,2026-07-28,Investigating
+EV00066,U0127,HR Portal,After-Hours Login,Medium,2026-08-08,Open
+EV00067,U0508,VPN,Impossible Travel,Critical,2026-07-28,Closed
+EV00068,U0127,Pharmacy System,Impossible Travel,Critical,2026-07-20,Closed
+EV00069,U0352,Pharmacy System,After-Hours Login,Medium,2026-07-14,Open
+EV00070,U0245,Pharmacy System,Dormant Account Login,High,2026-08-16,Closed
+EV00071,U0427,Billing System,After-Hours Login,Medium,2026-07-09,Open
+EV00072,U0212,HR Portal,Mass Export Download,High,2026-08-30,Closed
+EV00073,U0291,Billing System,Privilege Escalation Attempt,Critical,2026-07-20,Open
+EV00074,U0083,Billing System,Impossible Travel,Critical,2026-07-26,Open
+EV00075,U0284,Billing System,Dormant Account Login,High,2026-08-19,Open
+EV00076,U0323,Radiology PACS,Failed Login Burst (10+),High,2026-08-01,Closed
+EV00077,U0028,EHR,Privilege Escalation Attempt,Critical,2026-06-29,Closed
+EV00078,U0474,Email,Dormant Account Login,High,2026-09-18,Closed
+EV00079,U0064,Active Directory,After-Hours Login,Medium,2026-08-08,Investigating
+EV00080,U0207,Email,Mass Export Download,High,2026-08-21,Open
+EV00081,U0075,HR Portal,Mass Export Download,High,2026-08-07,Closed
+EV00082,U0157,Active Directory,Failed Login Burst (10+),High,2026-08-12,Investigating
+EV00083,U0220,Pharmacy System,Mass Export Download,High,2026-07-26,Investigating
+EV00084,U0198,Pharmacy System,Impossible Travel,Critical,2026-07-07,Open
+EV00085,U0412,Radiology PACS,Mass Export Download,High,2026-08-10,Open
+EV00086,U0205,Active Directory,Failed Login Burst (10+),High,2026-08-26,Investigating
+EV00087,U0132,EHR,Privilege Escalation Attempt,Critical,2026-07-14,Open
+EV00088,U0492,Billing System,Impossible Travel,Critical,2026-06-30,Open
+EV00089,U0378,Billing System,After-Hours Login,Medium,2026-08-15,Investigating
+EV00090,U0236,Billing System,Impossible Travel,Critical,2026-08-13,Investigating
+EV00091,U0564,Radiology PACS,Failed Login Burst (10+),High,2026-08-04,Open
+EV00092,U0068,Pharmacy System,After-Hours Login,Medium,2026-07-16,Investigating
+EV00093,U0034,EHR,After-Hours Login,Medium,2026-08-15,Open
+EV00094,U0495,Pharmacy System,Dormant Account Login,High,2026-07-28,Closed
+EV00095,U0445,EHR,Privilege Escalation Attempt,Critical,2026-07-19,Open
+EV00096,U0538,Email,After-Hours Login,Medium,2026-08-26,Closed
+EV00097,U0285,Pharmacy System,Failed Login Burst (10+),High,2026-08-28,Investigating
+EV00098,U0092,Active Directory,Mass Export Download,High,2026-08-03,Closed
+EV00099,U0568,Radiology PACS,After-Hours Login,Medium,2026-08-03,Investigating
+EV00100,U0557,VPN,After-Hours Login,Medium,2026-07-26,Open
+EV00101,U0528,Email,Dormant Account Login,High,2026-09-13,Open
+EV00102,U0221,Pharmacy System,After-Hours Login,Medium,2026-08-17,Investigating
+EV00103,U0336,Radiology PACS,After-Hours Login,Medium,2026-08-20,Investigating
+EV00104,U0055,EHR,Failed Login Burst (10+),High,2026-07-08,Investigating
+EV00105,U0204,Active Directory,Dormant Account Login,High,2026-07-01,Investigating
+EV00106,U0477,Billing System,After-Hours Login,Medium,2026-09-20,Closed
+EV00107,U0543,Email,After-Hours Login,Medium,2026-09-15,Open
+EV00108,U0465,HR Portal,Failed Login Burst (10+),High,2026-06-30,Investigating
+EV00109,U0339,Pharmacy System,Mass Export Download,High,2026-08-08,Open
+EV00110,U0325,Radiology PACS,Dormant Account Login,High,2026-09-07,Open
+EV00111,U0579,Pharmacy System,Dormant Account Login,High,2026-09-17,Closed
+EV00112,U0452,HR Portal,Dormant Account Login,High,2026-07-31,Investigating
+EV00113,U0598,HR Portal,Dormant Account Login,High,2026-08-02,Closed
+EV00114,U0342,Billing System,After-Hours Login,Medium,2026-07-02,Closed
+EV00115,U0215,Email,After-Hours Login,Medium,2026-07-01,Closed
+EV00116,U0376,HR Portal,Dormant Account Login,High,2026-09-08,Closed
+EV00117,U0438,Pharmacy System,Dormant Account Login,High,2026-07-28,Open
+EV00118,U0002,Email,Mass Export Download,High,2026-07-21,Closed
+EV00119,U0258,Pharmacy System,Failed Login Burst (10+),High,2026-08-17,Open
+EV00120,U0599,Pharmacy System,Dormant Account Login,High,2026-08-07,Open
+EV00121,U0270,HR Portal,After-Hours Login,Medium,2026-07-13,Closed
+EV00122,U0066,VPN,Dormant Account Login,High,2026-07-06,Open
+EV00123,U0397,Radiology PACS,After-Hours Login,Medium,2026-06-27,Open
+EV00124,U0337,Pharmacy System,Dormant Account Login,High,2026-08-09,Investigating
+EV00125,U0471,EHR,After-Hours Login,Medium,2026-08-24,Investigating
+EV00126,U0227,Active Directory,Dormant Account Login,High,2026-07-22,Open
+EV00127,,EHR,Dormant Account Login,High,2026-08-18,Open
+EV00128,U0331,Radiology PACS,After-Hours Login,Medium,2026-08-12,Open
+EV00129,U0350,Billing System,Dormant Account Login,High,2026-08-24,Investigating
+EV00130,U0238,Email,After-Hours Login,Medium,2026-08-20,Closed
+EV00131,U0473,Billing System,Mass Export Download,High,2026-07-11,Open
+EV00132,U0123,Billing System,Impossible Travel,Critical,2026-08-02,Open
+EV00133,U0157,EHR,Privilege Escalation Attempt,Critical,2026-08-23,Investigating
+EV00134,U0347,Radiology PACS,Dormant Account Login,High,2026-08-31,Open
+EV00135,U0355,VPN,Dormant Account Login,High,2026-07-27,Closed
+EV00136,U0080,HR Portal,Privilege Escalation Attempt,Critical,2026-09-17,Closed
+EV00137,U0018,Active Directory,After-Hours Login,Medium,2026-07-09,Open
+EV00138,U0227,Active Directory,Failed Login Burst (10+),High,2026-07-28,Open
+EV00139,U0083,Billing System,Impossible Travel,Critical,2026-09-05,Closed
+EV00140,U0323,VPN,Dormant Account Login,High,2026-07-12,Investigating
+EV00141,U0370,Radiology PACS,Privilege Escalation Attempt,Critical,2026-09-08,Open
+EV00142,U0205,VPN,Dormant Account Login,High,2026-07-17,Closed
+EV00143,U0337,Radiology PACS,Dormant Account Login,High,2026-07-18,Investigating
+EV00144,U0581,Billing System,Mass Export Download,High,2026-08-23,Open
+EV00145,U0166,HR Portal,Privilege Escalation Attempt,Critical,2026-08-17,Open
+EV00146,U0587,Billing System,Failed Login Burst (10+),High,2026-09-08,Open
+EV00147,U0173,VPN,Dormant Account Login,High,2026-07-18,Open
+EV00148,U0099,Active Directory,Privilege Escalation Attempt,Critical,2026-06-28,Closed
+EV00149,U0218,HR Portal,Privilege Escalation Attempt,Critical,2026-07-03,Open
+EV00150,U0240,Billing System,Privilege Escalation Attempt,Critical,2026-07-08,Open
+EV00151,U0495,Pharmacy System,Mass Export Download,High,2026-09-13,Closed
+EV00152,U0150,Email,After-Hours Login,Medium,2026-07-11,Open
+EV00153,U0409,Email,Privilege Escalation Attempt,Critical,2026-08-21,Closed
+EV00154,U0453,Pharmacy System,After-Hours Login,Medium,2026-08-21,Open
+EV00155,U0192,Email,Mass Export Download,High,2026-09-07,Closed
+EV00156,U0190,Email,Dormant Account Login,High,2026-07-06,Investigating
+EV00157,U0341,Pharmacy System,Mass Export Download,High,2026-07-18,Closed
+EV00158,U0001,HR Portal,Failed Login Burst (10+),High,2026-08-04,Closed
+EV00159,U0437,Pharmacy System,Dormant Account Login,High,2026-07-10,Closed
+EV00160,U0061,VPN,Failed Login Burst (10+),High,2026-08-26,Closed
+EV00161,U0079,Radiology PACS,After-Hours Login,Medium,2026-09-19,Closed
+EV00162,U0451,Radiology PACS,After-Hours Login,Medium,2026-07-26,Investigating
+EV00163,U0098,Email,Mass Export Download,High,2026-07-21,Investigating
+EV00164,U0243,VPN,After-Hours Login,Medium,2026-08-28,Closed
+EV00165,U0466,Pharmacy System,Privilege Escalation Attempt,Critical,2026-09-16,Open
+EV00166,U0578,HR Portal,Failed Login Burst (10+),High,2026-08-15,Investigating
+EV00167,U0538,VPN,Privilege Escalation Attempt,Critical,2026-08-16,Open
+EV00168,U0042,EHR,Dormant Account Login,High,2026-08-28,Investigating
+EV00169,U0230,EHR,Failed Login Burst (10+),High,2026-07-14,Investigating
+EV00170,U0469,HR Portal,Dormant Account Login,High,2026-08-08,Open
+EV00171,U0300,EHR,After-Hours Login,Medium,2026-07-21,Open
+EV00172,U0423,Pharmacy System,After-Hours Login,Medium,2026-09-24,Open
+EV00173,U0329,Active Directory,Failed Login Burst (10+),High,2026-09-22,Open
+EV00174,U0174,Email,Impossible Travel,Critical,2026-08-08,Closed
+EV00175,U0298,EHR,Mass Export Download,High,2026-09-16,Open
+EV00176,U0402,Pharmacy System,Failed Login Burst (10+),High,2026-09-11,Open
+EV00177,U0069,VPN,Mass Export Download,High,2026-07-13,Open
+EV00178,U0253,EHR,Dormant Account Login,High,2026-08-10,Open
+EV00179,U0430,EHR,Failed Login Burst (10+),High,2026-07-27,Open
+EV00180,U0600,Active Directory,Failed Login Burst (10+),High,2026-09-05,Closed
+EV00181,U0433,Email,Impossible Travel,Critical,2026-07-08,Open
+EV00182,U0114,Active Directory,Dormant Account Login,High,2026-07-01,Closed
+EV00183,U0129,Email,After-Hours Login,Medium,2026-08-22,Investigating
+EV00184,U0430,VPN,Failed Login Burst (10+),High,2026-09-23,Closed
+EV00185,U0397,Radiology PACS,Privilege Escalation Attempt,Critical,2026-07-03,Open
+EV00186,U0014,Email,After-Hours Login,Medium,2026-08-24,Investigating
+EV00187,U0530,Email,Failed Login Burst (10+),High,2026-09-23,Closed
+EV00188,U0058,Pharmacy System,Failed Login Burst (10+),High,2026-08-03,Open
+EV00189,U0082,Radiology PACS,Privilege Escalation Attempt,Critical,2026-08-12,Investigating
+EV00190,U0205,HR Portal,Dormant Account Login,High,2026-07-30,Investigating
+EV00191,U0574,Email,Failed Login Burst (10+),High,2026-07-31,Open
+EV00192,U0430,EHR,Privilege Escalation Attempt,Critical,2026-07-27,Closed
+EV00193,U0027,EHR,Dormant Account Login,High,2026-09-08,Open
+EV00194,U0441,Radiology PACS,Impossible Travel,Critical,2026-09-20,Investigating
+EV00195,U0464,VPN,Dormant Account Login,High,2026-06-27,Open
+EV00196,U0253,EHR,Mass Export Download,High,2026-07-26,Open
+EV00197,U0015,Email,After-Hours Login,Medium,2026-08-10,Open
+EV00198,U0565,Billing System,After-Hours Login,Medium,2026-09-07,Open
+EV00199,U0168,Email,Mass Export Download,High,2026-09-16,Open
+EV00200,U0456,Active Directory,Privilege Escalation Attempt,Critical,2026-09-23,Open
+EV00201,U0073,Active Directory,Impossible Travel,Critical,2026-09-13,Investigating
+EV00202,U0584,Active Directory,After-Hours Login,Medium,2026-08-09,Open
+EV00203,U0067,Email,Failed Login Burst (10+),High,2026-07-29,Closed
+EV00204,U0137,HR Portal,After-Hours Login,Medium,2026-08-25,Closed
+EV00205,U0227,Email,Dormant Account Login,High,2026-09-19,Investigating
+EV00206,U0596,Billing System,Privilege Escalation Attempt,Critical,2026-06-29,Open
+EV00207,U0213,Radiology PACS,After-Hours Login,Medium,2026-08-13,Investigating
+EV00208,U0404,Active Directory,Mass Export Download,High,2026-07-04,Closed
+EV00209,U0600,Pharmacy System,After-Hours Login,Medium,2026-09-10,Open
+EV00210,U0388,Billing System,Dormant Account Login,High,2026-09-04,Closed
+EV00211,U0293,Billing System,After-Hours Login,Medium,2026-07-03,Investigating
+EV00212,U0034,VPN,After-Hours Login,Medium,2026-07-25,Closed
+EV00213,U0408,Radiology PACS,Mass Export Download,High,2026-08-09,Investigating
+EV00214,U0001,Billing System,After-Hours Login,Medium,2026-07-30,Open
+EV00215,U0405,HR Portal,Mass Export Download,High,2026-09-12,Investigating
+EV00216,U0159,Billing System,Mass Export Download,High,2026-07-02,Closed
+EV00217,U0524,Billing System,After-Hours Login,Medium,2026-07-11,Open
+EV00218,U0540,Radiology PACS,Privilege Escalation Attempt,Critical,2026-07-04,Investigating
+EV00219,U0215,Radiology PACS,Dormant Account Login,High,2026-07-04,Investigating
+EV00220,U0495,Active Directory,Failed Login Burst (10+),High,2026-07-11,Investigating
+EV00221,U0281,EHR,Failed Login Burst (10+),High,2026-09-13,Open
+EV00222,U0573,EHR,After-Hours Login,Medium,2026-09-16,Investigating
+EV00223,U0161,Billing System,Privilege Escalation Attempt,Critical,2026-08-30,Investigating
+EV00224,U0237,HR Portal,After-Hours Login,Medium,2026-08-29,Open
+EV00225,U0414,EHR,After-Hours Login,Medium,2026-09-08,Open
+EV00226,U0170,Billing System,Privilege Escalation Attempt,Critical,2026-08-17,Open
+EV00227,U0376,Billing System,Dormant Account Login,High,2026-07-15,Closed
+EV00228,U0251,Billing System,Privilege Escalation Attempt,Critical,2026-08-24,Open
+EV00229,U0075,Radiology PACS,After-Hours Login,Medium,2026-07-28,Investigating
+EV00230,U0339,HR Portal,Mass Export Download,High,2026-07-28,Closed
+EV00231,U0489,Billing System,Dormant Account Login,High,2026-07-17,Investigating
+EV00232,U0034,Billing System,After-Hours Login,Medium,2026-08-28,Closed
+EV00233,U0293,VPN,Failed Login Burst (10+),High,2026-07-05,Investigating
+EV00234,U0373,Pharmacy System,Impossible Travel,Critical,2026-07-03,Closed
+EV00235,U0596,Billing System,After-Hours Login,Medium,2026-07-18,Open
+EV00236,U0423,Radiology PACS,After-Hours Login,Medium,2026-07-10,Closed
+EV00237,U0564,EHR,Dormant Account Login,High,2026-09-08,Open
+EV00238,U0273,Pharmacy System,Mass Export Download,High,2026-07-06,Investigating
+EV00239,U0560,VPN,Failed Login Burst (10+),High,2026-08-23,Open
+EV00240,U0574,VPN,Privilege Escalation Attempt,Critical,2026-08-06,Investigating
+EV00241,U0452,Billing System,Failed Login Burst (10+),High,2026-09-19,Open
+EV00242,U0053,Radiology PACS,Mass Export Download,High,2026-09-05,Open
+EV00243,U0489,HR Portal,Dormant Account Login,High,2026-08-29,Open
+EV00244,U0208,Billing System,Privilege Escalation Attempt,Critical,2026-07-17,Investigating
+EV00245,U0426,EHR,After-Hours Login,Medium,2026-09-12,Closed
+EV00246,U0411,HR Portal,Mass Export Download,High,2026-07-13,Closed
+EV00247,U0146,HR Portal,Mass Export Download,High,2026-08-26,Closed
+EV00248,U0578,Billing System,Privilege Escalation Attempt,Critical,2026-09-24,Investigating
+EV00249,U0085,Email,Failed Login Burst (10+),High,2026-07-31,Open
+EV00250,U0500,EHR,Failed Login Burst (10+),High,2026-07-20,Closed
+EV00251,U0177,Pharmacy System,After-Hours Login,Medium,2026-09-01,Open
+EV00252,U0305,VPN,Mass Export Download,High,2026-08-10,Open
+EV00253,U0123,Radiology PACS,After-Hours Login,Medium,2026-09-08,Investigating
+EV00254,U0377,Billing System,Failed Login Burst (10+),High,2026-09-16,Closed
+EV00255,U0197,Active Directory,Privilege Escalation Attempt,Critical,2026-08-24,Closed
+EV00256,U0589,Email,Failed Login Burst (10+),High,2026-09-21,Closed
+EV00257,U0304,Radiology PACS,Privilege Escalation Attempt,Critical,2026-09-13,Investigating
+EV00258,U0250,HR Portal,After-Hours Login,Medium,2026-08-19,Open
+EV00259,U0020,Email,Failed Login Burst (10+),High,2026-08-06,Closed
+EV00260,U0097,Active Directory,After-Hours Login,Medium,2026-06-29,Open
+EV00261,U0129,Active Directory,Failed Login Burst (10+),High,2026-07-12,Investigating
+EV00262,U0190,EHR,Failed Login Burst (10+),High,2026-07-03,Open
+EV00263,U0395,EHR,After-Hours Login,Medium,2026-09-16,Closed
+EV00264,U0121,EHR,Dormant Account Login,High,2026-09-12,Closed
+EV00265,U0214,Pharmacy System,Dormant Account Login,High,2026-08-27,Investigating
+EV00266,U0004,HR Portal,After-Hours Login,Medium,2026-07-19,Closed
+EV00267,U0546,EHR,After-Hours Login,Medium,2026-08-09,Open
+EV00268,U0569,VPN,Failed Login Burst (10+),High,2026-07-04,Open
+EV00269,U0537,HR Portal,Mass Export Download,High,2026-08-19,Open
+EV00270,U0281,Active Directory,Failed Login Burst (10+),High,2026-08-21,Open
+EV00271,U0075,HR Portal,After-Hours Login,Medium,2026-08-18,Closed
+EV00272,U0523,Billing System,Impossible Travel,Critical,2026-08-13,Closed
+EV00273,U0186,EHR,Mass Export Download,High,2026-09-06,Open
+EV00274,U0241,Radiology PACS,Mass Export Download,High,2026-09-18,Closed
+EV00275,U0399,Email,After-Hours Login,Medium,2026-08-07,Open
+EV00276,U0018,Radiology PACS,Dormant Account Login,High,2026-09-06,Closed
+EV00277,U0431,Active Directory,Failed Login Burst (10+),High,2026-08-30,Open
+EV00278,U0269,Radiology PACS,Impossible Travel,Critical,2026-07-27,Open
+EV00279,U0557,HR Portal,Failed Login Burst (10+),High,2026-07-03,Open
+EV00280,U0524,Pharmacy System,After-Hours Login,Medium,2026-09-19,Investigating
+EV00281,U0574,Billing System,Failed Login Burst (10+),High,2026-09-03,Closed
+EV00282,U0598,Email,After-Hours Login,Medium,2026-07-05,Open
+EV00283,U0377,EHR,After-Hours Login,Medium,2026-08-28,Open
+EV00284,U0135,VPN,Failed Login Burst (10+),High,2026-08-09,Investigating
+EV00285,U0383,Pharmacy System,Impossible Travel,Critical,2026-07-04,Closed
+EV00286,U0533,HR Portal,Mass Export Download,High,2026-07-13,Open
+EV00287,U0539,Billing System,Dormant Account Login,High,2026-08-23,Open
+EV00288,U0047,HR Portal,Dormant Account Login,High,2026-09-07,Open
+EV00289,U0581,Radiology PACS,Mass Export Download,High,2026-09-05,Open
+EV00290,U0050,Billing System,After-Hours Login,Medium,2026-09-17,Closed
+EV00291,U0076,HR Portal,Dormant Account Login,High,2026-06-30,Closed
+EV00292,U0171,EHR,Mass Export Download,High,2026-09-01,Investigating
+EV00293,U0566,EHR,After-Hours Login,Medium,2026-07-29,Investigating
+EV00294,U0082,Radiology PACS,Privilege Escalation Attempt,Critical,2026-09-20,Open
+EV00295,U0358,EHR,After-Hours Login,Medium,2026-09-20,Closed
+EV00296,U0594,HR Portal,Failed Login Burst (10+),High,2026-08-17,Investigating
+EV00297,U0584,Billing System,After-Hours Login,Medium,2026-08-19,Open
+EV00298,U0187,VPN,Dormant Account Login,High,2026-07-24,Closed
+EV00299,U0190,VPN,Dormant Account Login,High,2026-08-14,Open
+EV00300,U0571,Active Directory,Dormant Account Login,High,2026-06-27,Closed
+EV00301,U0303,Billing System,Failed Login Burst (10+),High,2026-08-07,Closed
+EV00302,U0002,Radiology PACS,Dormant Account Login,High,2026-08-25,Open
+EV00303,U0355,VPN,Dormant Account Login,High,2026-09-05,Investigating
+EV00304,U0140,Billing System,Failed Login Burst (10+),High,2026-09-09,Open
+EV00305,U0095,Email,Failed Login Burst (10+),High,2026-07-31,Open
+EV00306,U0538,Email,Mass Export Download,High,2026-07-09,Closed
+EV00307,U0349,Active Directory,After-Hours Login,Medium,2026-07-08,Open
+EV00308,U0591,Active Directory,Impossible Travel,Critical,2026-08-10,Open
+EV00309,U0059,VPN,Mass Export Download,High,2026-08-27,Closed
+EV00310,U0529,Active Directory,After-Hours Login,Medium,2026-07-20,Open
+EV00311,U0578,EHR,Dormant Account Login,High,2026-08-15,Closed
+EV00312,U0228,Radiology PACS,After-Hours Login,Medium,2026-08-29,Investigating
+EV00313,U0022,Billing System,After-Hours Login,Medium,2026-08-13,Investigating
+EV00314,U0084,VPN,After-Hours Login,Medium,2026-09-09,Closed
+EV00315,U0388,Email,After-Hours Login,Medium,2026-09-14,Open
+EV00316,U0576,Email,Mass Export Download,High,2026-07-22,Investigating
+EV00317,U0586,Radiology PACS,After-Hours Login,Medium,2026-07-03,Closed
+EV00318,U0508,EHR,Mass Export Download,High,2026-07-03,Investigating
+EV00319,U0228,Billing System,After-Hours Login,Medium,2026-07-12,Closed
+EV00320,U0096,Billing System,Dormant Account Login,High,2026-07-01,Closed

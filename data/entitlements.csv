@@ -1,0 +1,1989 @@
+entitlement_id,user_id,system,entitlement,risk_level,granted_via,granted_date
+E000001,U0001,HR Portal,Employee Records Edit,High,Role,2026-03-29
+E000002,U0001,Active Directory,Standard User,Low,Role,2026-03-29
+E000003,U0001,Email,Standard Mailbox,Low,Role,2026-03-29
+E000004,U0002,Billing System,Claims Entry,Medium,Role,2025-04-23
+E000005,U0002,Billing System,Claims Reporting,Medium,Role,2025-04-23
+E000006,U0002,Active Directory,Standard User,Low,Role,2025-04-23
+E000007,U0002,Email,Standard Mailbox,Low,Role,2025-04-23
+E000008,U0003,EHR,Scheduling,Medium,Role,2020-04-04
+E000009,U0003,Active Directory,Standard User,Low,Role,2020-04-04
+E000010,U0003,Email,Standard Mailbox,Low,Role,2020-04-04
+E000011,U0004,Active Directory,Password Reset Rights,Medium,Role,2016-04-20
+E000012,U0004,VPN,VPN Access,Medium,Role,2016-04-20
+E000013,U0004,Email,Standard Mailbox,Low,Role,2016-04-20
+E000014,U0005,EHR,Patient Records Read/Write,High,Role,2025-12-22
+E000015,U0005,Active Directory,Standard User,Low,Role,2025-12-22
+E000016,U0005,Email,Standard Mailbox,Low,Role,2025-12-22
+E000017,U0006,Active Directory,Standard User,Low,Role,2026-01-26
+E000018,U0006,Email,Standard Mailbox,Low,Role,2026-01-26
+E000019,U0007,Active Directory,Security Log Read,High,Role,2026-01-28
+E000020,U0007,VPN,VPN Access,Medium,Role,2026-01-28
+E000021,U0007,Email,Standard Mailbox,Low,Role,2026-01-28
+E000022,U0008,HR Portal,Employee Records Edit,High,Role,2018-12-15
+E000023,U0008,Active Directory,Standard User,Low,Role,2018-12-15
+E000024,U0008,Email,Standard Mailbox,Low,Role,2018-12-15
+E000025,U0009,EHR,Patient Records Read/Write,High,Role,2025-12-29
+E000026,U0009,Active Directory,Standard User,Low,Role,2025-12-29
+E000027,U0009,Email,Standard Mailbox,Low,Role,2025-12-29
+E000028,U0010,Pharmacy System,Dispense Medication,High,Role,2026-04-01
+E000029,U0010,EHR,Medication Orders Read,High,Role,2026-04-01
+E000030,U0010,Active Directory,Standard User,Low,Role,2026-04-01
+E000031,U0010,Email,Standard Mailbox,Low,Role,2026-04-01
+E000032,U0011,Billing System,Claims Entry,Medium,Role,2015-11-05
+E000033,U0011,Active Directory,Standard User,Low,Role,2015-11-05
+E000034,U0011,Email,Standard Mailbox,Low,Role,2015-11-05
+E000035,U0011,EHR,Patient Records Export,Critical,Exception,2024-04-13
+E000036,U0012,EHR,Patient Registration,High,Role,2015-12-20
+E000037,U0012,Active Directory,Standard User,Low,Role,2015-12-20
+E000038,U0012,Email,Standard Mailbox,Low,Role,2015-12-20
+E000039,U0013,Radiology PACS,Imaging View/Capture,High,Role,2020-01-28
+E000040,U0013,Active Directory,Standard User,Low,Role,2020-01-28
+E000041,U0013,Email,Standard Mailbox,Low,Role,2020-01-28
+E000042,U0014,HR Portal,Payroll Process,High,Role,2025-11-17
+E000043,U0014,Active Directory,Standard User,Low,Role,2025-11-17
+E000044,U0014,Email,Standard Mailbox,Low,Role,2025-11-17
+E000045,U0015,Billing System,Claims Entry,Medium,Role,2016-03-31
+E000046,U0015,Billing System,Claims Reporting,Medium,Role,2016-03-31
+E000047,U0015,Active Directory,Standard User,Low,Role,2016-03-31
+E000048,U0015,Email,Standard Mailbox,Low,Role,2016-03-31
+E000049,U0016,EHR,Patient Records Read,High,Role,2015-02-03
+E000050,U0016,Active Directory,Standard User,Low,Role,2015-02-03
+E000051,U0016,Email,Standard Mailbox,Low,Role,2015-02-03
+E000052,U0017,Pharmacy System,Inventory View,Medium,Role,2023-06-10
+E000053,U0017,Active Directory,Standard User,Low,Role,2023-06-10
+E000054,U0017,Email,Standard Mailbox,Low,Role,2023-06-10
+E000055,U0018,EHR,Patient Records Read/Write,High,Role,2016-02-29
+E000056,U0018,Active Directory,Standard User,Low,Role,2016-02-29
+E000057,U0018,Email,Standard Mailbox,Low,Role,2016-02-29
+E000058,U0019,EHR,Scheduling,Medium,Role,2024-10-17
+E000059,U0019,Active Directory,Standard User,Low,Role,2024-10-17
+E000060,U0019,Email,Standard Mailbox,Low,Role,2024-10-17
+E000061,U0020,Radiology PACS,Imaging View/Capture,High,Role,2021-01-21
+E000062,U0020,Active Directory,Standard User,Low,Role,2021-01-21
+E000063,U0020,Email,Standard Mailbox,Low,Role,2021-01-21
+E000064,U0021,Active Directory,Security Log Read,High,Role,2019-08-01
+E000065,U0021,VPN,VPN Access,Medium,Role,2019-08-01
+E000066,U0021,Email,Standard Mailbox,Low,Role,2019-08-01
+E000067,U0022,Billing System,Claims Entry,Medium,Role,2017-09-17
+E000068,U0022,Active Directory,Standard User,Low,Role,2017-09-17
+E000069,U0022,Email,Standard Mailbox,Low,Role,2017-09-17
+E000070,U0023,Active Directory,Standard User,Low,Role,2025-04-20
+E000071,U0023,Email,Standard Mailbox,Low,Role,2025-04-20
+E000072,U0024,EHR,Patient Registration,High,Role,2021-09-27
+E000073,U0024,Active Directory,Standard User,Low,Role,2021-09-27
+E000074,U0024,Email,Standard Mailbox,Low,Role,2021-09-27
+E000075,U0025,HR Portal,Employee Records Edit,High,Role,2024-11-20
+E000076,U0025,Active Directory,Standard User,Low,Role,2024-11-20
+E000077,U0025,Email,Standard Mailbox,Low,Role,2024-11-20
+E000078,U0026,EHR,Patient Records Read/Write,High,Role,2020-02-19
+E000079,U0026,EHR,Clinical Schedule Admin,Medium,Role,2020-02-19
+E000080,U0026,Active Directory,Standard User,Low,Role,2020-02-19
+E000081,U0026,Email,Standard Mailbox,Low,Role,2020-02-19
+E000082,U0026,HR Portal,Team Time Approval,Medium,Role,2020-02-19
+E000083,U0027,Pharmacy System,Dispense Medication,High,Role,2024-03-20
+E000084,U0027,EHR,Medication Orders Read,High,Role,2024-03-20
+E000085,U0027,Active Directory,Standard User,Low,Role,2024-03-20
+E000086,U0027,Email,Standard Mailbox,Low,Role,2024-03-20
+E000087,U0028,EHR,Patient Records Read/Write,High,Role,2021-02-04
+E000088,U0028,Active Directory,Standard User,Low,Role,2021-02-04
+E000089,U0028,Email,Standard Mailbox,Low,Role,2021-02-04
+E000090,U0029,EHR,Patient Records Read/Write,High,Role,2021-07-24
+E000091,U0029,Active Directory,Standard User,Low,Role,2021-07-24
+E000092,U0029,Email,Standard Mailbox,Low,Role,2021-07-24
+E000093,U0030,Active Directory,Password Reset Rights,Medium,Role,2015-09-09
+E000094,U0030,VPN,VPN Access,Medium,Role,2015-09-09
+E000095,U0030,Email,Standard Mailbox,Low,Role,2015-09-09
+E000096,U0031,Active Directory,Domain Admin,Critical,Role,2025-06-12
+E000097,U0031,VPN,VPN Access,Medium,Role,2025-06-12
+E000098,U0031,Email,Standard Mailbox,Low,Role,2025-06-12
+E000099,U0031,HR Portal,Team Time Approval,Medium,Role,2025-06-12
+E000100,U0032,Active Directory,Standard User,Low,Role,2015-12-10
+E000101,U0032,Email,Standard Mailbox,Low,Role,2015-12-10
+E000102,U0033,Billing System,Claims Entry,Medium,Role,2017-04-22
+E000103,U0033,Active Directory,Standard User,Low,Role,2017-04-22
+E000104,U0033,Email,Standard Mailbox,Low,Role,2017-04-22
+E000105,U0034,Billing System,Claims Entry,Medium,Role,2025-01-19
+E000106,U0034,Active Directory,Standard User,Low,Role,2025-01-19
+E000107,U0034,Email,Standard Mailbox,Low,Role,2025-01-19
+E000108,U0035,Pharmacy System,Dispense Medication,High,Role,2019-10-19
+E000109,U0035,EHR,Medication Orders Read,High,Role,2019-10-19
+E000110,U0035,Active Directory,Standard User,Low,Role,2019-10-19
+E000111,U0035,Email,Standard Mailbox,Low,Role,2019-10-19
+E000112,U0036,EHR,Patient Records Read/Write,High,Role,2026-03-11
+E000113,U0036,EHR,Clinical Schedule Admin,Medium,Role,2026-03-11
+E000114,U0036,Active Directory,Standard User,Low,Role,2026-03-11
+E000115,U0036,Email,Standard Mailbox,Low,Role,2026-03-11
+E000116,U0036,HR Portal,Team Time Approval,Medium,Role,2026-03-11
+E000117,U0037,EHR,Patient Records Read/Write,High,Role,2025-03-28
+E000118,U0037,Active Directory,Standard User,Low,Role,2025-03-28
+E000119,U0037,Email,Standard Mailbox,Low,Role,2025-03-28
+E000120,U0038,Pharmacy System,Dispense Medication,High,Role,2018-06-29
+E000121,U0038,EHR,Medication Orders Read,High,Role,2018-06-29
+E000122,U0038,Active Directory,Standard User,Low,Role,2018-06-29
+E000123,U0038,Email,Standard Mailbox,Low,Role,2018-06-29
+E000124,U0039,EHR,Patient Records Read,High,Role,2022-01-28
+E000125,U0039,Active Directory,Standard User,Low,Role,2022-01-28
+E000126,U0039,Email,Standard Mailbox,Low,Role,2022-01-28
+E000127,U0040,Radiology PACS,Imaging View/Capture,High,Role,2018-06-02
+E000128,U0040,EHR,Patient Records Read,High,Role,2018-06-02
+E000129,U0040,Active Directory,Standard User,Low,Role,2018-06-02
+E000130,U0040,Email,Standard Mailbox,Low,Role,2018-06-02
+E000131,U0041,Billing System,Claims Entry,Medium,Role,2018-12-17
+E000132,U0041,Billing System,Claims Reporting,Medium,Role,2018-12-17
+E000133,U0041,Active Directory,Standard User,Low,Role,2018-12-17
+E000134,U0041,Email,Standard Mailbox,Low,Role,2018-12-17
+E000135,U0042,EHR,Scheduling,Medium,Role,2018-03-26
+E000136,U0042,Active Directory,Standard User,Low,Role,2018-03-26
+E000137,U0042,Email,Standard Mailbox,Low,Role,2018-03-26
+E000138,U0043,Active Directory,Password Reset Rights,Medium,Role,2022-03-31
+E000139,U0043,VPN,VPN Access,Medium,Role,2022-03-31
+E000140,U0043,Email,Standard Mailbox,Low,Role,2022-03-31
+E000141,U0044,Billing System,Claims Entry,Medium,Role,2020-06-08
+E000142,U0044,Active Directory,Standard User,Low,Role,2020-06-08
+E000143,U0044,Email,Standard Mailbox,Low,Role,2020-06-08
+E000144,U0045,EHR,Scheduling,Medium,Role,2022-08-31
+E000145,U0045,Active Directory,Standard User,Low,Role,2022-08-31
+E000146,U0045,Email,Standard Mailbox,Low,Role,2022-08-31
+E000147,U0046,HR Portal,Employee Records Edit,High,Role,2023-12-28
+E000148,U0046,HR Portal,Payroll Approve,Critical,Role,2023-12-28
+E000149,U0046,Active Directory,Standard User,Low,Role,2023-12-28
+E000150,U0046,Email,Standard Mailbox,Low,Role,2023-12-28
+E000151,U0047,Billing System,Claims Entry,Medium,Role,2019-11-16
+E000152,U0047,Billing System,Claims Approve,High,Role,2019-11-16
+E000153,U0047,Active Directory,Standard User,Low,Role,2019-11-16
+E000154,U0047,Email,Standard Mailbox,Low,Role,2019-11-16
+E000155,U0048,Billing System,Claims Entry,Medium,Role,2025-11-26
+E000156,U0048,Active Directory,Standard User,Low,Role,2025-11-26
+E000157,U0048,Email,Standard Mailbox,Low,Role,2025-11-26
+E000158,U0049,Active Directory,Password Reset Rights,Medium,Role,2025-09-15
+E000159,U0049,VPN,VPN Access,Medium,Role,2025-09-15
+E000160,U0049,Email,Standard Mailbox,Low,Role,2025-09-15
+E000161,U0050,EHR,Patient Records Read/Write,High,Role,2016-03-05
+E000162,U0050,Active Directory,Standard User,Low,Role,2016-03-05
+E000163,U0050,Email,Standard Mailbox,Low,Role,2016-03-05
+E000164,U0051,EHR,Patient Records Read/Write,High,Role,2026-03-28
+E000165,U0051,EHR,Clinical Schedule Admin,Medium,Role,2026-03-28
+E000166,U0051,Active Directory,Standard User,Low,Role,2026-03-28
+E000167,U0051,Email,Standard Mailbox,Low,Role,2026-03-28
+E000168,U0051,HR Portal,Team Time Approval,Medium,Role,2026-03-28
+E000169,U0051,Active Directory,Domain Admin,Critical,Manual,2025-09-24
+E000170,U0052,EHR,Patient Records Read/Write,High,Role,2020-11-21
+E000171,U0052,Active Directory,Standard User,Low,Role,2020-11-21
+E000172,U0052,Email,Standard Mailbox,Low,Role,2020-11-21
+E000173,U0053,HR Portal,Employee Records Edit,High,Role,2022-04-03
+E000174,U0053,Active Directory,Standard User,Low,Role,2022-04-03
+E000175,U0053,Email,Standard Mailbox,Low,Role,2022-04-03
+E000176,U0054,Radiology PACS,Imaging View/Capture,High,Role,2015-09-10
+E000177,U0054,EHR,Patient Records Read,High,Role,2015-09-10
+E000178,U0054,Active Directory,Standard User,Low,Role,2015-09-10
+E000179,U0054,Email,Standard Mailbox,Low,Role,2015-09-10
+E000180,U0054,Active Directory,Domain Admin,Critical,Manual,2024-12-24
+E000181,U0055,Active Directory,Password Reset Rights,Medium,Role,2020-08-06
+E000182,U0055,VPN,VPN Access,Medium,Role,2020-08-06
+E000183,U0055,Email,Standard Mailbox,Low,Role,2020-08-06
+E000184,U0056,HR Portal,Employee Records Edit,High,Role,2019-10-03
+E000185,U0056,Active Directory,Standard User,Low,Role,2019-10-03
+E000186,U0056,Email,Standard Mailbox,Low,Role,2019-10-03
+E000187,U0057,Pharmacy System,Dispense Medication,High,Role,2016-11-08
+E000188,U0057,EHR,Medication Orders Read,High,Role,2016-11-08
+E000189,U0057,Active Directory,Standard User,Low,Role,2016-11-08
+E000190,U0057,Email,Standard Mailbox,Low,Role,2016-11-08
+E000191,U0058,Pharmacy System,Inventory View,Medium,Role,2020-10-19
+E000192,U0058,Active Directory,Standard User,Low,Role,2020-10-19
+E000193,U0058,Email,Standard Mailbox,Low,Role,2020-10-19
+E000194,U0059,EHR,Patient Records Read/Write,High,Role,2021-04-16
+E000195,U0059,Active Directory,Standard User,Low,Role,2021-04-16
+E000196,U0059,Email,Standard Mailbox,Low,Role,2021-04-16
+E000197,U0060,EHR,Patient Records Read/Write,High,Role,2024-08-07
+E000198,U0060,Active Directory,Standard User,Low,Role,2024-08-07
+E000199,U0060,Email,Standard Mailbox,Low,Role,2024-08-07
+E000200,U0061,Radiology PACS,Imaging View/Capture,High,Role,2025-06-08
+E000201,U0061,EHR,Patient Records Read,High,Role,2025-06-08
+E000202,U0061,Active Directory,Standard User,Low,Role,2025-06-08
+E000203,U0061,Email,Standard Mailbox,Low,Role,2025-06-08
+E000204,U0062,Pharmacy System,Dispense Medication,High,Role,2022-10-19
+E000205,U0062,EHR,Medication Orders Read,High,Role,2022-10-19
+E000206,U0062,Active Directory,Standard User,Low,Role,2022-10-19
+E000207,U0062,Email,Standard Mailbox,Low,Role,2022-10-19
+E000208,U0063,Pharmacy System,Inventory View,Medium,Role,2020-07-05
+E000209,U0063,Active Directory,Standard User,Low,Role,2020-07-05
+E000210,U0063,Email,Standard Mailbox,Low,Role,2020-07-05
+E000211,U0064,Active Directory,Security Log Read,High,Role,2017-03-08
+E000212,U0064,VPN,VPN Access,Medium,Role,2017-03-08
+E000213,U0064,Email,Standard Mailbox,Low,Role,2017-03-08
+E000214,U0065,Radiology PACS,Imaging View/Capture,High,Role,2015-07-17
+E000215,U0065,Active Directory,Standard User,Low,Role,2015-07-17
+E000216,U0065,Email,Standard Mailbox,Low,Role,2015-07-17
+E000217,U0066,Pharmacy System,Inventory View,Medium,Role,2025-08-25
+E000218,U0066,Active Directory,Standard User,Low,Role,2025-08-25
+E000219,U0066,Email,Standard Mailbox,Low,Role,2025-08-25
+E000220,U0067,Pharmacy System,Inventory View,Medium,Role,2015-05-11
+E000221,U0067,Active Directory,Standard User,Low,Role,2015-05-11
+E000222,U0067,Email,Standard Mailbox,Low,Role,2015-05-11
+E000223,U0068,Billing System,Claims Entry,Medium,Role,2016-01-06
+E000224,U0068,Active Directory,Standard User,Low,Role,2016-01-06
+E000225,U0068,Email,Standard Mailbox,Low,Role,2016-01-06
+E000226,U0069,EHR,Patient Records Read/Write,High,Role,2021-09-26
+E000227,U0069,Active Directory,Standard User,Low,Role,2021-09-26
+E000228,U0069,Email,Standard Mailbox,Low,Role,2021-09-26
+E000229,U0070,Billing System,Claims Entry,Medium,Role,2021-02-01
+E000230,U0070,Billing System,Claims Reporting,Medium,Role,2021-02-01
+E000231,U0070,Active Directory,Standard User,Low,Role,2021-02-01
+E000232,U0070,Email,Standard Mailbox,Low,Role,2021-02-01
+E000233,U0070,VPN,VPN Access,Medium,Exception,2025-11-17
+E000234,U0071,EHR,Patient Records Read,High,Role,2016-11-09
+E000235,U0071,Active Directory,Standard User,Low,Role,2016-11-09
+E000236,U0071,Email,Standard Mailbox,Low,Role,2016-11-09
+E000237,U0072,Billing System,Claims Entry,Medium,Role,2017-11-01
+E000238,U0072,Billing System,Claims Reporting,Medium,Role,2017-11-01
+E000239,U0072,Active Directory,Standard User,Low,Role,2017-11-01
+E000240,U0072,Email,Standard Mailbox,Low,Role,2017-11-01
+E000241,U0073,EHR,Scheduling,Medium,Role,2020-03-09
+E000242,U0073,Active Directory,Standard User,Low,Role,2020-03-09
+E000243,U0073,Email,Standard Mailbox,Low,Role,2020-03-09
+E000244,U0074,EHR,Patient Records Read,High,Role,2023-05-19
+E000245,U0074,Active Directory,Standard User,Low,Role,2023-05-19
+E000246,U0074,Email,Standard Mailbox,Low,Role,2023-05-19
+E000247,U0075,EHR,Patient Records Read/Write,High,Role,2018-08-20
+E000248,U0075,Active Directory,Standard User,Low,Role,2018-08-20
+E000249,U0075,Email,Standard Mailbox,Low,Role,2018-08-20
+E000250,U0076,EHR,Patient Records Read,High,Role,2020-11-18
+E000251,U0076,Active Directory,Standard User,Low,Role,2020-11-18
+E000252,U0076,Email,Standard Mailbox,Low,Role,2020-11-18
+E000253,U0077,Billing System,Claims Entry,Medium,Role,2018-08-17
+E000254,U0077,Active Directory,Standard User,Low,Role,2018-08-17
+E000255,U0077,Email,Standard Mailbox,Low,Role,2018-08-17
+E000256,U0078,Radiology PACS,Imaging View/Capture,High,Role,2019-05-18
+E000257,U0078,EHR,Patient Records Read,High,Role,2019-05-18
+E000258,U0078,Active Directory,Standard User,Low,Role,2019-05-18
+E000259,U0078,Email,Standard Mailbox,Low,Role,2019-05-18
+E000260,U0079,Pharmacy System,Inventory View,Medium,Role,2016-11-20
+E000261,U0079,Active Directory,Standard User,Low,Role,2016-11-20
+E000262,U0079,Email,Standard Mailbox,Low,Role,2016-11-20
+E000263,U0080,HR Portal,Employee Records Edit,High,Role,2024-06-05
+E000264,U0080,Active Directory,Standard User,Low,Role,2024-06-05
+E000265,U0080,Email,Standard Mailbox,Low,Role,2024-06-05
+E000266,U0081,Radiology PACS,Imaging View/Capture,High,Role,2025-02-27
+E000267,U0081,EHR,Patient Records Read,High,Role,2025-02-27
+E000268,U0081,Active Directory,Standard User,Low,Role,2025-02-27
+E000269,U0081,Email,Standard Mailbox,Low,Role,2025-02-27
+E000270,U0082,Billing System,Claims Entry,Medium,Role,2022-08-26
+E000271,U0082,Billing System,Claims Reporting,Medium,Role,2022-08-26
+E000272,U0082,Active Directory,Standard User,Low,Role,2022-08-26
+E000273,U0082,Email,Standard Mailbox,Low,Role,2022-08-26
+E000274,U0083,HR Portal,Payroll Process,High,Role,2016-12-22
+E000275,U0083,Active Directory,Standard User,Low,Role,2016-12-22
+E000276,U0083,Email,Standard Mailbox,Low,Role,2016-12-22
+E000277,U0084,EHR,Patient Records Read/Write,High,Role,2025-07-19
+E000278,U0084,Active Directory,Standard User,Low,Role,2025-07-19
+E000279,U0084,Email,Standard Mailbox,Low,Role,2025-07-19
+E000280,U0085,EHR,Patient Records Read/Write,High,Role,2026-05-03
+E000281,U0085,Active Directory,Standard User,Low,Role,2026-05-03
+E000282,U0085,Email,Standard Mailbox,Low,Role,2026-05-03
+E000283,U0086,EHR,Patient Records Read/Write,High,Role,2016-01-15
+E000284,U0086,Active Directory,Standard User,Low,Role,2016-01-15
+E000285,U0086,Email,Standard Mailbox,Low,Role,2016-01-15
+E000286,U0087,Active Directory,Domain Admin,Critical,Role,2017-01-30
+E000287,U0087,VPN,VPN Access,Medium,Role,2017-01-30
+E000288,U0087,Email,Standard Mailbox,Low,Role,2017-01-30
+E000289,U0088,Pharmacy System,Dispense Medication,High,Role,2015-07-30
+E000290,U0088,EHR,Medication Orders Read,High,Role,2015-07-30
+E000291,U0088,Active Directory,Standard User,Low,Role,2015-07-30
+E000292,U0088,Email,Standard Mailbox,Low,Role,2015-07-30
+E000293,U0089,EHR,Patient Records Read/Write,High,Role,2026-02-23
+E000294,U0089,Active Directory,Standard User,Low,Role,2026-02-23
+E000295,U0089,Email,Standard Mailbox,Low,Role,2026-02-23
+E000296,U0090,Pharmacy System,Dispense Medication,High,Role,2015-03-17
+E000297,U0090,EHR,Medication Orders Read,High,Role,2015-03-17
+E000298,U0090,Active Directory,Standard User,Low,Role,2015-03-17
+E000299,U0090,Email,Standard Mailbox,Low,Role,2015-03-17
+E000300,U0091,EHR,Patient Records Read/Write,High,Role,2024-07-29
+E000301,U0091,Active Directory,Standard User,Low,Role,2024-07-29
+E000302,U0091,Email,Standard Mailbox,Low,Role,2024-07-29
+E000303,U0092,Active Directory,Password Reset Rights,Medium,Role,2021-12-21
+E000304,U0092,VPN,VPN Access,Medium,Role,2021-12-21
+E000305,U0092,Email,Standard Mailbox,Low,Role,2021-12-21
+E000306,U0092,HR Portal,Payroll Approve,Critical,Manual,2024-04-21
+E000307,U0093,Billing System,Claims Entry,Medium,Role,2021-01-29
+E000308,U0093,Billing System,Claims Reporting,Medium,Role,2021-01-29
+E000309,U0093,Active Directory,Standard User,Low,Role,2021-01-29
+E000310,U0093,Email,Standard Mailbox,Low,Role,2021-01-29
+E000311,U0094,Billing System,Claims Entry,Medium,Role,2021-06-21
+E000312,U0094,Active Directory,Standard User,Low,Role,2021-06-21
+E000313,U0094,Email,Standard Mailbox,Low,Role,2021-06-21
+E000314,U0095,Billing System,Claims Entry,Medium,Role,2025-07-20
+E000315,U0095,Active Directory,Standard User,Low,Role,2025-07-20
+E000316,U0095,Email,Standard Mailbox,Low,Role,2025-07-20
+E000317,U0096,Radiology PACS,Imaging View/Capture,High,Role,2015-02-21
+E000318,U0096,Active Directory,Standard User,Low,Role,2015-02-21
+E000319,U0096,Email,Standard Mailbox,Low,Role,2015-02-21
+E000320,U0097,Billing System,Claims Entry,Medium,Role,2025-09-21
+E000321,U0097,Active Directory,Standard User,Low,Role,2025-09-21
+E000322,U0097,Email,Standard Mailbox,Low,Role,2025-09-21
+E000323,U0098,EHR,Patient Records Read/Write,High,Role,2025-02-25
+E000324,U0098,Active Directory,Standard User,Low,Role,2025-02-25
+E000325,U0098,Email,Standard Mailbox,Low,Role,2025-02-25
+E000326,U0099,EHR,Patient Records Read/Write,High,Role,2019-02-08
+E000327,U0099,Active Directory,Standard User,Low,Role,2019-02-08
+E000328,U0099,Email,Standard Mailbox,Low,Role,2019-02-08
+E000329,U0100,Active Directory,Standard User,Low,Role,2017-01-13
+E000330,U0100,Email,Standard Mailbox,Low,Role,2017-01-13
+E000331,U0101,EHR,Patient Registration,High,Role,2017-10-13
+E000332,U0101,Active Directory,Standard User,Low,Role,2017-10-13
+E000333,U0101,Email,Standard Mailbox,Low,Role,2017-10-13
+E000334,U0102,Active Directory,Password Reset Rights,Medium,Role,2022-05-10
+E000335,U0102,VPN,VPN Access,Medium,Role,2022-05-10
+E000336,U0102,Email,Standard Mailbox,Low,Role,2022-05-10
+E000337,U0102,Pharmacy System,Inventory Adjust,High,Manual,2024-09-15
+E000338,U0103,EHR,Patient Records Read,High,Role,2019-04-30
+E000339,U0103,Active Directory,Standard User,Low,Role,2019-04-30
+E000340,U0103,Email,Standard Mailbox,Low,Role,2019-04-30
+E000341,U0104,Active Directory,Standard User,Low,Role,2021-02-04
+E000342,U0104,Email,Standard Mailbox,Low,Role,2021-02-04
+E000343,U0105,HR Portal,Employee Records Edit,High,Role,2021-07-04
+E000344,U0105,Active Directory,Standard User,Low,Role,2021-07-04
+E000345,U0105,Email,Standard Mailbox,Low,Role,2021-07-04
+E000346,U0106,Active Directory,Domain Admin,Critical,Role,2024-10-30
+E000347,U0106,VPN,VPN Access,Medium,Role,2024-10-30
+E000348,U0106,Email,Standard Mailbox,Low,Role,2024-10-30
+E000349,U0107,Pharmacy System,Dispense Medication,High,Role,2016-02-21
+E000350,U0107,EHR,Medication Orders Read,High,Role,2016-02-21
+E000351,U0107,Active Directory,Standard User,Low,Role,2016-02-21
+E000352,U0107,Email,Standard Mailbox,Low,Role,2016-02-21
+E000353,U0108,EHR,Patient Records Read,High,Role,2017-05-26
+E000354,U0108,Active Directory,Standard User,Low,Role,2017-05-26
+E000355,U0108,Email,Standard Mailbox,Low,Role,2017-05-26
+E000356,U0109,EHR,Patient Records Read/Write,High,Role,2019-04-22
+E000357,U0109,Active Directory,Standard User,Low,Role,2019-04-22
+E000358,U0109,Email,Standard Mailbox,Low,Role,2019-04-22
+E000359,U0110,EHR,Patient Registration,High,Role,2022-02-25
+E000360,U0110,Active Directory,Standard User,Low,Role,2022-02-25
+E000361,U0110,Email,Standard Mailbox,Low,Role,2022-02-25
+E000362,U0111,Pharmacy System,Dispense Medication,High,Role,2021-12-12
+E000363,U0111,EHR,Medication Orders Read,High,Role,2021-12-12
+E000364,U0111,Active Directory,Standard User,Low,Role,2021-12-12
+E000365,U0111,Email,Standard Mailbox,Low,Role,2021-12-12
+E000366,U0111,EHR,Patient Records Export,Critical,Exception,2025-07-29
+E000367,U0112,EHR,Patient Records Read/Write,High,Role,2021-07-28
+E000368,U0112,EHR,Clinical Schedule Admin,Medium,Role,2021-07-28
+E000369,U0112,Active Directory,Standard User,Low,Role,2021-07-28
+E000370,U0112,Email,Standard Mailbox,Low,Role,2021-07-28
+E000371,U0112,HR Portal,Team Time Approval,Medium,Role,2021-07-28
+E000372,U0113,Billing System,Claims Entry,Medium,Role,2020-05-03
+E000373,U0113,Active Directory,Standard User,Low,Role,2020-05-03
+E000374,U0113,Email,Standard Mailbox,Low,Role,2020-05-03
+E000375,U0114,Pharmacy System,Dispense Medication,High,Role,2023-10-11
+E000376,U0114,Pharmacy System,Inventory Adjust,High,Role,2023-10-11
+E000377,U0114,Active Directory,Standard User,Low,Role,2023-10-11
+E000378,U0114,Email,Standard Mailbox,Low,Role,2023-10-11
+E000379,U0115,EHR,Patient Records Read/Write,High,Role,2016-11-10
+E000380,U0115,Active Directory,Standard User,Low,Role,2016-11-10
+E000381,U0115,Email,Standard Mailbox,Low,Role,2016-11-10
+E000382,U0116,EHR,Scheduling,Medium,Role,2023-04-20
+E000383,U0116,Active Directory,Standard User,Low,Role,2023-04-20
+E000384,U0116,Email,Standard Mailbox,Low,Role,2023-04-20
+E000385,U0117,Active Directory,Security Log Read,High,Role,2016-02-17
+E000386,U0117,VPN,VPN Access,Medium,Role,2016-02-17
+E000387,U0117,Email,Standard Mailbox,Low,Role,2016-02-17
+E000388,U0118,Active Directory,Domain Admin,Critical,Role,2020-06-15
+E000389,U0118,VPN,VPN Access,Medium,Role,2020-06-15
+E000390,U0118,Email,Standard Mailbox,Low,Role,2020-06-15
+E000391,U0119,Billing System,Claims Entry,Medium,Role,2017-02-13
+E000392,U0119,Billing System,Claims Reporting,Medium,Role,2017-02-13
+E000393,U0119,Active Directory,Standard User,Low,Role,2017-02-13
+E000394,U0119,Email,Standard Mailbox,Low,Role,2017-02-13
+E000395,U0120,Radiology PACS,Imaging View/Capture,High,Role,2016-06-17
+E000396,U0120,Active Directory,Standard User,Low,Role,2016-06-17
+E000397,U0120,Email,Standard Mailbox,Low,Role,2016-06-17
+E000398,U0121,Pharmacy System,Dispense Medication,High,Role,2020-06-30
+E000399,U0121,Pharmacy System,Inventory Adjust,High,Role,2020-06-30
+E000400,U0121,Active Directory,Standard User,Low,Role,2020-06-30
+E000401,U0121,Email,Standard Mailbox,Low,Role,2020-06-30
+E000402,U0122,Radiology PACS,Imaging View/Capture,High,Role,2025-01-31
+E000403,U0122,EHR,Patient Records Read,High,Role,2025-01-31
+E000404,U0122,Active Directory,Standard User,Low,Role,2025-01-31
+E000405,U0122,Email,Standard Mailbox,Low,Role,2025-01-31
+E000406,U0123,EHR,Patient Records Read/Write,High,Role,2017-11-18
+E000407,U0123,Active Directory,Standard User,Low,Role,2017-11-18
+E000408,U0123,Email,Standard Mailbox,Low,Role,2017-11-18
+E000409,U0124,Billing System,Claims Entry,Medium,Role,2023-10-27
+E000410,U0124,Billing System,Claims Reporting,Medium,Role,2023-10-27
+E000411,U0124,Active Directory,Standard User,Low,Role,2023-10-27
+E000412,U0124,Email,Standard Mailbox,Low,Role,2023-10-27
+E000413,U0125,EHR,Patient Records Read/Write,High,Role,2026-03-28
+E000414,U0125,Active Directory,Standard User,Low,Role,2026-03-28
+E000415,U0125,Email,Standard Mailbox,Low,Role,2026-03-28
+E000416,U0126,Pharmacy System,Dispense Medication,High,Role,2019-09-06
+E000417,U0126,EHR,Medication Orders Read,High,Role,2019-09-06
+E000418,U0126,Active Directory,Standard User,Low,Role,2019-09-06
+E000419,U0126,Email,Standard Mailbox,Low,Role,2019-09-06
+E000420,U0127,Billing System,Claims Entry,Medium,Role,2018-06-23
+E000421,U0127,Active Directory,Standard User,Low,Role,2018-06-23
+E000422,U0127,Email,Standard Mailbox,Low,Role,2018-06-23
+E000423,U0128,EHR,Patient Records Read/Write,High,Role,2023-06-25
+E000424,U0128,Active Directory,Standard User,Low,Role,2023-06-25
+E000425,U0128,Email,Standard Mailbox,Low,Role,2023-06-25
+E000426,U0129,EHR,Patient Records Read/Write,High,Role,2021-03-11
+E000427,U0129,Active Directory,Standard User,Low,Role,2021-03-11
+E000428,U0129,Email,Standard Mailbox,Low,Role,2021-03-11
+E000429,U0129,HR Portal,Payroll Approve,Critical,Exception,2024-10-28
+E000430,U0130,Radiology PACS,Imaging View/Capture,High,Role,2016-03-20
+E000431,U0130,Active Directory,Standard User,Low,Role,2016-03-20
+E000432,U0130,Email,Standard Mailbox,Low,Role,2016-03-20
+E000433,U0131,EHR,Patient Records Read/Write,High,Role,2021-09-01
+E000434,U0131,Active Directory,Standard User,Low,Role,2021-09-01
+E000435,U0131,Email,Standard Mailbox,Low,Role,2021-09-01
+E000436,U0132,EHR,Patient Registration,High,Role,2024-07-13
+E000437,U0132,Active Directory,Standard User,Low,Role,2024-07-13
+E000438,U0132,Email,Standard Mailbox,Low,Role,2024-07-13
+E000439,U0133,Pharmacy System,Dispense Medication,High,Role,2023-09-04
+E000440,U0133,Pharmacy System,Inventory Adjust,High,Role,2023-09-04
+E000441,U0133,Active Directory,Standard User,Low,Role,2023-09-04
+E000442,U0133,Email,Standard Mailbox,Low,Role,2023-09-04
+E000443,U0134,Billing System,Claims Entry,Medium,Role,2019-08-30
+E000444,U0134,Active Directory,Standard User,Low,Role,2019-08-30
+E000445,U0134,Email,Standard Mailbox,Low,Role,2019-08-30
+E000446,U0135,Radiology PACS,Imaging View/Capture,High,Role,2019-05-24
+E000447,U0135,Active Directory,Standard User,Low,Role,2019-05-24
+E000448,U0135,Email,Standard Mailbox,Low,Role,2019-05-24
+E000449,U0136,EHR,Patient Records Read/Write,High,Role,2024-08-29
+E000450,U0136,Active Directory,Standard User,Low,Role,2024-08-29
+E000451,U0136,Email,Standard Mailbox,Low,Role,2024-08-29
+E000452,U0137,Active Directory,Standard User,Low,Role,2017-02-11
+E000453,U0137,Email,Standard Mailbox,Low,Role,2017-02-11
+E000454,U0138,Pharmacy System,Dispense Medication,High,Role,2023-02-09
+E000455,U0138,EHR,Medication Orders Read,High,Role,2023-02-09
+E000456,U0138,Active Directory,Standard User,Low,Role,2023-02-09
+E000457,U0138,Email,Standard Mailbox,Low,Role,2023-02-09
+E000458,U0139,HR Portal,Employee Records Edit,High,Role,2021-02-07
+E000459,U0139,Active Directory,Standard User,Low,Role,2021-02-07
+E000460,U0139,Email,Standard Mailbox,Low,Role,2021-02-07
+E000461,U0140,EHR,Patient Records Read/Write,High,Role,2017-11-01
+E000462,U0140,Active Directory,Standard User,Low,Role,2017-11-01
+E000463,U0140,Email,Standard Mailbox,Low,Role,2017-11-01
+E000464,U0140,Billing System,Claims Approve,High,Exception,2024-07-17
+E000465,U0141,Pharmacy System,Dispense Medication,High,Role,2015-11-06
+E000466,U0141,EHR,Medication Orders Read,High,Role,2015-11-06
+E000467,U0141,Active Directory,Standard User,Low,Role,2015-11-06
+E000468,U0141,Email,Standard Mailbox,Low,Role,2015-11-06
+E000469,U0142,Pharmacy System,Dispense Medication,High,Role,2018-03-22
+E000470,U0142,EHR,Medication Orders Read,High,Role,2018-03-22
+E000471,U0142,Active Directory,Standard User,Low,Role,2018-03-22
+E000472,U0142,Email,Standard Mailbox,Low,Role,2018-03-22
+E000473,U0142,HR Portal,Payroll Approve,Critical,Manual,2025-03-26
+E000474,U0143,EHR,Patient Registration,High,Role,2021-01-17
+E000475,U0143,Active Directory,Standard User,Low,Role,2021-01-17
+E000476,U0143,Email,Standard Mailbox,Low,Role,2021-01-17
+E000477,U0144,Pharmacy System,Inventory View,Medium,Role,2019-02-08
+E000478,U0144,Active Directory,Standard User,Low,Role,2019-02-08
+E000479,U0144,Email,Standard Mailbox,Low,Role,2019-02-08
+E000480,U0145,Pharmacy System,Dispense Medication,High,Role,2025-11-13
+E000481,U0145,EHR,Medication Orders Read,High,Role,2025-11-13
+E000482,U0145,Active Directory,Standard User,Low,Role,2025-11-13
+E000483,U0145,Email,Standard Mailbox,Low,Role,2025-11-13
+E000484,U0146,EHR,Patient Records Read,High,Role,2019-04-03
+E000485,U0146,Active Directory,Standard User,Low,Role,2019-04-03
+E000486,U0146,Email,Standard Mailbox,Low,Role,2019-04-03
+E000487,U0147,Billing System,Claims Entry,Medium,Role,2017-05-15
+E000488,U0147,Active Directory,Standard User,Low,Role,2017-05-15
+E000489,U0147,Email,Standard Mailbox,Low,Role,2017-05-15
+E000490,U0148,Pharmacy System,Inventory View,Medium,Role,2016-10-16
+E000491,U0148,Active Directory,Standard User,Low,Role,2016-10-16
+E000492,U0148,Email,Standard Mailbox,Low,Role,2016-10-16
+E000493,U0149,Billing System,Claims Entry,Medium,Role,2018-09-02
+E000494,U0149,Billing System,Claims Reporting,Medium,Role,2018-09-02
+E000495,U0149,Active Directory,Standard User,Low,Role,2018-09-02
+E000496,U0149,Email,Standard Mailbox,Low,Role,2018-09-02
+E000497,U0150,EHR,Patient Records Read/Write,High,Role,2021-01-12
+E000498,U0150,Active Directory,Standard User,Low,Role,2021-01-12
+E000499,U0150,Email,Standard Mailbox,Low,Role,2021-01-12
+E000500,U0150,Active Directory,Domain Admin,Critical,Exception,2025-06-14
+E000501,U0151,EHR,Scheduling,Medium,Role,2017-02-19
+E000502,U0151,Active Directory,Standard User,Low,Role,2017-02-19
+E000503,U0151,Email,Standard Mailbox,Low,Role,2017-02-19
+E000504,U0152,EHR,Patient Registration,High,Role,2019-03-27
+E000505,U0152,Active Directory,Standard User,Low,Role,2019-03-27
+E000506,U0152,Email,Standard Mailbox,Low,Role,2019-03-27
+E000507,U0153,EHR,Patient Records Read/Write,High,Role,2016-09-29
+E000508,U0153,Active Directory,Standard User,Low,Role,2016-09-29
+E000509,U0153,Email,Standard Mailbox,Low,Role,2016-09-29
+E000510,U0154,Pharmacy System,Inventory View,Medium,Role,2015-07-28
+E000511,U0154,Active Directory,Standard User,Low,Role,2015-07-28
+E000512,U0154,Email,Standard Mailbox,Low,Role,2015-07-28
+E000513,U0154,HR Portal,Payroll Approve,Critical,Manual,2025-07-06
+E000514,U0155,EHR,Patient Records Read/Write,High,Role,2015-08-14
+E000515,U0155,Active Directory,Standard User,Low,Role,2015-08-14
+E000516,U0155,Email,Standard Mailbox,Low,Role,2015-08-14
+E000517,U0156,Radiology PACS,Imaging View/Capture,High,Role,2024-01-22
+E000518,U0156,EHR,Patient Records Read,High,Role,2024-01-22
+E000519,U0156,Active Directory,Standard User,Low,Role,2024-01-22
+E000520,U0156,Email,Standard Mailbox,Low,Role,2024-01-22
+E000521,U0157,EHR,Patient Records Read,High,Role,2018-04-12
+E000522,U0157,Active Directory,Standard User,Low,Role,2018-04-12
+E000523,U0157,Email,Standard Mailbox,Low,Role,2018-04-12
+E000524,U0158,Radiology PACS,Imaging View/Capture,High,Role,2015-01-10
+E000525,U0158,EHR,Patient Records Read,High,Role,2015-01-10
+E000526,U0158,Active Directory,Standard User,Low,Role,2015-01-10
+E000527,U0158,Email,Standard Mailbox,Low,Role,2015-01-10
+E000528,U0159,Active Directory,Domain Admin,Critical,Role,2019-07-16
+E000529,U0159,VPN,VPN Access,Medium,Role,2019-07-16
+E000530,U0159,Email,Standard Mailbox,Low,Role,2019-07-16
+E000531,U0160,Active Directory,Security Log Read,High,Role,2016-06-21
+E000532,U0160,VPN,VPN Access,Medium,Role,2016-06-21
+E000533,U0160,Email,Standard Mailbox,Low,Role,2016-06-21
+E000534,U0161,EHR,Patient Records Read/Write,High,Role,2016-09-30
+E000535,U0161,Active Directory,Standard User,Low,Role,2016-09-30
+E000536,U0161,Email,Standard Mailbox,Low,Role,2016-09-30
+E000537,U0162,EHR,Patient Registration,High,Role,2018-08-23
+E000538,U0162,Active Directory,Standard User,Low,Role,2018-08-23
+E000539,U0162,Email,Standard Mailbox,Low,Role,2018-08-23
+E000540,U0163,EHR,Patient Records Read,High,Role,2022-07-07
+E000541,U0163,Active Directory,Standard User,Low,Role,2022-07-07
+E000542,U0163,Email,Standard Mailbox,Low,Role,2022-07-07
+E000543,U0164,EHR,Patient Records Read/Write,High,Role,2020-05-25
+E000544,U0164,Active Directory,Standard User,Low,Role,2020-05-25
+E000545,U0164,Email,Standard Mailbox,Low,Role,2020-05-25
+E000546,U0165,Pharmacy System,Inventory View,Medium,Role,2016-01-14
+E000547,U0165,Active Directory,Standard User,Low,Role,2016-01-14
+E000548,U0165,Email,Standard Mailbox,Low,Role,2016-01-14
+E000549,U0166,Billing System,Claims Entry,Medium,Role,2024-08-28
+E000550,U0166,Active Directory,Standard User,Low,Role,2024-08-28
+E000551,U0166,Email,Standard Mailbox,Low,Role,2024-08-28
+E000552,U0167,EHR,Scheduling,Medium,Role,2023-07-09
+E000553,U0167,Active Directory,Standard User,Low,Role,2023-07-09
+E000554,U0167,Email,Standard Mailbox,Low,Role,2023-07-09
+E000555,U0168,HR Portal,Payroll Process,High,Role,2023-07-28
+E000556,U0168,Active Directory,Standard User,Low,Role,2023-07-28
+E000557,U0168,Email,Standard Mailbox,Low,Role,2023-07-28
+E000558,U0169,Billing System,Claims Entry,Medium,Role,2018-06-15
+E000559,U0169,Active Directory,Standard User,Low,Role,2018-06-15
+E000560,U0169,Email,Standard Mailbox,Low,Role,2018-06-15
+E000561,U0170,EHR,Scheduling,Medium,Role,2023-06-06
+E000562,U0170,EHR,Patient Registration,High,Role,2023-06-06
+E000563,U0170,Active Directory,Standard User,Low,Role,2023-06-06
+E000564,U0170,Email,Standard Mailbox,Low,Role,2023-06-06
+E000565,U0171,Billing System,Claims Entry,Medium,Role,2021-09-23
+E000566,U0171,Active Directory,Standard User,Low,Role,2021-09-23
+E000567,U0171,Email,Standard Mailbox,Low,Role,2021-09-23
+E000568,U0172,Pharmacy System,Inventory View,Medium,Role,2025-05-09
+E000569,U0172,Active Directory,Standard User,Low,Role,2025-05-09
+E000570,U0172,Email,Standard Mailbox,Low,Role,2025-05-09
+E000571,U0173,EHR,Patient Records Read,High,Role,2022-12-13
+E000572,U0173,Active Directory,Standard User,Low,Role,2022-12-13
+E000573,U0173,Email,Standard Mailbox,Low,Role,2022-12-13
+E000574,U0174,EHR,Patient Registration,High,Role,2020-01-09
+E000575,U0174,Active Directory,Standard User,Low,Role,2020-01-09
+E000576,U0174,Email,Standard Mailbox,Low,Role,2020-01-09
+E000577,U0175,EHR,Patient Records Read/Write,High,Role,2016-07-01
+E000578,U0175,Active Directory,Standard User,Low,Role,2016-07-01
+E000579,U0175,Email,Standard Mailbox,Low,Role,2016-07-01
+E000580,U0176,EHR,Patient Records Read/Write,High,Role,2022-07-26
+E000581,U0176,Active Directory,Standard User,Low,Role,2022-07-26
+E000582,U0176,Email,Standard Mailbox,Low,Role,2022-07-26
+E000583,U0177,Billing System,Claims Entry,Medium,Role,2016-11-08
+E000584,U0177,Billing System,Claims Reporting,Medium,Role,2016-11-08
+E000585,U0177,Active Directory,Standard User,Low,Role,2016-11-08
+E000586,U0177,Email,Standard Mailbox,Low,Role,2016-11-08
+E000587,U0178,Active Directory,Standard User,Low,Role,2024-10-27
+E000588,U0178,Email,Standard Mailbox,Low,Role,2024-10-27
+E000589,U0179,EHR,Patient Registration,High,Role,2024-12-10
+E000590,U0179,Active Directory,Standard User,Low,Role,2024-12-10
+E000591,U0179,Email,Standard Mailbox,Low,Role,2024-12-10
+E000592,U0180,Active Directory,Domain Admin,Critical,Role,2016-08-01
+E000593,U0180,VPN,VPN Access,Medium,Role,2016-08-01
+E000594,U0180,Email,Standard Mailbox,Low,Role,2016-08-01
+E000595,U0180,HR Portal,Team Time Approval,Medium,Role,2016-08-01
+E000596,U0181,EHR,Patient Registration,High,Role,2023-06-19
+E000597,U0181,Active Directory,Standard User,Low,Role,2023-06-19
+E000598,U0181,Email,Standard Mailbox,Low,Role,2023-06-19
+E000599,U0182,EHR,Patient Registration,High,Role,2023-10-12
+E000600,U0182,Active Directory,Standard User,Low,Role,2023-10-12
+E000601,U0182,Email,Standard Mailbox,Low,Role,2023-10-12
+E000602,U0183,Pharmacy System,Inventory View,Medium,Role,2021-12-18
+E000603,U0183,Active Directory,Standard User,Low,Role,2021-12-18
+E000604,U0183,Email,Standard Mailbox,Low,Role,2021-12-18
+E000605,U0184,Billing System,Claims Entry,Medium,Role,2023-03-13
+E000606,U0184,Active Directory,Standard User,Low,Role,2023-03-13
+E000607,U0184,Email,Standard Mailbox,Low,Role,2023-03-13
+E000608,U0185,HR Portal,Employee Records Edit,High,Role,2019-07-25
+E000609,U0185,Active Directory,Standard User,Low,Role,2019-07-25
+E000610,U0185,Email,Standard Mailbox,Low,Role,2019-07-25
+E000611,U0186,Radiology PACS,Imaging View/Capture,High,Role,2022-12-31
+E000612,U0186,EHR,Patient Records Read,High,Role,2022-12-31
+E000613,U0186,Active Directory,Standard User,Low,Role,2022-12-31
+E000614,U0186,Email,Standard Mailbox,Low,Role,2022-12-31
+E000615,U0187,Billing System,Claims Entry,Medium,Role,2021-12-19
+E000616,U0187,Active Directory,Standard User,Low,Role,2021-12-19
+E000617,U0187,Email,Standard Mailbox,Low,Role,2021-12-19
+E000618,U0188,EHR,Patient Records Read/Write,High,Role,2018-09-29
+E000619,U0188,Active Directory,Standard User,Low,Role,2018-09-29
+E000620,U0188,Email,Standard Mailbox,Low,Role,2018-09-29
+E000621,U0189,Active Directory,Domain Admin,Critical,Role,2021-03-20
+E000622,U0189,VPN,VPN Access,Medium,Role,2021-03-20
+E000623,U0189,Email,Standard Mailbox,Low,Role,2021-03-20
+E000624,U0189,HR Portal,Team Time Approval,Medium,Role,2021-03-20
+E000625,U0190,EHR,Patient Records Read,High,Role,2024-03-27
+E000626,U0190,Active Directory,Standard User,Low,Role,2024-03-27
+E000627,U0190,Email,Standard Mailbox,Low,Role,2024-03-27
+E000628,U0191,EHR,Patient Registration,High,Role,2025-06-01
+E000629,U0191,Active Directory,Standard User,Low,Role,2025-06-01
+E000630,U0191,Email,Standard Mailbox,Low,Role,2025-06-01
+E000631,U0192,EHR,Patient Records Read,High,Role,2026-03-02
+E000632,U0192,Active Directory,Standard User,Low,Role,2026-03-02
+E000633,U0192,Email,Standard Mailbox,Low,Role,2026-03-02
+E000634,U0193,EHR,Patient Records Read/Write,High,Role,2016-03-14
+E000635,U0193,Active Directory,Standard User,Low,Role,2016-03-14
+E000636,U0193,Email,Standard Mailbox,Low,Role,2016-03-14
+E000637,U0194,EHR,Scheduling,Medium,Role,2020-03-17
+E000638,U0194,Active Directory,Standard User,Low,Role,2020-03-17
+E000639,U0194,Email,Standard Mailbox,Low,Role,2020-03-17
+E000640,U0195,EHR,Patient Records Read/Write,High,Role,2018-06-27
+E000641,U0195,Active Directory,Standard User,Low,Role,2018-06-27
+E000642,U0195,Email,Standard Mailbox,Low,Role,2018-06-27
+E000643,U0196,EHR,Patient Records Read/Write,High,Role,2021-09-08
+E000644,U0196,Active Directory,Standard User,Low,Role,2021-09-08
+E000645,U0196,Email,Standard Mailbox,Low,Role,2021-09-08
+E000646,U0197,Radiology PACS,Imaging View/Capture,High,Role,2018-04-26
+E000647,U0197,Active Directory,Standard User,Low,Role,2018-04-26
+E000648,U0197,Email,Standard Mailbox,Low,Role,2018-04-26
+E000649,U0198,EHR,Scheduling,Medium,Role,2016-11-30
+E000650,U0198,Active Directory,Standard User,Low,Role,2016-11-30
+E000651,U0198,Email,Standard Mailbox,Low,Role,2016-11-30
+E000652,U0198,VPN,VPN Access,Medium,Manual,2025-02-25
+E000653,U0199,EHR,Patient Records Read/Write,High,Role,2016-07-13
+E000654,U0199,EHR,Clinical Schedule Admin,Medium,Role,2016-07-13
+E000655,U0199,Active Directory,Standard User,Low,Role,2016-07-13
+E000656,U0199,Email,Standard Mailbox,Low,Role,2016-07-13
+E000657,U0199,HR Portal,Team Time Approval,Medium,Role,2016-07-13
+E000658,U0200,Billing System,Claims Entry,Medium,Role,2016-07-30
+E000659,U0200,Active Directory,Standard User,Low,Role,2016-07-30
+E000660,U0200,Email,Standard Mailbox,Low,Role,2016-07-30
+E000661,U0201,HR Portal,Employee Records Edit,High,Role,2020-02-22
+E000662,U0201,Active Directory,Standard User,Low,Role,2020-02-22
+E000663,U0201,Email,Standard Mailbox,Low,Role,2020-02-22
+E000664,U0202,Active Directory,Standard User,Low,Role,2017-03-13
+E000665,U0202,Email,Standard Mailbox,Low,Role,2017-03-13
+E000666,U0203,Pharmacy System,Dispense Medication,High,Role,2025-01-07
+E000667,U0203,EHR,Medication Orders Read,High,Role,2025-01-07
+E000668,U0203,Active Directory,Standard User,Low,Role,2025-01-07
+E000669,U0203,Email,Standard Mailbox,Low,Role,2025-01-07
+E000670,U0204,EHR,Patient Records Read/Write,High,Role,2026-03-13
+E000671,U0204,Active Directory,Standard User,Low,Role,2026-03-13
+E000672,U0204,Email,Standard Mailbox,Low,Role,2026-03-13
+E000673,U0205,EHR,Patient Records Read/Write,High,Role,2017-11-05
+E000674,U0205,Active Directory,Standard User,Low,Role,2017-11-05
+E000675,U0205,Email,Standard Mailbox,Low,Role,2017-11-05
+E000676,U0205,VPN,VPN Access,Medium,Manual,2026-01-01
+E000677,U0206,EHR,Patient Records Read,High,Role,2025-02-05
+E000678,U0206,Active Directory,Standard User,Low,Role,2025-02-05
+E000679,U0206,Email,Standard Mailbox,Low,Role,2025-02-05
+E000680,U0207,EHR,Patient Records Read/Write,High,Role,2021-07-27
+E000681,U0207,Active Directory,Standard User,Low,Role,2021-07-27
+E000682,U0207,Email,Standard Mailbox,Low,Role,2021-07-27
+E000683,U0208,Active Directory,Password Reset Rights,Medium,Role,2019-11-01
+E000684,U0208,VPN,VPN Access,Medium,Role,2019-11-01
+E000685,U0208,Email,Standard Mailbox,Low,Role,2019-11-01
+E000686,U0209,EHR,Patient Records Read/Write,High,Role,2024-02-03
+E000687,U0209,Active Directory,Standard User,Low,Role,2024-02-03
+E000688,U0209,Email,Standard Mailbox,Low,Role,2024-02-03
+E000689,U0210,Pharmacy System,Inventory View,Medium,Role,2026-04-28
+E000690,U0210,Active Directory,Standard User,Low,Role,2026-04-28
+E000691,U0210,Email,Standard Mailbox,Low,Role,2026-04-28
+E000692,U0211,Active Directory,Password Reset Rights,Medium,Role,2022-10-20
+E000693,U0211,VPN,VPN Access,Medium,Role,2022-10-20
+E000694,U0211,Email,Standard Mailbox,Low,Role,2022-10-20
+E000695,U0212,Pharmacy System,Dispense Medication,High,Role,2026-02-23
+E000696,U0212,Pharmacy System,Inventory Adjust,High,Role,2026-02-23
+E000697,U0212,Active Directory,Standard User,Low,Role,2026-02-23
+E000698,U0212,Email,Standard Mailbox,Low,Role,2026-02-23
+E000699,U0213,EHR,Patient Records Read/Write,High,Role,2017-05-25
+E000700,U0213,EHR,Clinical Schedule Admin,Medium,Role,2017-05-25
+E000701,U0213,Active Directory,Standard User,Low,Role,2017-05-25
+E000702,U0213,Email,Standard Mailbox,Low,Role,2017-05-25
+E000703,U0213,HR Portal,Team Time Approval,Medium,Role,2017-05-25
+E000704,U0213,Billing System,Claims Approve,High,Manual,2026-02-03
+E000705,U0214,HR Portal,Employee Records Edit,High,Role,2022-09-03
+E000706,U0214,HR Portal,Payroll Approve,Critical,Role,2022-09-03
+E000707,U0214,Active Directory,Standard User,Low,Role,2022-09-03
+E000708,U0214,Email,Standard Mailbox,Low,Role,2022-09-03
+E000709,U0215,Active Directory,Domain Admin,Critical,Role,2025-05-05
+E000710,U0215,VPN,VPN Access,Medium,Role,2025-05-05
+E000711,U0215,Email,Standard Mailbox,Low,Role,2025-05-05
+E000712,U0216,Active Directory,Domain Admin,Critical,Role,2019-10-04
+E000713,U0216,VPN,VPN Access,Medium,Role,2019-10-04
+E000714,U0216,Email,Standard Mailbox,Low,Role,2019-10-04
+E000715,U0217,EHR,Patient Records Read/Write,High,Role,2016-11-28
+E000716,U0217,Active Directory,Standard User,Low,Role,2016-11-28
+E000717,U0217,Email,Standard Mailbox,Low,Role,2016-11-28
+E000718,U0218,EHR,Patient Records Read/Write,High,Role,2025-03-12
+E000719,U0218,Active Directory,Standard User,Low,Role,2025-03-12
+E000720,U0218,Email,Standard Mailbox,Low,Role,2025-03-12
+E000721,U0219,EHR,Patient Registration,High,Role,2018-09-20
+E000722,U0219,Active Directory,Standard User,Low,Role,2018-09-20
+E000723,U0219,Email,Standard Mailbox,Low,Role,2018-09-20
+E000724,U0220,Billing System,Claims Entry,Medium,Role,2021-02-03
+E000725,U0220,Billing System,Claims Approve,High,Role,2021-02-03
+E000726,U0220,Active Directory,Standard User,Low,Role,2021-02-03
+E000727,U0220,Email,Standard Mailbox,Low,Role,2021-02-03
+E000728,U0221,Billing System,Claims Entry,Medium,Role,2015-12-28
+E000729,U0221,Active Directory,Standard User,Low,Role,2015-12-28
+E000730,U0221,Email,Standard Mailbox,Low,Role,2015-12-28
+E000731,U0222,Pharmacy System,Dispense Medication,High,Role,2023-11-04
+E000732,U0222,EHR,Medication Orders Read,High,Role,2023-11-04
+E000733,U0222,Active Directory,Standard User,Low,Role,2023-11-04
+E000734,U0222,Email,Standard Mailbox,Low,Role,2023-11-04
+E000735,U0223,Radiology PACS,Imaging View/Capture,High,Role,2018-11-27
+E000736,U0223,EHR,Patient Records Read,High,Role,2018-11-27
+E000737,U0223,Active Directory,Standard User,Low,Role,2018-11-27
+E000738,U0223,Email,Standard Mailbox,Low,Role,2018-11-27
+E000739,U0224,EHR,Scheduling,Medium,Role,2016-09-04
+E000740,U0224,EHR,Patient Registration,High,Role,2016-09-04
+E000741,U0224,Active Directory,Standard User,Low,Role,2016-09-04
+E000742,U0224,Email,Standard Mailbox,Low,Role,2016-09-04
+E000743,U0225,Billing System,Claims Entry,Medium,Role,2020-03-11
+E000744,U0225,Active Directory,Standard User,Low,Role,2020-03-11
+E000745,U0225,Email,Standard Mailbox,Low,Role,2020-03-11
+E000746,U0226,EHR,Patient Registration,High,Role,2016-01-22
+E000747,U0226,Active Directory,Standard User,Low,Role,2016-01-22
+E000748,U0226,Email,Standard Mailbox,Low,Role,2016-01-22
+E000749,U0227,EHR,Patient Records Read/Write,High,Role,2018-09-26
+E000750,U0227,Active Directory,Standard User,Low,Role,2018-09-26
+E000751,U0227,Email,Standard Mailbox,Low,Role,2018-09-26
+E000752,U0228,Pharmacy System,Inventory View,Medium,Role,2020-10-02
+E000753,U0228,Active Directory,Standard User,Low,Role,2020-10-02
+E000754,U0228,Email,Standard Mailbox,Low,Role,2020-10-02
+E000755,U0229,Radiology PACS,Imaging View/Capture,High,Role,2019-09-12
+E000756,U0229,Active Directory,Standard User,Low,Role,2019-09-12
+E000757,U0229,Email,Standard Mailbox,Low,Role,2019-09-12
+E000758,U0230,EHR,Patient Records Read/Write,High,Role,2017-05-18
+E000759,U0230,Active Directory,Standard User,Low,Role,2017-05-18
+E000760,U0230,Email,Standard Mailbox,Low,Role,2017-05-18
+E000761,U0231,EHR,Patient Records Read/Write,High,Role,2018-11-06
+E000762,U0231,Active Directory,Standard User,Low,Role,2018-11-06
+E000763,U0231,Email,Standard Mailbox,Low,Role,2018-11-06
+E000764,U0232,Billing System,Claims Entry,Medium,Role,2017-01-01
+E000765,U0232,Billing System,Claims Reporting,Medium,Role,2017-01-01
+E000766,U0232,Active Directory,Standard User,Low,Role,2017-01-01
+E000767,U0232,Email,Standard Mailbox,Low,Role,2017-01-01
+E000768,U0233,Active Directory,Standard User,Low,Role,2024-09-29
+E000769,U0233,Email,Standard Mailbox,Low,Role,2024-09-29
+E000770,U0234,Radiology PACS,Imaging View/Capture,High,Role,2022-06-17
+E000771,U0234,Active Directory,Standard User,Low,Role,2022-06-17
+E000772,U0234,Email,Standard Mailbox,Low,Role,2022-06-17
+E000773,U0235,EHR,Patient Registration,High,Role,2025-11-16
+E000774,U0235,Active Directory,Standard User,Low,Role,2025-11-16
+E000775,U0235,Email,Standard Mailbox,Low,Role,2025-11-16
+E000776,U0236,HR Portal,Employee Records Edit,High,Role,2024-12-17
+E000777,U0236,HR Portal,Payroll Approve,Critical,Role,2024-12-17
+E000778,U0236,Active Directory,Standard User,Low,Role,2024-12-17
+E000779,U0236,Email,Standard Mailbox,Low,Role,2024-12-17
+E000780,U0237,Pharmacy System,Dispense Medication,High,Role,2025-10-21
+E000781,U0237,EHR,Medication Orders Read,High,Role,2025-10-21
+E000782,U0237,Active Directory,Standard User,Low,Role,2025-10-21
+E000783,U0237,Email,Standard Mailbox,Low,Role,2025-10-21
+E000784,U0237,Pharmacy System,Inventory Adjust,High,Manual,2025-11-06
+E000785,U0238,HR Portal,Employee Records Edit,High,Role,2023-05-22
+E000786,U0238,Active Directory,Standard User,Low,Role,2023-05-22
+E000787,U0238,Email,Standard Mailbox,Low,Role,2023-05-22
+E000788,U0239,EHR,Patient Records Read/Write,High,Role,2019-03-27
+E000789,U0239,Active Directory,Standard User,Low,Role,2019-03-27
+E000790,U0239,Email,Standard Mailbox,Low,Role,2019-03-27
+E000791,U0239,HR Portal,Payroll Approve,Critical,Exception,2024-11-28
+E000792,U0240,EHR,Patient Records Read/Write,High,Role,2015-04-21
+E000793,U0240,Active Directory,Standard User,Low,Role,2015-04-21
+E000794,U0240,Email,Standard Mailbox,Low,Role,2015-04-21
+E000795,U0241,EHR,Scheduling,Medium,Role,2022-01-25
+E000796,U0241,Active Directory,Standard User,Low,Role,2022-01-25
+E000797,U0241,Email,Standard Mailbox,Low,Role,2022-01-25
+E000798,U0241,HR Portal,Payroll Approve,Critical,Exception,2025-07-29
+E000799,U0242,HR Portal,Employee Records Edit,High,Role,2019-10-12
+E000800,U0242,Active Directory,Standard User,Low,Role,2019-10-12
+E000801,U0242,Email,Standard Mailbox,Low,Role,2019-10-12
+E000802,U0242,HR Portal,Payroll Approve,Critical,Exception,2025-04-25
+E000803,U0243,EHR,Patient Records Read,High,Role,2016-10-19
+E000804,U0243,Active Directory,Standard User,Low,Role,2016-10-19
+E000805,U0243,Email,Standard Mailbox,Low,Role,2016-10-19
+E000806,U0244,Pharmacy System,Inventory View,Medium,Role,2018-02-02
+E000807,U0244,Active Directory,Standard User,Low,Role,2018-02-02
+E000808,U0244,Email,Standard Mailbox,Low,Role,2018-02-02
+E000809,U0244,Billing System,Claims Approve,High,Manual,2024-04-07
+E000810,U0245,Radiology PACS,Imaging View/Capture,High,Role,2022-04-19
+E000811,U0245,Active Directory,Standard User,Low,Role,2022-04-19
+E000812,U0245,Email,Standard Mailbox,Low,Role,2022-04-19
+E000813,U0246,EHR,Scheduling,Medium,Role,2015-10-03
+E000814,U0246,Active Directory,Standard User,Low,Role,2015-10-03
+E000815,U0246,Email,Standard Mailbox,Low,Role,2015-10-03
+E000816,U0247,Radiology PACS,Imaging View/Capture,High,Role,2023-10-30
+E000817,U0247,Active Directory,Standard User,Low,Role,2023-10-30
+E000818,U0247,Email,Standard Mailbox,Low,Role,2023-10-30
+E000819,U0248,Billing System,Claims Entry,Medium,Role,2016-02-01
+E000820,U0248,Billing System,Claims Reporting,Medium,Role,2016-02-01
+E000821,U0248,Active Directory,Standard User,Low,Role,2016-02-01
+E000822,U0248,Email,Standard Mailbox,Low,Role,2016-02-01
+E000823,U0249,Billing System,Claims Entry,Medium,Role,2020-06-01
+E000824,U0249,Active Directory,Standard User,Low,Role,2020-06-01
+E000825,U0249,Email,Standard Mailbox,Low,Role,2020-06-01
+E000826,U0250,Billing System,Claims Entry,Medium,Role,2020-04-17
+E000827,U0250,Billing System,Claims Reporting,Medium,Role,2020-04-17
+E000828,U0250,Active Directory,Standard User,Low,Role,2020-04-17
+E000829,U0250,Email,Standard Mailbox,Low,Role,2020-04-17
+E000830,U0251,Radiology PACS,Imaging View/Capture,High,Role,2022-10-03
+E000831,U0251,EHR,Patient Records Read,High,Role,2022-10-03
+E000832,U0251,Active Directory,Standard User,Low,Role,2022-10-03
+E000833,U0251,Email,Standard Mailbox,Low,Role,2022-10-03
+E000834,U0252,EHR,Scheduling,Medium,Role,2016-03-12
+E000835,U0252,Active Directory,Standard User,Low,Role,2016-03-12
+E000836,U0252,Email,Standard Mailbox,Low,Role,2016-03-12
+E000837,U0253,Pharmacy System,Dispense Medication,High,Role,2017-01-04
+E000838,U0253,EHR,Medication Orders Read,High,Role,2017-01-04
+E000839,U0253,Active Directory,Standard User,Low,Role,2017-01-04
+E000840,U0253,Email,Standard Mailbox,Low,Role,2017-01-04
+E000841,U0253,Active Directory,Domain Admin,Critical,Exception,2025-07-22
+E000842,U0254,EHR,Patient Records Read,High,Role,2018-12-04
+E000843,U0254,Active Directory,Standard User,Low,Role,2018-12-04
+E000844,U0254,Email,Standard Mailbox,Low,Role,2018-12-04
+E000845,U0255,EHR,Patient Records Read,High,Role,2015-08-19
+E000846,U0255,Active Directory,Standard User,Low,Role,2015-08-19
+E000847,U0255,Email,Standard Mailbox,Low,Role,2015-08-19
+E000848,U0256,Active Directory,Domain Admin,Critical,Role,2019-10-12
+E000849,U0256,VPN,VPN Access,Medium,Role,2019-10-12
+E000850,U0256,Email,Standard Mailbox,Low,Role,2019-10-12
+E000851,U0256,HR Portal,Team Time Approval,Medium,Role,2019-10-12
+E000852,U0257,HR Portal,Payroll Process,High,Role,2025-02-20
+E000853,U0257,Active Directory,Standard User,Low,Role,2025-02-20
+E000854,U0257,Email,Standard Mailbox,Low,Role,2025-02-20
+E000855,U0258,EHR,Patient Records Read/Write,High,Role,2016-03-23
+E000856,U0258,Active Directory,Standard User,Low,Role,2016-03-23
+E000857,U0258,Email,Standard Mailbox,Low,Role,2016-03-23
+E000858,U0259,EHR,Patient Records Read/Write,High,Role,2017-04-10
+E000859,U0259,Active Directory,Standard User,Low,Role,2017-04-10
+E000860,U0259,Email,Standard Mailbox,Low,Role,2017-04-10
+E000861,U0260,Radiology PACS,Imaging View/Capture,High,Role,2023-08-11
+E000862,U0260,Active Directory,Standard User,Low,Role,2023-08-11
+E000863,U0260,Email,Standard Mailbox,Low,Role,2023-08-11
+E000864,U0261,EHR,Patient Records Read/Write,High,Role,2020-01-20
+E000865,U0261,Active Directory,Standard User,Low,Role,2020-01-20
+E000866,U0261,Email,Standard Mailbox,Low,Role,2020-01-20
+E000867,U0262,HR Portal,Payroll Process,High,Role,2019-07-31
+E000868,U0262,Active Directory,Standard User,Low,Role,2019-07-31
+E000869,U0262,Email,Standard Mailbox,Low,Role,2019-07-31
+E000870,U0263,Billing System,Claims Entry,Medium,Role,2025-06-14
+E000871,U0263,Active Directory,Standard User,Low,Role,2025-06-14
+E000872,U0263,Email,Standard Mailbox,Low,Role,2025-06-14
+E000873,U0264,EHR,Patient Records Read/Write,High,Role,2016-12-11
+E000874,U0264,Active Directory,Standard User,Low,Role,2016-12-11
+E000875,U0264,Email,Standard Mailbox,Low,Role,2016-12-11
+E000876,U0265,EHR,Patient Registration,High,Role,2018-04-23
+E000877,U0265,Active Directory,Standard User,Low,Role,2018-04-23
+E000878,U0265,Email,Standard Mailbox,Low,Role,2018-04-23
+E000879,U0266,EHR,Patient Records Read/Write,High,Role,2019-05-07
+E000880,U0266,Active Directory,Standard User,Low,Role,2019-05-07
+E000881,U0266,Email,Standard Mailbox,Low,Role,2019-05-07
+E000882,U0267,EHR,Patient Records Read,High,Role,2022-06-21
+E000883,U0267,Active Directory,Standard User,Low,Role,2022-06-21
+E000884,U0267,Email,Standard Mailbox,Low,Role,2022-06-21
+E000885,U0268,EHR,Patient Records Read/Write,High,Role,2017-03-16
+E000886,U0268,Active Directory,Standard User,Low,Role,2017-03-16
+E000887,U0268,Email,Standard Mailbox,Low,Role,2017-03-16
+E000888,U0269,EHR,Patient Records Read/Write,High,Role,2021-08-04
+E000889,U0269,Active Directory,Standard User,Low,Role,2021-08-04
+E000890,U0269,Email,Standard Mailbox,Low,Role,2021-08-04
+E000891,U0270,EHR,Patient Records Read/Write,High,Role,2019-08-31
+E000892,U0270,Active Directory,Standard User,Low,Role,2019-08-31
+E000893,U0270,Email,Standard Mailbox,Low,Role,2019-08-31
+E000894,U0271,EHR,Patient Records Read/Write,High,Role,2024-02-26
+E000895,U0271,Active Directory,Standard User,Low,Role,2024-02-26
+E000896,U0271,Email,Standard Mailbox,Low,Role,2024-02-26
+E000897,U0272,EHR,Patient Records Read/Write,High,Role,2018-02-03
+E000898,U0272,Active Directory,Standard User,Low,Role,2018-02-03
+E000899,U0272,Email,Standard Mailbox,Low,Role,2018-02-03
+E000900,U0273,EHR,Patient Records Read/Write,High,Role,2021-06-25
+E000901,U0273,Active Directory,Standard User,Low,Role,2021-06-25
+E000902,U0273,Email,Standard Mailbox,Low,Role,2021-06-25
+E000903,U0274,Radiology PACS,Imaging View/Capture,High,Role,2019-03-22
+E000904,U0274,Active Directory,Standard User,Low,Role,2019-03-22
+E000905,U0274,Email,Standard Mailbox,Low,Role,2019-03-22
+E000906,U0274,Active Directory,Domain Admin,Critical,Manual,2024-03-06
+E000907,U0275,Active Directory,Password Reset Rights,Medium,Role,2018-12-12
+E000908,U0275,VPN,VPN Access,Medium,Role,2018-12-12
+E000909,U0275,Email,Standard Mailbox,Low,Role,2018-12-12
+E000910,U0276,Billing System,Claims Entry,Medium,Role,2020-09-18
+E000911,U0276,Billing System,Claims Approve,High,Role,2020-09-18
+E000912,U0276,Active Directory,Standard User,Low,Role,2020-09-18
+E000913,U0276,Email,Standard Mailbox,Low,Role,2020-09-18
+E000914,U0277,Billing System,Claims Entry,Medium,Role,2019-06-11
+E000915,U0277,Active Directory,Standard User,Low,Role,2019-06-11
+E000916,U0277,Email,Standard Mailbox,Low,Role,2019-06-11
+E000917,U0278,Pharmacy System,Inventory View,Medium,Role,2021-01-28
+E000918,U0278,Active Directory,Standard User,Low,Role,2021-01-28
+E000919,U0278,Email,Standard Mailbox,Low,Role,2021-01-28
+E000920,U0278,EHR,Patient Records Export,Critical,Manual,2026-02-14
+E000921,U0279,EHR,Scheduling,Medium,Role,2024-06-08
+E000922,U0279,Active Directory,Standard User,Low,Role,2024-06-08
+E000923,U0279,Email,Standard Mailbox,Low,Role,2024-06-08
+E000924,U0280,EHR,Scheduling,Medium,Role,2022-08-20
+E000925,U0280,Active Directory,Standard User,Low,Role,2022-08-20
+E000926,U0280,Email,Standard Mailbox,Low,Role,2022-08-20
+E000927,U0281,EHR,Patient Records Read/Write,High,Role,2016-03-09
+E000928,U0281,Active Directory,Standard User,Low,Role,2016-03-09
+E000929,U0281,Email,Standard Mailbox,Low,Role,2016-03-09
+E000930,U0282,EHR,Patient Records Read/Write,High,Role,2021-08-10
+E000931,U0282,Active Directory,Standard User,Low,Role,2021-08-10
+E000932,U0282,Email,Standard Mailbox,Low,Role,2021-08-10
+E000933,U0283,EHR,Patient Records Read,High,Role,2025-06-05
+E000934,U0283,Active Directory,Standard User,Low,Role,2025-06-05
+E000935,U0283,Email,Standard Mailbox,Low,Role,2025-06-05
+E000936,U0284,EHR,Patient Records Read,High,Role,2015-04-21
+E000937,U0284,Active Directory,Standard User,Low,Role,2015-04-21
+E000938,U0284,Email,Standard Mailbox,Low,Role,2015-04-21
+E000939,U0285,Pharmacy System,Inventory View,Medium,Role,2017-04-26
+E000940,U0285,Active Directory,Standard User,Low,Role,2017-04-26
+E000941,U0285,Email,Standard Mailbox,Low,Role,2017-04-26
+E000942,U0286,Billing System,Claims Entry,Medium,Role,2015-01-23
+E000943,U0286,Billing System,Claims Reporting,Medium,Role,2015-01-23
+E000944,U0286,Active Directory,Standard User,Low,Role,2015-01-23
+E000945,U0286,Email,Standard Mailbox,Low,Role,2015-01-23
+E000946,U0287,EHR,Patient Records Read/Write,High,Role,2026-04-13
+E000947,U0287,Active Directory,Standard User,Low,Role,2026-04-13
+E000948,U0287,Email,Standard Mailbox,Low,Role,2026-04-13
+E000949,U0288,Billing System,Claims Entry,Medium,Role,2021-06-13
+E000950,U0288,Active Directory,Standard User,Low,Role,2021-06-13
+E000951,U0288,Email,Standard Mailbox,Low,Role,2021-06-13
+E000952,U0289,Pharmacy System,Inventory View,Medium,Role,2016-09-16
+E000953,U0289,Active Directory,Standard User,Low,Role,2016-09-16
+E000954,U0289,Email,Standard Mailbox,Low,Role,2016-09-16
+E000955,U0290,EHR,Patient Records Read/Write,High,Role,2021-02-14
+E000956,U0290,Active Directory,Standard User,Low,Role,2021-02-14
+E000957,U0290,Email,Standard Mailbox,Low,Role,2021-02-14
+E000958,U0291,EHR,Scheduling,Medium,Role,2024-09-19
+E000959,U0291,Active Directory,Standard User,Low,Role,2024-09-19
+E000960,U0291,Email,Standard Mailbox,Low,Role,2024-09-19
+E000961,U0292,EHR,Patient Records Read/Write,High,Role,2021-10-13
+E000962,U0292,Active Directory,Standard User,Low,Role,2021-10-13
+E000963,U0292,Email,Standard Mailbox,Low,Role,2021-10-13
+E000964,U0293,EHR,Patient Registration,High,Role,2019-06-13
+E000965,U0293,Active Directory,Standard User,Low,Role,2019-06-13
+E000966,U0293,Email,Standard Mailbox,Low,Role,2019-06-13
+E000967,U0294,EHR,Patient Records Read/Write,High,Role,2020-07-01
+E000968,U0294,Active Directory,Standard User,Low,Role,2020-07-01
+E000969,U0294,Email,Standard Mailbox,Low,Role,2020-07-01
+E000970,U0295,EHR,Scheduling,Medium,Role,2025-05-22
+E000971,U0295,Active Directory,Standard User,Low,Role,2025-05-22
+E000972,U0295,Email,Standard Mailbox,Low,Role,2025-05-22
+E000973,U0296,EHR,Patient Registration,High,Role,2019-03-23
+E000974,U0296,Active Directory,Standard User,Low,Role,2019-03-23
+E000975,U0296,Email,Standard Mailbox,Low,Role,2019-03-23
+E000976,U0297,Active Directory,Standard User,Low,Role,2017-07-11
+E000977,U0297,Email,Standard Mailbox,Low,Role,2017-07-11
+E000978,U0298,HR Portal,Employee Records Edit,High,Role,2018-03-31
+E000979,U0298,HR Portal,Payroll Approve,Critical,Role,2018-03-31
+E000980,U0298,Active Directory,Standard User,Low,Role,2018-03-31
+E000981,U0298,Email,Standard Mailbox,Low,Role,2018-03-31
+E000982,U0299,HR Portal,Employee Records Edit,High,Role,2025-09-23
+E000983,U0299,Active Directory,Standard User,Low,Role,2025-09-23
+E000984,U0299,Email,Standard Mailbox,Low,Role,2025-09-23
+E000985,U0300,Radiology PACS,Imaging View/Capture,High,Role,2020-04-17
+E000986,U0300,Active Directory,Standard User,Low,Role,2020-04-17
+E000987,U0300,Email,Standard Mailbox,Low,Role,2020-04-17
+E000988,U0301,HR Portal,Employee Records Edit,High,Role,2016-04-18
+E000989,U0301,Active Directory,Standard User,Low,Role,2016-04-18
+E000990,U0301,Email,Standard Mailbox,Low,Role,2016-04-18
+E000991,U0301,Billing System,Claims Approve,High,Exception,2025-06-25
+E000992,U0302,EHR,Patient Records Read/Write,High,Role,2022-01-23
+E000993,U0302,Active Directory,Standard User,Low,Role,2022-01-23
+E000994,U0302,Email,Standard Mailbox,Low,Role,2022-01-23
+E000995,U0303,Pharmacy System,Inventory View,Medium,Role,2025-08-19
+E000996,U0303,Active Directory,Standard User,Low,Role,2025-08-19
+E000997,U0303,Email,Standard Mailbox,Low,Role,2025-08-19
+E000998,U0304,Pharmacy System,Inventory View,Medium,Role,2016-08-05
+E000999,U0304,Active Directory,Standard User,Low,Role,2016-08-05
+E001000,U0304,Email,Standard Mailbox,Low,Role,2016-08-05
+E001001,U0305,EHR,Scheduling,Medium,Role,2020-11-04
+E001002,U0305,Active Directory,Standard User,Low,Role,2020-11-04
+E001003,U0305,Email,Standard Mailbox,Low,Role,2020-11-04
+E001004,U0306,Pharmacy System,Dispense Medication,High,Role,2019-08-16
+E001005,U0306,EHR,Medication Orders Read,High,Role,2019-08-16
+E001006,U0306,Active Directory,Standard User,Low,Role,2019-08-16
+E001007,U0306,Email,Standard Mailbox,Low,Role,2019-08-16
+E001008,U0307,Billing System,Claims Entry,Medium,Role,2021-08-25
+E001009,U0307,Active Directory,Standard User,Low,Role,2021-08-25
+E001010,U0307,Email,Standard Mailbox,Low,Role,2021-08-25
+E001011,U0308,Radiology PACS,Imaging View/Capture,High,Role,2024-12-11
+E001012,U0308,Active Directory,Standard User,Low,Role,2024-12-11
+E001013,U0308,Email,Standard Mailbox,Low,Role,2024-12-11
+E001014,U0309,EHR,Patient Records Read,High,Role,2019-02-28
+E001015,U0309,Active Directory,Standard User,Low,Role,2019-02-28
+E001016,U0309,Email,Standard Mailbox,Low,Role,2019-02-28
+E001017,U0310,EHR,Patient Records Read/Write,High,Role,2021-02-06
+E001018,U0310,Active Directory,Standard User,Low,Role,2021-02-06
+E001019,U0310,Email,Standard Mailbox,Low,Role,2021-02-06
+E001020,U0311,Pharmacy System,Dispense Medication,High,Role,2017-04-28
+E001021,U0311,EHR,Medication Orders Read,High,Role,2017-04-28
+E001022,U0311,Active Directory,Standard User,Low,Role,2017-04-28
+E001023,U0311,Email,Standard Mailbox,Low,Role,2017-04-28
+E001024,U0312,Billing System,Claims Entry,Medium,Role,2018-06-12
+E001025,U0312,Billing System,Claims Reporting,Medium,Role,2018-06-12
+E001026,U0312,Active Directory,Standard User,Low,Role,2018-06-12
+E001027,U0312,Email,Standard Mailbox,Low,Role,2018-06-12
+E001028,U0313,EHR,Patient Records Read,High,Role,2025-09-06
+E001029,U0313,Active Directory,Standard User,Low,Role,2025-09-06
+E001030,U0313,Email,Standard Mailbox,Low,Role,2025-09-06
+E001031,U0314,Billing System,Claims Entry,Medium,Role,2015-01-20
+E001032,U0314,Active Directory,Standard User,Low,Role,2015-01-20
+E001033,U0314,Email,Standard Mailbox,Low,Role,2015-01-20
+E001034,U0315,Billing System,Claims Entry,Medium,Role,2016-10-11
+E001035,U0315,Active Directory,Standard User,Low,Role,2016-10-11
+E001036,U0315,Email,Standard Mailbox,Low,Role,2016-10-11
+E001037,U0315,Billing System,Claims Approve,High,Exception,2025-08-02
+E001038,U0316,Billing System,Claims Entry,Medium,Role,2023-01-30
+E001039,U0316,Active Directory,Standard User,Low,Role,2023-01-30
+E001040,U0316,Email,Standard Mailbox,Low,Role,2023-01-30
+E001041,U0317,Billing System,Claims Entry,Medium,Role,2020-01-30
+E001042,U0317,Active Directory,Standard User,Low,Role,2020-01-30
+E001043,U0317,Email,Standard Mailbox,Low,Role,2020-01-30
+E001044,U0318,Active Directory,Password Reset Rights,Medium,Role,2024-01-12
+E001045,U0318,VPN,VPN Access,Medium,Role,2024-01-12
+E001046,U0318,Email,Standard Mailbox,Low,Role,2024-01-12
+E001047,U0319,Billing System,Claims Entry,Medium,Role,2018-04-07
+E001048,U0319,Active Directory,Standard User,Low,Role,2018-04-07
+E001049,U0319,Email,Standard Mailbox,Low,Role,2018-04-07
+E001050,U0320,EHR,Scheduling,Medium,Role,2016-06-15
+E001051,U0320,EHR,Patient Registration,High,Role,2016-06-15
+E001052,U0320,Active Directory,Standard User,Low,Role,2016-06-15
+E001053,U0320,Email,Standard Mailbox,Low,Role,2016-06-15
+E001054,U0321,EHR,Patient Registration,High,Role,2024-06-22
+E001055,U0321,Active Directory,Standard User,Low,Role,2024-06-22
+E001056,U0321,Email,Standard Mailbox,Low,Role,2024-06-22
+E001057,U0322,Pharmacy System,Dispense Medication,High,Role,2022-02-24
+E001058,U0322,EHR,Medication Orders Read,High,Role,2022-02-24
+E001059,U0322,Active Directory,Standard User,Low,Role,2022-02-24
+E001060,U0322,Email,Standard Mailbox,Low,Role,2022-02-24
+E001061,U0323,Billing System,Claims Entry,Medium,Role,2019-06-06
+E001062,U0323,Active Directory,Standard User,Low,Role,2019-06-06
+E001063,U0323,Email,Standard Mailbox,Low,Role,2019-06-06
+E001064,U0324,Pharmacy System,Inventory View,Medium,Role,2025-04-05
+E001065,U0324,Active Directory,Standard User,Low,Role,2025-04-05
+E001066,U0324,Email,Standard Mailbox,Low,Role,2025-04-05
+E001067,U0325,EHR,Scheduling,Medium,Role,2020-03-18
+E001068,U0325,Active Directory,Standard User,Low,Role,2020-03-18
+E001069,U0325,Email,Standard Mailbox,Low,Role,2020-03-18
+E001070,U0326,Radiology PACS,Imaging View/Capture,High,Role,2019-05-30
+E001071,U0326,EHR,Patient Records Read,High,Role,2019-05-30
+E001072,U0326,Active Directory,Standard User,Low,Role,2019-05-30
+E001073,U0326,Email,Standard Mailbox,Low,Role,2019-05-30
+E001074,U0327,HR Portal,Employee Records Edit,High,Role,2023-04-06
+E001075,U0327,HR Portal,Payroll Approve,Critical,Role,2023-04-06
+E001076,U0327,Active Directory,Standard User,Low,Role,2023-04-06
+E001077,U0327,Email,Standard Mailbox,Low,Role,2023-04-06
+E001078,U0328,Pharmacy System,Inventory View,Medium,Role,2023-11-26
+E001079,U0328,Active Directory,Standard User,Low,Role,2023-11-26
+E001080,U0328,Email,Standard Mailbox,Low,Role,2023-11-26
+E001081,U0329,Radiology PACS,Imaging View/Capture,High,Role,2015-12-28
+E001082,U0329,Active Directory,Standard User,Low,Role,2015-12-28
+E001083,U0329,Email,Standard Mailbox,Low,Role,2015-12-28
+E001084,U0330,Billing System,Claims Entry,Medium,Role,2016-10-18
+E001085,U0330,Active Directory,Standard User,Low,Role,2016-10-18
+E001086,U0330,Email,Standard Mailbox,Low,Role,2016-10-18
+E001087,U0331,Active Directory,Domain Admin,Critical,Role,2019-05-18
+E001088,U0331,VPN,VPN Access,Medium,Role,2019-05-18
+E001089,U0331,Email,Standard Mailbox,Low,Role,2019-05-18
+E001090,U0332,EHR,Patient Records Read/Write,High,Role,2025-09-07
+E001091,U0332,EHR,Clinical Schedule Admin,Medium,Role,2025-09-07
+E001092,U0332,Active Directory,Standard User,Low,Role,2025-09-07
+E001093,U0332,Email,Standard Mailbox,Low,Role,2025-09-07
+E001094,U0332,HR Portal,Team Time Approval,Medium,Role,2025-09-07
+E001095,U0333,Active Directory,Password Reset Rights,Medium,Role,2019-01-21
+E001096,U0333,VPN,VPN Access,Medium,Role,2019-01-21
+E001097,U0333,Email,Standard Mailbox,Low,Role,2019-01-21
+E001098,U0334,EHR,Scheduling,Medium,Role,2015-09-22
+E001099,U0334,Active Directory,Standard User,Low,Role,2015-09-22
+E001100,U0334,Email,Standard Mailbox,Low,Role,2015-09-22
+E001101,U0334,EHR,Patient Records Export,Critical,Manual,2024-04-20
+E001102,U0335,EHR,Patient Records Read/Write,High,Role,2017-12-23
+E001103,U0335,Active Directory,Standard User,Low,Role,2017-12-23
+E001104,U0335,Email,Standard Mailbox,Low,Role,2017-12-23
+E001105,U0336,Radiology PACS,Imaging View/Capture,High,Role,2020-10-16
+E001106,U0336,Active Directory,Standard User,Low,Role,2020-10-16
+E001107,U0336,Email,Standard Mailbox,Low,Role,2020-10-16
+E001108,U0336,Billing System,Claims Approve,High,Exception,2025-08-30
+E001109,U0337,EHR,Patient Records Read/Write,High,Role,2022-01-19
+E001110,U0337,Active Directory,Standard User,Low,Role,2022-01-19
+E001111,U0337,Email,Standard Mailbox,Low,Role,2022-01-19
+E001112,U0338,Active Directory,Domain Admin,Critical,Role,2016-04-12
+E001113,U0338,VPN,VPN Access,Medium,Role,2016-04-12
+E001114,U0338,Email,Standard Mailbox,Low,Role,2016-04-12
+E001115,U0339,EHR,Patient Records Read/Write,High,Role,2017-07-30
+E001116,U0339,Active Directory,Standard User,Low,Role,2017-07-30
+E001117,U0339,Email,Standard Mailbox,Low,Role,2017-07-30
+E001118,U0340,EHR,Patient Registration,High,Role,2018-09-19
+E001119,U0340,Active Directory,Standard User,Low,Role,2018-09-19
+E001120,U0340,Email,Standard Mailbox,Low,Role,2018-09-19
+E001121,U0341,EHR,Patient Records Read/Write,High,Role,2021-03-03
+E001122,U0341,Active Directory,Standard User,Low,Role,2021-03-03
+E001123,U0341,Email,Standard Mailbox,Low,Role,2021-03-03
+E001124,U0342,Active Directory,Standard User,Low,Role,2016-12-27
+E001125,U0342,Email,Standard Mailbox,Low,Role,2016-12-27
+E001126,U0343,HR Portal,Employee Records Edit,High,Role,2019-12-18
+E001127,U0343,HR Portal,Payroll Approve,Critical,Role,2019-12-18
+E001128,U0343,Active Directory,Standard User,Low,Role,2019-12-18
+E001129,U0343,Email,Standard Mailbox,Low,Role,2019-12-18
+E001130,U0344,Radiology PACS,Imaging View/Capture,High,Role,2023-03-01
+E001131,U0344,Active Directory,Standard User,Low,Role,2023-03-01
+E001132,U0344,Email,Standard Mailbox,Low,Role,2023-03-01
+E001133,U0345,HR Portal,Employee Records Edit,High,Role,2017-02-22
+E001134,U0345,Active Directory,Standard User,Low,Role,2017-02-22
+E001135,U0345,Email,Standard Mailbox,Low,Role,2017-02-22
+E001136,U0346,HR Portal,Employee Records Edit,High,Role,2015-05-12
+E001137,U0346,Active Directory,Standard User,Low,Role,2015-05-12
+E001138,U0346,Email,Standard Mailbox,Low,Role,2015-05-12
+E001139,U0347,EHR,Scheduling,Medium,Role,2019-12-26
+E001140,U0347,EHR,Patient Registration,High,Role,2019-12-26
+E001141,U0347,Active Directory,Standard User,Low,Role,2019-12-26
+E001142,U0347,Email,Standard Mailbox,Low,Role,2019-12-26
+E001143,U0348,EHR,Patient Records Read,High,Role,2025-07-09
+E001144,U0348,Active Directory,Standard User,Low,Role,2025-07-09
+E001145,U0348,Email,Standard Mailbox,Low,Role,2025-07-09
+E001146,U0349,Radiology PACS,Imaging View/Capture,High,Role,2015-10-06
+E001147,U0349,Active Directory,Standard User,Low,Role,2015-10-06
+E001148,U0349,Email,Standard Mailbox,Low,Role,2015-10-06
+E001149,U0350,EHR,Patient Records Read/Write,High,Role,2021-12-22
+E001150,U0350,Active Directory,Standard User,Low,Role,2021-12-22
+E001151,U0350,Email,Standard Mailbox,Low,Role,2021-12-22
+E001152,U0351,Radiology PACS,Imaging View/Capture,High,Role,2026-03-15
+E001153,U0351,Active Directory,Standard User,Low,Role,2026-03-15
+E001154,U0351,Email,Standard Mailbox,Low,Role,2026-03-15
+E001155,U0351,HR Portal,Payroll Approve,Critical,Exception,2024-08-10
+E001156,U0352,EHR,Patient Records Read/Write,High,Role,2023-03-09
+E001157,U0352,Active Directory,Standard User,Low,Role,2023-03-09
+E001158,U0352,Email,Standard Mailbox,Low,Role,2023-03-09
+E001159,U0353,Pharmacy System,Inventory View,Medium,Role,2024-05-20
+E001160,U0353,Active Directory,Standard User,Low,Role,2024-05-20
+E001161,U0353,Email,Standard Mailbox,Low,Role,2024-05-20
+E001162,U0354,Pharmacy System,Inventory View,Medium,Role,2020-03-16
+E001163,U0354,Active Directory,Standard User,Low,Role,2020-03-16
+E001164,U0354,Email,Standard Mailbox,Low,Role,2020-03-16
+E001165,U0355,Pharmacy System,Dispense Medication,High,Role,2024-10-09
+E001166,U0355,EHR,Medication Orders Read,High,Role,2024-10-09
+E001167,U0355,Active Directory,Standard User,Low,Role,2024-10-09
+E001168,U0355,Email,Standard Mailbox,Low,Role,2024-10-09
+E001169,U0356,Pharmacy System,Inventory View,Medium,Role,2023-11-18
+E001170,U0356,Active Directory,Standard User,Low,Role,2023-11-18
+E001171,U0356,Email,Standard Mailbox,Low,Role,2023-11-18
+E001172,U0357,Active Directory,Security Log Read,High,Role,2025-12-18
+E001173,U0357,VPN,VPN Access,Medium,Role,2025-12-18
+E001174,U0357,Email,Standard Mailbox,Low,Role,2025-12-18
+E001175,U0358,HR Portal,Employee Records Edit,High,Role,2019-03-20
+E001176,U0358,HR Portal,Payroll Approve,Critical,Role,2019-03-20
+E001177,U0358,Active Directory,Standard User,Low,Role,2019-03-20
+E001178,U0358,Email,Standard Mailbox,Low,Role,2019-03-20
+E001179,U0359,Pharmacy System,Dispense Medication,High,Role,2023-05-29
+E001180,U0359,EHR,Medication Orders Read,High,Role,2023-05-29
+E001181,U0359,Active Directory,Standard User,Low,Role,2023-05-29
+E001182,U0359,Email,Standard Mailbox,Low,Role,2023-05-29
+E001183,U0360,Radiology PACS,Imaging View/Capture,High,Role,2018-12-28
+E001184,U0360,Active Directory,Standard User,Low,Role,2018-12-28
+E001185,U0360,Email,Standard Mailbox,Low,Role,2018-12-28
+E001186,U0361,EHR,Patient Registration,High,Role,2017-04-07
+E001187,U0361,Active Directory,Standard User,Low,Role,2017-04-07
+E001188,U0361,Email,Standard Mailbox,Low,Role,2017-04-07
+E001189,U0362,EHR,Patient Records Read/Write,High,Role,2023-05-12
+E001190,U0362,Active Directory,Standard User,Low,Role,2023-05-12
+E001191,U0362,Email,Standard Mailbox,Low,Role,2023-05-12
+E001192,U0363,EHR,Patient Records Read/Write,High,Role,2024-02-28
+E001193,U0363,Active Directory,Standard User,Low,Role,2024-02-28
+E001194,U0363,Email,Standard Mailbox,Low,Role,2024-02-28
+E001195,U0364,EHR,Patient Records Read/Write,High,Role,2017-04-04
+E001196,U0364,Active Directory,Standard User,Low,Role,2017-04-04
+E001197,U0364,Email,Standard Mailbox,Low,Role,2017-04-04
+E001198,U0365,Radiology PACS,Imaging View/Capture,High,Role,2023-04-22
+E001199,U0365,EHR,Patient Records Read,High,Role,2023-04-22
+E001200,U0365,Active Directory,Standard User,Low,Role,2023-04-22
+E001201,U0365,Email,Standard Mailbox,Low,Role,2023-04-22
+E001202,U0366,Billing System,Claims Entry,Medium,Role,2023-07-30
+E001203,U0366,Billing System,Claims Reporting,Medium,Role,2023-07-30
+E001204,U0366,Active Directory,Standard User,Low,Role,2023-07-30
+E001205,U0366,Email,Standard Mailbox,Low,Role,2023-07-30
+E001206,U0367,HR Portal,Employee Records Edit,High,Role,2020-06-17
+E001207,U0367,Active Directory,Standard User,Low,Role,2020-06-17
+E001208,U0367,Email,Standard Mailbox,Low,Role,2020-06-17
+E001209,U0368,Radiology PACS,Imaging View/Capture,High,Role,2019-05-14
+E001210,U0368,EHR,Patient Records Read,High,Role,2019-05-14
+E001211,U0368,Active Directory,Standard User,Low,Role,2019-05-14
+E001212,U0368,Email,Standard Mailbox,Low,Role,2019-05-14
+E001213,U0369,Billing System,Claims Entry,Medium,Role,2021-04-12
+E001214,U0369,Active Directory,Standard User,Low,Role,2021-04-12
+E001215,U0369,Email,Standard Mailbox,Low,Role,2021-04-12
+E001216,U0370,EHR,Patient Registration,High,Role,2017-09-28
+E001217,U0370,Active Directory,Standard User,Low,Role,2017-09-28
+E001218,U0370,Email,Standard Mailbox,Low,Role,2017-09-28
+E001219,U0371,Active Directory,Security Log Read,High,Role,2023-07-16
+E001220,U0371,VPN,VPN Access,Medium,Role,2023-07-16
+E001221,U0371,Email,Standard Mailbox,Low,Role,2023-07-16
+E001222,U0372,EHR,Patient Records Read,High,Role,2018-02-28
+E001223,U0372,Active Directory,Standard User,Low,Role,2018-02-28
+E001224,U0372,Email,Standard Mailbox,Low,Role,2018-02-28
+E001225,U0373,Billing System,Claims Entry,Medium,Role,2019-02-13
+E001226,U0373,Active Directory,Standard User,Low,Role,2019-02-13
+E001227,U0373,Email,Standard Mailbox,Low,Role,2019-02-13
+E001228,U0374,Billing System,Claims Entry,Medium,Role,2023-03-17
+E001229,U0374,Active Directory,Standard User,Low,Role,2023-03-17
+E001230,U0374,Email,Standard Mailbox,Low,Role,2023-03-17
+E001231,U0374,EHR,Patient Records Export,Critical,Exception,2026-05-09
+E001232,U0375,EHR,Patient Records Read/Write,High,Role,2023-08-01
+E001233,U0375,Active Directory,Standard User,Low,Role,2023-08-01
+E001234,U0375,Email,Standard Mailbox,Low,Role,2023-08-01
+E001235,U0376,EHR,Patient Records Read/Write,High,Role,2015-03-02
+E001236,U0376,Active Directory,Standard User,Low,Role,2015-03-02
+E001237,U0376,Email,Standard Mailbox,Low,Role,2015-03-02
+E001238,U0377,EHR,Patient Registration,High,Role,2018-06-17
+E001239,U0377,Active Directory,Standard User,Low,Role,2018-06-17
+E001240,U0377,Email,Standard Mailbox,Low,Role,2018-06-17
+E001241,U0378,Billing System,Claims Entry,Medium,Role,2015-09-04
+E001242,U0378,Billing System,Claims Reporting,Medium,Role,2015-09-04
+E001243,U0378,Active Directory,Standard User,Low,Role,2015-09-04
+E001244,U0378,Email,Standard Mailbox,Low,Role,2015-09-04
+E001245,U0379,Billing System,Claims Entry,Medium,Role,2020-09-06
+E001246,U0379,Active Directory,Standard User,Low,Role,2020-09-06
+E001247,U0379,Email,Standard Mailbox,Low,Role,2020-09-06
+E001248,U0380,Active Directory,Domain Admin,Critical,Role,2020-05-19
+E001249,U0380,VPN,VPN Access,Medium,Role,2020-05-19
+E001250,U0380,Email,Standard Mailbox,Low,Role,2020-05-19
+E001251,U0381,Pharmacy System,Inventory View,Medium,Role,2025-02-26
+E001252,U0381,Active Directory,Standard User,Low,Role,2025-02-26
+E001253,U0381,Email,Standard Mailbox,Low,Role,2025-02-26
+E001254,U0382,EHR,Patient Registration,High,Role,2020-04-05
+E001255,U0382,Active Directory,Standard User,Low,Role,2020-04-05
+E001256,U0382,Email,Standard Mailbox,Low,Role,2020-04-05
+E001257,U0383,HR Portal,Employee Records Edit,High,Role,2020-05-07
+E001258,U0383,Active Directory,Standard User,Low,Role,2020-05-07
+E001259,U0383,Email,Standard Mailbox,Low,Role,2020-05-07
+E001260,U0384,Pharmacy System,Dispense Medication,High,Role,2019-08-26
+E001261,U0384,EHR,Medication Orders Read,High,Role,2019-08-26
+E001262,U0384,Active Directory,Standard User,Low,Role,2019-08-26
+E001263,U0384,Email,Standard Mailbox,Low,Role,2019-08-26
+E001264,U0385,Billing System,Claims Entry,Medium,Role,2026-04-18
+E001265,U0385,Active Directory,Standard User,Low,Role,2026-04-18
+E001266,U0385,Email,Standard Mailbox,Low,Role,2026-04-18
+E001267,U0385,EHR,Patient Records Export,Critical,Manual,2025-04-30
+E001268,U0386,Active Directory,Standard User,Low,Role,2017-07-27
+E001269,U0386,Email,Standard Mailbox,Low,Role,2017-07-27
+E001270,U0387,Active Directory,Domain Admin,Critical,Role,2022-08-16
+E001271,U0387,VPN,VPN Access,Medium,Role,2022-08-16
+E001272,U0387,Email,Standard Mailbox,Low,Role,2022-08-16
+E001273,U0388,EHR,Scheduling,Medium,Role,2025-02-26
+E001274,U0388,EHR,Patient Registration,High,Role,2025-02-26
+E001275,U0388,Active Directory,Standard User,Low,Role,2025-02-26
+E001276,U0388,Email,Standard Mailbox,Low,Role,2025-02-26
+E001277,U0389,EHR,Patient Records Read/Write,High,Role,2024-05-20
+E001278,U0389,Active Directory,Standard User,Low,Role,2024-05-20
+E001279,U0389,Email,Standard Mailbox,Low,Role,2024-05-20
+E001280,U0390,EHR,Scheduling,Medium,Role,2025-09-18
+E001281,U0390,Active Directory,Standard User,Low,Role,2025-09-18
+E001282,U0390,Email,Standard Mailbox,Low,Role,2025-09-18
+E001283,U0391,Radiology PACS,Imaging View/Capture,High,Role,2017-06-17
+E001284,U0391,Active Directory,Standard User,Low,Role,2017-06-17
+E001285,U0391,Email,Standard Mailbox,Low,Role,2017-06-17
+E001286,U0392,EHR,Patient Records Read/Write,High,Role,2017-03-24
+E001287,U0392,Active Directory,Standard User,Low,Role,2017-03-24
+E001288,U0392,Email,Standard Mailbox,Low,Role,2017-03-24
+E001289,U0393,Radiology PACS,Imaging View/Capture,High,Role,2015-09-05
+E001290,U0393,Active Directory,Standard User,Low,Role,2015-09-05
+E001291,U0393,Email,Standard Mailbox,Low,Role,2015-09-05
+E001292,U0394,Active Directory,Password Reset Rights,Medium,Role,2022-10-11
+E001293,U0394,VPN,VPN Access,Medium,Role,2022-10-11
+E001294,U0394,Email,Standard Mailbox,Low,Role,2022-10-11
+E001295,U0395,EHR,Patient Records Read/Write,High,Role,2026-03-05
+E001296,U0395,Active Directory,Standard User,Low,Role,2026-03-05
+E001297,U0395,Email,Standard Mailbox,Low,Role,2026-03-05
+E001298,U0396,Pharmacy System,Dispense Medication,High,Role,2025-06-04
+E001299,U0396,EHR,Medication Orders Read,High,Role,2025-06-04
+E001300,U0396,Active Directory,Standard User,Low,Role,2025-06-04
+E001301,U0396,Email,Standard Mailbox,Low,Role,2025-06-04
+E001302,U0397,EHR,Scheduling,Medium,Role,2019-10-19
+E001303,U0397,Active Directory,Standard User,Low,Role,2019-10-19
+E001304,U0397,Email,Standard Mailbox,Low,Role,2019-10-19
+E001305,U0398,Billing System,Claims Entry,Medium,Role,2018-02-25
+E001306,U0398,Active Directory,Standard User,Low,Role,2018-02-25
+E001307,U0398,Email,Standard Mailbox,Low,Role,2018-02-25
+E001308,U0399,Pharmacy System,Dispense Medication,High,Role,2026-04-03
+E001309,U0399,EHR,Medication Orders Read,High,Role,2026-04-03
+E001310,U0399,Active Directory,Standard User,Low,Role,2026-04-03
+E001311,U0399,Email,Standard Mailbox,Low,Role,2026-04-03
+E001312,U0400,Billing System,Claims Entry,Medium,Role,2017-11-20
+E001313,U0400,Billing System,Claims Reporting,Medium,Role,2017-11-20
+E001314,U0400,Active Directory,Standard User,Low,Role,2017-11-20
+E001315,U0400,Email,Standard Mailbox,Low,Role,2017-11-20
+E001316,U0401,Billing System,Claims Entry,Medium,Role,2023-06-04
+E001317,U0401,Active Directory,Standard User,Low,Role,2023-06-04
+E001318,U0401,Email,Standard Mailbox,Low,Role,2023-06-04
+E001319,U0402,EHR,Patient Registration,High,Role,2017-06-07
+E001320,U0402,Active Directory,Standard User,Low,Role,2017-06-07
+E001321,U0402,Email,Standard Mailbox,Low,Role,2017-06-07
+E001322,U0402,Pharmacy System,Inventory Adjust,High,Exception,2024-11-30
+E001323,U0403,HR Portal,Employee Records Edit,High,Role,2025-01-29
+E001324,U0403,Active Directory,Standard User,Low,Role,2025-01-29
+E001325,U0403,Email,Standard Mailbox,Low,Role,2025-01-29
+E001326,U0404,EHR,Patient Records Read/Write,High,Role,2017-05-17
+E001327,U0404,Active Directory,Standard User,Low,Role,2017-05-17
+E001328,U0404,Email,Standard Mailbox,Low,Role,2017-05-17
+E001329,U0405,Active Directory,Standard User,Low,Role,2016-08-08
+E001330,U0405,Email,Standard Mailbox,Low,Role,2016-08-08
+E001331,U0405,HR Portal,Team Time Approval,Medium,Role,2016-08-08
+E001332,U0406,EHR,Scheduling,Medium,Role,2023-07-12
+E001333,U0406,Active Directory,Standard User,Low,Role,2023-07-12
+E001334,U0406,Email,Standard Mailbox,Low,Role,2023-07-12
+E001335,U0407,EHR,Patient Records Read,High,Role,2021-06-10
+E001336,U0407,Active Directory,Standard User,Low,Role,2021-06-10
+E001337,U0407,Email,Standard Mailbox,Low,Role,2021-06-10
+E001338,U0408,EHR,Scheduling,Medium,Role,2020-06-21
+E001339,U0408,Active Directory,Standard User,Low,Role,2020-06-21
+E001340,U0408,Email,Standard Mailbox,Low,Role,2020-06-21
+E001341,U0409,EHR,Patient Records Read/Write,High,Role,2016-07-13
+E001342,U0409,Active Directory,Standard User,Low,Role,2016-07-13
+E001343,U0409,Email,Standard Mailbox,Low,Role,2016-07-13
+E001344,U0410,Active Directory,Standard User,Low,Role,2019-09-13
+E001345,U0410,Email,Standard Mailbox,Low,Role,2019-09-13
+E001346,U0410,HR Portal,Team Time Approval,Medium,Role,2019-09-13
+E001347,U0411,Radiology PACS,Imaging View/Capture,High,Role,2026-05-02
+E001348,U0411,EHR,Patient Records Read,High,Role,2026-05-02
+E001349,U0411,Active Directory,Standard User,Low,Role,2026-05-02
+E001350,U0411,Email,Standard Mailbox,Low,Role,2026-05-02
+E001351,U0412,Radiology PACS,Imaging View/Capture,High,Role,2023-08-12
+E001352,U0412,EHR,Patient Records Read,High,Role,2023-08-12
+E001353,U0412,Active Directory,Standard User,Low,Role,2023-08-12
+E001354,U0412,Email,Standard Mailbox,Low,Role,2023-08-12
+E001355,U0413,EHR,Patient Records Read/Write,High,Role,2016-12-25
+E001356,U0413,Active Directory,Standard User,Low,Role,2016-12-25
+E001357,U0413,Email,Standard Mailbox,Low,Role,2016-12-25
+E001358,U0413,Pharmacy System,Inventory Adjust,High,Manual,2026-01-18
+E001359,U0414,EHR,Patient Registration,High,Role,2020-04-17
+E001360,U0414,Active Directory,Standard User,Low,Role,2020-04-17
+E001361,U0414,Email,Standard Mailbox,Low,Role,2020-04-17
+E001362,U0415,EHR,Patient Records Read/Write,High,Role,2021-02-24
+E001363,U0415,Active Directory,Standard User,Low,Role,2021-02-24
+E001364,U0415,Email,Standard Mailbox,Low,Role,2021-02-24
+E001365,U0416,EHR,Patient Records Read,High,Role,2016-05-09
+E001366,U0416,Active Directory,Standard User,Low,Role,2016-05-09
+E001367,U0416,Email,Standard Mailbox,Low,Role,2016-05-09
+E001368,U0417,EHR,Patient Records Read/Write,High,Role,2016-07-16
+E001369,U0417,Active Directory,Standard User,Low,Role,2016-07-16
+E001370,U0417,Email,Standard Mailbox,Low,Role,2016-07-16
+E001371,U0418,HR Portal,Employee Records Edit,High,Role,2017-07-25
+E001372,U0418,Active Directory,Standard User,Low,Role,2017-07-25
+E001373,U0418,Email,Standard Mailbox,Low,Role,2017-07-25
+E001374,U0419,EHR,Patient Records Read/Write,High,Role,2015-12-21
+E001375,U0419,EHR,Clinical Schedule Admin,Medium,Role,2015-12-21
+E001376,U0419,Active Directory,Standard User,Low,Role,2015-12-21
+E001377,U0419,Email,Standard Mailbox,Low,Role,2015-12-21
+E001378,U0419,HR Portal,Team Time Approval,Medium,Role,2015-12-21
+E001379,U0420,EHR,Patient Registration,High,Role,2022-04-19
+E001380,U0420,Active Directory,Standard User,Low,Role,2022-04-19
+E001381,U0420,Email,Standard Mailbox,Low,Role,2022-04-19
+E001382,U0420,Active Directory,Domain Admin,Critical,Exception,2024-11-22
+E001383,U0421,Radiology PACS,Imaging View/Capture,High,Role,2022-01-04
+E001384,U0421,EHR,Patient Records Read,High,Role,2022-01-04
+E001385,U0421,Active Directory,Standard User,Low,Role,2022-01-04
+E001386,U0421,Email,Standard Mailbox,Low,Role,2022-01-04
+E001387,U0422,EHR,Patient Records Read/Write,High,Role,2020-12-20
+E001388,U0422,Active Directory,Standard User,Low,Role,2020-12-20
+E001389,U0422,Email,Standard Mailbox,Low,Role,2020-12-20
+E001390,U0423,EHR,Patient Records Read/Write,High,Role,2024-11-25
+E001391,U0423,Active Directory,Standard User,Low,Role,2024-11-25
+E001392,U0423,Email,Standard Mailbox,Low,Role,2024-11-25
+E001393,U0424,EHR,Patient Records Read/Write,High,Role,2021-11-16
+E001394,U0424,Active Directory,Standard User,Low,Role,2021-11-16
+E001395,U0424,Email,Standard Mailbox,Low,Role,2021-11-16
+E001396,U0425,Radiology PACS,Imaging View/Capture,High,Role,2023-11-30
+E001397,U0425,Active Directory,Standard User,Low,Role,2023-11-30
+E001398,U0425,Email,Standard Mailbox,Low,Role,2023-11-30
+E001399,U0426,HR Portal,Employee Records Edit,High,Role,2020-01-14
+E001400,U0426,HR Portal,Payroll Approve,Critical,Role,2020-01-14
+E001401,U0426,Active Directory,Standard User,Low,Role,2020-01-14
+E001402,U0426,Email,Standard Mailbox,Low,Role,2020-01-14
+E001403,U0427,EHR,Patient Records Read,High,Role,2015-07-13
+E001404,U0427,Active Directory,Standard User,Low,Role,2015-07-13
+E001405,U0427,Email,Standard Mailbox,Low,Role,2015-07-13
+E001406,U0428,EHR,Scheduling,Medium,Role,2023-07-22
+E001407,U0428,Active Directory,Standard User,Low,Role,2023-07-22
+E001408,U0428,Email,Standard Mailbox,Low,Role,2023-07-22
+E001409,U0429,EHR,Patient Records Read/Write,High,Role,2018-07-10
+E001410,U0429,Active Directory,Standard User,Low,Role,2018-07-10
+E001411,U0429,Email,Standard Mailbox,Low,Role,2018-07-10
+E001412,U0430,HR Portal,Employee Records Edit,High,Role,2020-10-07
+E001413,U0430,HR Portal,Payroll Approve,Critical,Role,2020-10-07
+E001414,U0430,Active Directory,Standard User,Low,Role,2020-10-07
+E001415,U0430,Email,Standard Mailbox,Low,Role,2020-10-07
+E001416,U0431,EHR,Patient Registration,High,Role,2025-12-20
+E001417,U0431,Active Directory,Standard User,Low,Role,2025-12-20
+E001418,U0431,Email,Standard Mailbox,Low,Role,2025-12-20
+E001419,U0432,HR Portal,Employee Records Edit,High,Role,2017-10-25
+E001420,U0432,Active Directory,Standard User,Low,Role,2017-10-25
+E001421,U0432,Email,Standard Mailbox,Low,Role,2017-10-25
+E001422,U0433,Active Directory,Password Reset Rights,Medium,Role,2024-02-04
+E001423,U0433,VPN,VPN Access,Medium,Role,2024-02-04
+E001424,U0433,Email,Standard Mailbox,Low,Role,2024-02-04
+E001425,U0434,EHR,Scheduling,Medium,Role,2024-01-29
+E001426,U0434,Active Directory,Standard User,Low,Role,2024-01-29
+E001427,U0434,Email,Standard Mailbox,Low,Role,2024-01-29
+E001428,U0435,EHR,Patient Records Read/Write,High,Role,2016-10-15
+E001429,U0435,Active Directory,Standard User,Low,Role,2016-10-15
+E001430,U0435,Email,Standard Mailbox,Low,Role,2016-10-15
+E001431,U0436,EHR,Patient Records Read/Write,High,Role,2022-07-11
+E001432,U0436,EHR,Clinical Schedule Admin,Medium,Role,2022-07-11
+E001433,U0436,Active Directory,Standard User,Low,Role,2022-07-11
+E001434,U0436,Email,Standard Mailbox,Low,Role,2022-07-11
+E001435,U0436,HR Portal,Team Time Approval,Medium,Role,2022-07-11
+E001436,U0437,EHR,Patient Records Read/Write,High,Role,2026-04-06
+E001437,U0437,Active Directory,Standard User,Low,Role,2026-04-06
+E001438,U0437,Email,Standard Mailbox,Low,Role,2026-04-06
+E001439,U0438,Pharmacy System,Inventory View,Medium,Role,2016-02-10
+E001440,U0438,Active Directory,Standard User,Low,Role,2016-02-10
+E001441,U0438,Email,Standard Mailbox,Low,Role,2016-02-10
+E001442,U0439,Active Directory,Domain Admin,Critical,Role,2023-12-29
+E001443,U0439,VPN,VPN Access,Medium,Role,2023-12-29
+E001444,U0439,Email,Standard Mailbox,Low,Role,2023-12-29
+E001445,U0439,HR Portal,Team Time Approval,Medium,Role,2023-12-29
+E001446,U0440,Radiology PACS,Imaging View/Capture,High,Role,2023-11-26
+E001447,U0440,Active Directory,Standard User,Low,Role,2023-11-26
+E001448,U0440,Email,Standard Mailbox,Low,Role,2023-11-26
+E001449,U0441,EHR,Scheduling,Medium,Role,2017-09-08
+E001450,U0441,Active Directory,Standard User,Low,Role,2017-09-08
+E001451,U0441,Email,Standard Mailbox,Low,Role,2017-09-08
+E001452,U0442,EHR,Patient Records Read/Write,High,Role,2022-07-08
+E001453,U0442,Active Directory,Standard User,Low,Role,2022-07-08
+E001454,U0442,Email,Standard Mailbox,Low,Role,2022-07-08
+E001455,U0443,Active Directory,Domain Admin,Critical,Role,2025-06-23
+E001456,U0443,VPN,VPN Access,Medium,Role,2025-06-23
+E001457,U0443,Email,Standard Mailbox,Low,Role,2025-06-23
+E001458,U0444,EHR,Patient Records Read/Write,High,Role,2021-06-07
+E001459,U0444,EHR,Clinical Schedule Admin,Medium,Role,2021-06-07
+E001460,U0444,Active Directory,Standard User,Low,Role,2021-06-07
+E001461,U0444,Email,Standard Mailbox,Low,Role,2021-06-07
+E001462,U0444,HR Portal,Team Time Approval,Medium,Role,2021-06-07
+E001463,U0445,EHR,Patient Records Read,High,Role,2024-05-04
+E001464,U0445,Active Directory,Standard User,Low,Role,2024-05-04
+E001465,U0445,Email,Standard Mailbox,Low,Role,2024-05-04
+E001466,U0446,Active Directory,Password Reset Rights,Medium,Role,2015-05-09
+E001467,U0446,VPN,VPN Access,Medium,Role,2015-05-09
+E001468,U0446,Email,Standard Mailbox,Low,Role,2015-05-09
+E001469,U0447,Active Directory,Standard User,Low,Role,2019-02-09
+E001470,U0447,Email,Standard Mailbox,Low,Role,2019-02-09
+E001471,U0448,Radiology PACS,Imaging View/Capture,High,Role,2017-12-09
+E001472,U0448,Active Directory,Standard User,Low,Role,2017-12-09
+E001473,U0448,Email,Standard Mailbox,Low,Role,2017-12-09
+E001474,U0449,EHR,Patient Records Read/Write,High,Role,2018-05-27
+E001475,U0449,Active Directory,Standard User,Low,Role,2018-05-27
+E001476,U0449,Email,Standard Mailbox,Low,Role,2018-05-27
+E001477,U0450,Radiology PACS,Imaging View/Capture,High,Role,2024-02-14
+E001478,U0450,Active Directory,Standard User,Low,Role,2024-02-14
+E001479,U0450,Email,Standard Mailbox,Low,Role,2024-02-14
+E001480,U0451,EHR,Patient Records Read/Write,High,Role,2017-08-19
+E001481,U0451,Active Directory,Standard User,Low,Role,2017-08-19
+E001482,U0451,Email,Standard Mailbox,Low,Role,2017-08-19
+E001483,U0452,EHR,Scheduling,Medium,Role,2016-03-25
+E001484,U0452,Active Directory,Standard User,Low,Role,2016-03-25
+E001485,U0452,Email,Standard Mailbox,Low,Role,2016-03-25
+E001486,U0453,Active Directory,Password Reset Rights,Medium,Role,2023-06-29
+E001487,U0453,VPN,VPN Access,Medium,Role,2023-06-29
+E001488,U0453,Email,Standard Mailbox,Low,Role,2023-06-29
+E001489,U0454,EHR,Patient Records Read/Write,High,Role,2015-09-12
+E001490,U0454,Active Directory,Standard User,Low,Role,2015-09-12
+E001491,U0454,Email,Standard Mailbox,Low,Role,2015-09-12
+E001492,U0455,EHR,Patient Records Read/Write,High,Role,2017-04-20
+E001493,U0455,Active Directory,Standard User,Low,Role,2017-04-20
+E001494,U0455,Email,Standard Mailbox,Low,Role,2017-04-20
+E001495,U0456,EHR,Patient Records Read/Write,High,Role,2018-12-28
+E001496,U0456,Active Directory,Standard User,Low,Role,2018-12-28
+E001497,U0456,Email,Standard Mailbox,Low,Role,2018-12-28
+E001498,U0457,Active Directory,Standard User,Low,Role,2016-12-08
+E001499,U0457,Email,Standard Mailbox,Low,Role,2016-12-08
+E001500,U0458,Pharmacy System,Dispense Medication,High,Role,2025-07-10
+E001501,U0458,EHR,Medication Orders Read,High,Role,2025-07-10
+E001502,U0458,Active Directory,Standard User,Low,Role,2025-07-10
+E001503,U0458,Email,Standard Mailbox,Low,Role,2025-07-10
+E001504,U0459,HR Portal,Employee Records Edit,High,Role,2016-07-09
+E001505,U0459,Active Directory,Standard User,Low,Role,2016-07-09
+E001506,U0459,Email,Standard Mailbox,Low,Role,2016-07-09
+E001507,U0460,Radiology PACS,Imaging View/Capture,High,Role,2016-05-15
+E001508,U0460,Active Directory,Standard User,Low,Role,2016-05-15
+E001509,U0460,Email,Standard Mailbox,Low,Role,2016-05-15
+E001510,U0461,Pharmacy System,Inventory View,Medium,Role,2015-05-06
+E001511,U0461,Active Directory,Standard User,Low,Role,2015-05-06
+E001512,U0461,Email,Standard Mailbox,Low,Role,2015-05-06
+E001513,U0462,EHR,Patient Records Read/Write,High,Role,2024-06-10
+E001514,U0462,Active Directory,Standard User,Low,Role,2024-06-10
+E001515,U0462,Email,Standard Mailbox,Low,Role,2024-06-10
+E001516,U0463,EHR,Scheduling,Medium,Role,2019-09-03
+E001517,U0463,EHR,Patient Registration,High,Role,2019-09-03
+E001518,U0463,Active Directory,Standard User,Low,Role,2019-09-03
+E001519,U0463,Email,Standard Mailbox,Low,Role,2019-09-03
+E001520,U0464,Billing System,Claims Entry,Medium,Role,2022-04-15
+E001521,U0464,Active Directory,Standard User,Low,Role,2022-04-15
+E001522,U0464,Email,Standard Mailbox,Low,Role,2022-04-15
+E001523,U0464,VPN,VPN Access,Medium,Exception,2024-12-12
+E001524,U0465,Pharmacy System,Dispense Medication,High,Role,2023-01-16
+E001525,U0465,Pharmacy System,Inventory Adjust,High,Role,2023-01-16
+E001526,U0465,Active Directory,Standard User,Low,Role,2023-01-16
+E001527,U0465,Email,Standard Mailbox,Low,Role,2023-01-16
+E001528,U0466,Active Directory,Password Reset Rights,Medium,Role,2020-05-03
+E001529,U0466,VPN,VPN Access,Medium,Role,2020-05-03
+E001530,U0466,Email,Standard Mailbox,Low,Role,2020-05-03
+E001531,U0467,Radiology PACS,Imaging View/Capture,High,Role,2019-10-26
+E001532,U0467,Active Directory,Standard User,Low,Role,2019-10-26
+E001533,U0467,Email,Standard Mailbox,Low,Role,2019-10-26
+E001534,U0468,EHR,Patient Registration,High,Role,2017-10-24
+E001535,U0468,Active Directory,Standard User,Low,Role,2017-10-24
+E001536,U0468,Email,Standard Mailbox,Low,Role,2017-10-24
+E001537,U0469,EHR,Patient Records Read/Write,High,Role,2022-05-16
+E001538,U0469,Active Directory,Standard User,Low,Role,2022-05-16
+E001539,U0469,Email,Standard Mailbox,Low,Role,2022-05-16
+E001540,U0470,Pharmacy System,Inventory View,Medium,Role,2015-11-21
+E001541,U0470,Active Directory,Standard User,Low,Role,2015-11-21
+E001542,U0470,Email,Standard Mailbox,Low,Role,2015-11-21
+E001543,U0471,Billing System,Claims Entry,Medium,Role,2020-03-01
+E001544,U0471,Billing System,Claims Reporting,Medium,Role,2020-03-01
+E001545,U0471,Active Directory,Standard User,Low,Role,2020-03-01
+E001546,U0471,Email,Standard Mailbox,Low,Role,2020-03-01
+E001547,U0472,Pharmacy System,Dispense Medication,High,Role,2025-05-20
+E001548,U0472,EHR,Medication Orders Read,High,Role,2025-05-20
+E001549,U0472,Active Directory,Standard User,Low,Role,2025-05-20
+E001550,U0472,Email,Standard Mailbox,Low,Role,2025-05-20
+E001551,U0473,EHR,Patient Records Read/Write,High,Role,2018-11-15
+E001552,U0473,Active Directory,Standard User,Low,Role,2018-11-15
+E001553,U0473,Email,Standard Mailbox,Low,Role,2018-11-15
+E001554,U0474,EHR,Patient Records Read/Write,High,Role,2022-02-05
+E001555,U0474,Active Directory,Standard User,Low,Role,2022-02-05
+E001556,U0474,Email,Standard Mailbox,Low,Role,2022-02-05
+E001557,U0475,EHR,Patient Records Read,High,Role,2018-09-27
+E001558,U0475,Active Directory,Standard User,Low,Role,2018-09-27
+E001559,U0475,Email,Standard Mailbox,Low,Role,2018-09-27
+E001560,U0476,Billing System,Claims Entry,Medium,Role,2022-09-14
+E001561,U0476,Active Directory,Standard User,Low,Role,2022-09-14
+E001562,U0476,Email,Standard Mailbox,Low,Role,2022-09-14
+E001563,U0477,Billing System,Claims Entry,Medium,Role,2015-08-03
+E001564,U0477,Billing System,Claims Reporting,Medium,Role,2015-08-03
+E001565,U0477,Active Directory,Standard User,Low,Role,2015-08-03
+E001566,U0477,Email,Standard Mailbox,Low,Role,2015-08-03
+E001567,U0478,Radiology PACS,Imaging View/Capture,High,Role,2015-12-28
+E001568,U0478,Active Directory,Standard User,Low,Role,2015-12-28
+E001569,U0478,Email,Standard Mailbox,Low,Role,2015-12-28
+E001570,U0479,Radiology PACS,Imaging View/Capture,High,Role,2023-10-20
+E001571,U0479,Active Directory,Standard User,Low,Role,2023-10-20
+E001572,U0479,Email,Standard Mailbox,Low,Role,2023-10-20
+E001573,U0480,Billing System,Claims Entry,Medium,Role,2024-06-21
+E001574,U0480,Billing System,Claims Reporting,Medium,Role,2024-06-21
+E001575,U0480,Active Directory,Standard User,Low,Role,2024-06-21
+E001576,U0480,Email,Standard Mailbox,Low,Role,2024-06-21
+E001577,U0480,HR Portal,Payroll Approve,Critical,Exception,2025-12-15
+E001578,U0481,Billing System,Claims Entry,Medium,Role,2021-03-03
+E001579,U0481,Billing System,Claims Reporting,Medium,Role,2021-03-03
+E001580,U0481,Active Directory,Standard User,Low,Role,2021-03-03
+E001581,U0481,Email,Standard Mailbox,Low,Role,2021-03-03
+E001582,U0482,EHR,Patient Records Read,High,Role,2022-01-27
+E001583,U0482,Active Directory,Standard User,Low,Role,2022-01-27
+E001584,U0482,Email,Standard Mailbox,Low,Role,2022-01-27
+E001585,U0483,Radiology PACS,Imaging View/Capture,High,Role,2021-01-12
+E001586,U0483,Active Directory,Standard User,Low,Role,2021-01-12
+E001587,U0483,Email,Standard Mailbox,Low,Role,2021-01-12
+E001588,U0484,Billing System,Claims Entry,Medium,Role,2019-09-05
+E001589,U0484,Active Directory,Standard User,Low,Role,2019-09-05
+E001590,U0484,Email,Standard Mailbox,Low,Role,2019-09-05
+E001591,U0485,EHR,Patient Records Read/Write,High,Role,2020-06-30
+E001592,U0485,Active Directory,Standard User,Low,Role,2020-06-30
+E001593,U0485,Email,Standard Mailbox,Low,Role,2020-06-30
+E001594,U0486,Billing System,Claims Entry,Medium,Role,2020-05-06
+E001595,U0486,Billing System,Claims Reporting,Medium,Role,2020-05-06
+E001596,U0486,Active Directory,Standard User,Low,Role,2020-05-06
+E001597,U0486,Email,Standard Mailbox,Low,Role,2020-05-06
+E001598,U0487,Pharmacy System,Dispense Medication,High,Role,2019-11-11
+E001599,U0487,EHR,Medication Orders Read,High,Role,2019-11-11
+E001600,U0487,Active Directory,Standard User,Low,Role,2019-11-11
+E001601,U0487,Email,Standard Mailbox,Low,Role,2019-11-11
+E001602,U0488,EHR,Patient Records Read,High,Role,2016-02-01
+E001603,U0488,Active Directory,Standard User,Low,Role,2016-02-01
+E001604,U0488,Email,Standard Mailbox,Low,Role,2016-02-01
+E001605,U0489,Pharmacy System,Inventory View,Medium,Role,2021-02-24
+E001606,U0489,Active Directory,Standard User,Low,Role,2021-02-24
+E001607,U0489,Email,Standard Mailbox,Low,Role,2021-02-24
+E001608,U0490,Pharmacy System,Inventory View,Medium,Role,2015-05-15
+E001609,U0490,Active Directory,Standard User,Low,Role,2015-05-15
+E001610,U0490,Email,Standard Mailbox,Low,Role,2015-05-15
+E001611,U0491,Active Directory,Password Reset Rights,Medium,Role,2026-01-13
+E001612,U0491,VPN,VPN Access,Medium,Role,2026-01-13
+E001613,U0491,Email,Standard Mailbox,Low,Role,2026-01-13
+E001614,U0492,Radiology PACS,Imaging View/Capture,High,Role,2019-07-06
+E001615,U0492,Active Directory,Standard User,Low,Role,2019-07-06
+E001616,U0492,Email,Standard Mailbox,Low,Role,2019-07-06
+E001617,U0493,Radiology PACS,Imaging View/Capture,High,Role,2019-09-15
+E001618,U0493,EHR,Patient Records Read,High,Role,2019-09-15
+E001619,U0493,Active Directory,Standard User,Low,Role,2019-09-15
+E001620,U0493,Email,Standard Mailbox,Low,Role,2019-09-15
+E001621,U0494,Billing System,Claims Entry,Medium,Role,2025-10-12
+E001622,U0494,Active Directory,Standard User,Low,Role,2025-10-12
+E001623,U0494,Email,Standard Mailbox,Low,Role,2025-10-12
+E001624,U0495,HR Portal,Employee Records Edit,High,Role,2019-02-09
+E001625,U0495,Active Directory,Standard User,Low,Role,2019-02-09
+E001626,U0495,Email,Standard Mailbox,Low,Role,2019-02-09
+E001627,U0496,Pharmacy System,Inventory View,Medium,Role,2017-07-22
+E001628,U0496,Active Directory,Standard User,Low,Role,2017-07-22
+E001629,U0496,Email,Standard Mailbox,Low,Role,2017-07-22
+E001630,U0497,Billing System,Claims Entry,Medium,Role,2022-04-17
+E001631,U0497,Billing System,Claims Reporting,Medium,Role,2022-04-17
+E001632,U0497,Active Directory,Standard User,Low,Role,2022-04-17
+E001633,U0497,Email,Standard Mailbox,Low,Role,2022-04-17
+E001634,U0498,Radiology PACS,Imaging View/Capture,High,Role,2026-05-04
+E001635,U0498,Active Directory,Standard User,Low,Role,2026-05-04
+E001636,U0498,Email,Standard Mailbox,Low,Role,2026-05-04
+E001637,U0499,Billing System,Claims Entry,Medium,Role,2023-03-28
+E001638,U0499,Active Directory,Standard User,Low,Role,2023-03-28
+E001639,U0499,Email,Standard Mailbox,Low,Role,2023-03-28
+E001640,U0500,Pharmacy System,Inventory View,Medium,Role,2025-08-25
+E001641,U0500,Active Directory,Standard User,Low,Role,2025-08-25
+E001642,U0500,Email,Standard Mailbox,Low,Role,2025-08-25
+E001643,U0501,Active Directory,Domain Admin,Critical,Role,2017-07-26
+E001644,U0501,VPN,VPN Access,Medium,Role,2017-07-26
+E001645,U0501,Email,Standard Mailbox,Low,Role,2017-07-26
+E001646,U0502,EHR,Scheduling,Medium,Role,2020-01-08
+E001647,U0502,Active Directory,Standard User,Low,Role,2020-01-08
+E001648,U0502,Email,Standard Mailbox,Low,Role,2020-01-08
+E001649,U0503,EHR,Patient Registration,High,Role,2021-08-22
+E001650,U0503,Active Directory,Standard User,Low,Role,2021-08-22
+E001651,U0503,Email,Standard Mailbox,Low,Role,2021-08-22
+E001652,U0504,Pharmacy System,Inventory View,Medium,Role,2022-04-09
+E001653,U0504,Active Directory,Standard User,Low,Role,2022-04-09
+E001654,U0504,Email,Standard Mailbox,Low,Role,2022-04-09
+E001655,U0505,Pharmacy System,Inventory View,Medium,Role,2021-05-26
+E001656,U0505,Active Directory,Standard User,Low,Role,2021-05-26
+E001657,U0505,Email,Standard Mailbox,Low,Role,2021-05-26
+E001658,U0506,HR Portal,Employee Records Edit,High,Role,2022-09-29
+E001659,U0506,HR Portal,Payroll Approve,Critical,Role,2022-09-29
+E001660,U0506,Active Directory,Standard User,Low,Role,2022-09-29
+E001661,U0506,Email,Standard Mailbox,Low,Role,2022-09-29
+E001662,U0507,Billing System,Claims Entry,Medium,Role,2018-10-22
+E001663,U0507,Active Directory,Standard User,Low,Role,2018-10-22
+E001664,U0507,Email,Standard Mailbox,Low,Role,2018-10-22
+E001665,U0508,EHR,Scheduling,Medium,Role,2021-01-28
+E001666,U0508,Active Directory,Standard User,Low,Role,2021-01-28
+E001667,U0508,Email,Standard Mailbox,Low,Role,2021-01-28
+E001668,U0509,Pharmacy System,Dispense Medication,High,Role,2020-02-04
+E001669,U0509,EHR,Medication Orders Read,High,Role,2020-02-04
+E001670,U0509,Active Directory,Standard User,Low,Role,2020-02-04
+E001671,U0509,Email,Standard Mailbox,Low,Role,2020-02-04
+E001672,U0510,EHR,Patient Records Read/Write,High,Role,2017-01-07
+E001673,U0510,Active Directory,Standard User,Low,Role,2017-01-07
+E001674,U0510,Email,Standard Mailbox,Low,Role,2017-01-07
+E001675,U0511,EHR,Patient Records Read/Write,High,Role,2018-08-11
+E001676,U0511,Active Directory,Standard User,Low,Role,2018-08-11
+E001677,U0511,Email,Standard Mailbox,Low,Role,2018-08-11
+E001678,U0512,EHR,Scheduling,Medium,Role,2022-11-05
+E001679,U0512,Active Directory,Standard User,Low,Role,2022-11-05
+E001680,U0512,Email,Standard Mailbox,Low,Role,2022-11-05
+E001681,U0513,EHR,Patient Records Read/Write,High,Role,2015-08-18
+E001682,U0513,Active Directory,Standard User,Low,Role,2015-08-18
+E001683,U0513,Email,Standard Mailbox,Low,Role,2015-08-18
+E001684,U0514,EHR,Patient Records Read,High,Role,2016-03-03
+E001685,U0514,Active Directory,Standard User,Low,Role,2016-03-03
+E001686,U0514,Email,Standard Mailbox,Low,Role,2016-03-03
+E001687,U0515,Billing System,Claims Entry,Medium,Role,2021-12-03
+E001688,U0515,Active Directory,Standard User,Low,Role,2021-12-03
+E001689,U0515,Email,Standard Mailbox,Low,Role,2021-12-03
+E001690,U0516,EHR,Patient Records Read/Write,High,Role,2020-02-27
+E001691,U0516,Active Directory,Standard User,Low,Role,2020-02-27
+E001692,U0516,Email,Standard Mailbox,Low,Role,2020-02-27
+E001693,U0517,Billing System,Claims Entry,Medium,Role,2025-03-12
+E001694,U0517,Active Directory,Standard User,Low,Role,2025-03-12
+E001695,U0517,Email,Standard Mailbox,Low,Role,2025-03-12
+E001696,U0518,Active Directory,Domain Admin,Critical,Role,2018-11-06
+E001697,U0518,VPN,VPN Access,Medium,Role,2018-11-06
+E001698,U0518,Email,Standard Mailbox,Low,Role,2018-11-06
+E001699,U0518,HR Portal,Team Time Approval,Medium,Role,2018-11-06
+E001700,U0519,EHR,Patient Records Read/Write,High,Role,2024-03-23
+E001701,U0519,Active Directory,Standard User,Low,Role,2024-03-23
+E001702,U0519,Email,Standard Mailbox,Low,Role,2024-03-23
+E001703,U0520,EHR,Scheduling,Medium,Role,2023-04-10
+E001704,U0520,Active Directory,Standard User,Low,Role,2023-04-10
+E001705,U0520,Email,Standard Mailbox,Low,Role,2023-04-10
+E001706,U0520,EHR,Patient Records Export,Critical,Exception,2025-03-28
+E001707,U0521,EHR,Scheduling,Medium,Role,2021-05-21
+E001708,U0521,Active Directory,Standard User,Low,Role,2021-05-21
+E001709,U0521,Email,Standard Mailbox,Low,Role,2021-05-21
+E001710,U0521,VPN,VPN Access,Medium,Exception,2026-07-15
+E001711,U0522,Billing System,Claims Entry,Medium,Role,2020-06-12
+E001712,U0522,Active Directory,Standard User,Low,Role,2020-06-12
+E001713,U0522,Email,Standard Mailbox,Low,Role,2020-06-12
+E001714,U0523,EHR,Patient Records Read/Write,High,Role,2016-03-12
+E001715,U0523,Active Directory,Standard User,Low,Role,2016-03-12
+E001716,U0523,Email,Standard Mailbox,Low,Role,2016-03-12
+E001717,U0524,Radiology PACS,Imaging View/Capture,High,Role,2023-02-13
+E001718,U0524,Active Directory,Standard User,Low,Role,2023-02-13
+E001719,U0524,Email,Standard Mailbox,Low,Role,2023-02-13
+E001720,U0525,EHR,Patient Records Read/Write,High,Role,2017-10-29
+E001721,U0525,Active Directory,Standard User,Low,Role,2017-10-29
+E001722,U0525,Email,Standard Mailbox,Low,Role,2017-10-29
+E001723,U0526,Billing System,Claims Entry,Medium,Role,2023-11-12
+E001724,U0526,Active Directory,Standard User,Low,Role,2023-11-12
+E001725,U0526,Email,Standard Mailbox,Low,Role,2023-11-12
+E001726,U0527,EHR,Scheduling,Medium,Role,2024-11-14
+E001727,U0527,EHR,Patient Registration,High,Role,2024-11-14
+E001728,U0527,Active Directory,Standard User,Low,Role,2024-11-14
+E001729,U0527,Email,Standard Mailbox,Low,Role,2024-11-14
+E001730,U0528,Active Directory,Standard User,Low,Role,2021-11-20
+E001731,U0528,Email,Standard Mailbox,Low,Role,2021-11-20
+E001732,U0528,HR Portal,Team Time Approval,Medium,Role,2021-11-20
+E001733,U0529,HR Portal,Employee Records Edit,High,Role,2021-07-25
+E001734,U0529,Active Directory,Standard User,Low,Role,2021-07-25
+E001735,U0529,Email,Standard Mailbox,Low,Role,2021-07-25
+E001736,U0530,Billing System,Claims Entry,Medium,Role,2019-09-22
+E001737,U0530,Active Directory,Standard User,Low,Role,2019-09-22
+E001738,U0530,Email,Standard Mailbox,Low,Role,2019-09-22
+E001739,U0531,Active Directory,Password Reset Rights,Medium,Role,2019-12-23
+E001740,U0531,VPN,VPN Access,Medium,Role,2019-12-23
+E001741,U0531,Email,Standard Mailbox,Low,Role,2019-12-23
+E001742,U0532,Active Directory,Password Reset Rights,Medium,Role,2018-06-19
+E001743,U0532,VPN,VPN Access,Medium,Role,2018-06-19
+E001744,U0532,Email,Standard Mailbox,Low,Role,2018-06-19
+E001745,U0533,Billing System,Claims Entry,Medium,Role,2025-11-12
+E001746,U0533,Billing System,Claims Approve,High,Role,2025-11-12
+E001747,U0533,Active Directory,Standard User,Low,Role,2025-11-12
+E001748,U0533,Email,Standard Mailbox,Low,Role,2025-11-12
+E001749,U0534,Radiology PACS,Imaging View/Capture,High,Role,2017-03-28
+E001750,U0534,Active Directory,Standard User,Low,Role,2017-03-28
+E001751,U0534,Email,Standard Mailbox,Low,Role,2017-03-28
+E001752,U0535,EHR,Patient Records Read/Write,High,Role,2026-01-29
+E001753,U0535,Active Directory,Standard User,Low,Role,2026-01-29
+E001754,U0535,Email,Standard Mailbox,Low,Role,2026-01-29
+E001755,U0536,EHR,Patient Records Read,High,Role,2015-09-09
+E001756,U0536,Active Directory,Standard User,Low,Role,2015-09-09
+E001757,U0536,Email,Standard Mailbox,Low,Role,2015-09-09
+E001758,U0537,Pharmacy System,Inventory View,Medium,Role,2022-01-06
+E001759,U0537,Active Directory,Standard User,Low,Role,2022-01-06
+E001760,U0537,Email,Standard Mailbox,Low,Role,2022-01-06
+E001761,U0538,EHR,Patient Records Read/Write,High,Role,2022-07-25
+E001762,U0538,Active Directory,Standard User,Low,Role,2022-07-25
+E001763,U0538,Email,Standard Mailbox,Low,Role,2022-07-25
+E001764,U0539,EHR,Patient Records Read/Write,High,Role,2015-11-09
+E001765,U0539,Active Directory,Standard User,Low,Role,2015-11-09
+E001766,U0539,Email,Standard Mailbox,Low,Role,2015-11-09
+E001767,U0540,EHR,Scheduling,Medium,Role,2023-04-02
+E001768,U0540,Active Directory,Standard User,Low,Role,2023-04-02
+E001769,U0540,Email,Standard Mailbox,Low,Role,2023-04-02
+E001770,U0541,Active Directory,Standard User,Low,Role,2018-07-25
+E001771,U0541,Email,Standard Mailbox,Low,Role,2018-07-25
+E001772,U0542,Pharmacy System,Inventory View,Medium,Role,2026-01-26
+E001773,U0542,Active Directory,Standard User,Low,Role,2026-01-26
+E001774,U0542,Email,Standard Mailbox,Low,Role,2026-01-26
+E001775,U0543,EHR,Scheduling,Medium,Role,2017-07-04
+E001776,U0543,Active Directory,Standard User,Low,Role,2017-07-04
+E001777,U0543,Email,Standard Mailbox,Low,Role,2017-07-04
+E001778,U0544,Active Directory,Standard User,Low,Role,2016-02-13
+E001779,U0544,Email,Standard Mailbox,Low,Role,2016-02-13
+E001780,U0545,EHR,Patient Records Read/Write,High,Role,2024-10-23
+E001781,U0545,Active Directory,Standard User,Low,Role,2024-10-23
+E001782,U0545,Email,Standard Mailbox,Low,Role,2024-10-23
+E001783,U0546,Pharmacy System,Dispense Medication,High,Role,2021-09-25
+E001784,U0546,EHR,Medication Orders Read,High,Role,2021-09-25
+E001785,U0546,Active Directory,Standard User,Low,Role,2021-09-25
+E001786,U0546,Email,Standard Mailbox,Low,Role,2021-09-25
+E001787,U0547,Billing System,Claims Entry,Medium,Role,2025-07-30
+E001788,U0547,Billing System,Claims Approve,High,Role,2025-07-30
+E001789,U0547,Active Directory,Standard User,Low,Role,2025-07-30
+E001790,U0547,Email,Standard Mailbox,Low,Role,2025-07-30
+E001791,U0548,EHR,Patient Records Read/Write,High,Role,2021-03-10
+E001792,U0548,Active Directory,Standard User,Low,Role,2021-03-10
+E001793,U0548,Email,Standard Mailbox,Low,Role,2021-03-10
+E001794,U0549,Active Directory,Security Log Read,High,Role,2016-01-04
+E001795,U0549,VPN,VPN Access,Medium,Role,2016-01-04
+E001796,U0549,Email,Standard Mailbox,Low,Role,2016-01-04
+E001797,U0550,Billing System,Claims Entry,Medium,Role,2019-09-27
+E001798,U0550,Billing System,Claims Reporting,Medium,Role,2019-09-27
+E001799,U0550,Active Directory,Standard User,Low,Role,2019-09-27
+E001800,U0550,Email,Standard Mailbox,Low,Role,2019-09-27
+E001801,U0551,Pharmacy System,Dispense Medication,High,Role,2023-08-09
+E001802,U0551,EHR,Medication Orders Read,High,Role,2023-08-09
+E001803,U0551,Active Directory,Standard User,Low,Role,2023-08-09
+E001804,U0551,Email,Standard Mailbox,Low,Role,2023-08-09
+E001805,U0552,EHR,Patient Records Read/Write,High,Role,2023-05-07
+E001806,U0552,Active Directory,Standard User,Low,Role,2023-05-07
+E001807,U0552,Email,Standard Mailbox,Low,Role,2023-05-07
+E001808,U0553,EHR,Patient Records Read/Write,High,Role,2024-08-14
+E001809,U0553,Active Directory,Standard User,Low,Role,2024-08-14
+E001810,U0553,Email,Standard Mailbox,Low,Role,2024-08-14
+E001811,U0554,EHR,Patient Registration,High,Role,2017-03-01
+E001812,U0554,Active Directory,Standard User,Low,Role,2017-03-01
+E001813,U0554,Email,Standard Mailbox,Low,Role,2017-03-01
+E001814,U0555,EHR,Patient Records Read/Write,High,Role,2025-02-06
+E001815,U0555,Active Directory,Standard User,Low,Role,2025-02-06
+E001816,U0555,Email,Standard Mailbox,Low,Role,2025-02-06
+E001817,U0556,EHR,Patient Records Read,High,Role,2017-02-18
+E001818,U0556,Active Directory,Standard User,Low,Role,2017-02-18
+E001819,U0556,Email,Standard Mailbox,Low,Role,2017-02-18
+E001820,U0556,Billing System,Claims Approve,High,Exception,2025-03-02
+E001821,U0557,Billing System,Claims Entry,Medium,Role,2015-07-17
+E001822,U0557,Active Directory,Standard User,Low,Role,2015-07-17
+E001823,U0557,Email,Standard Mailbox,Low,Role,2015-07-17
+E001824,U0558,Pharmacy System,Dispense Medication,High,Role,2022-11-16
+E001825,U0558,EHR,Medication Orders Read,High,Role,2022-11-16
+E001826,U0558,Active Directory,Standard User,Low,Role,2022-11-16
+E001827,U0558,Email,Standard Mailbox,Low,Role,2022-11-16
+E001828,U0559,Radiology PACS,Imaging View/Capture,High,Role,2020-12-15
+E001829,U0559,Active Directory,Standard User,Low,Role,2020-12-15
+E001830,U0559,Email,Standard Mailbox,Low,Role,2020-12-15
+E001831,U0560,Pharmacy System,Dispense Medication,High,Role,2018-06-30
+E001832,U0560,EHR,Medication Orders Read,High,Role,2018-06-30
+E001833,U0560,Active Directory,Standard User,Low,Role,2018-06-30
+E001834,U0560,Email,Standard Mailbox,Low,Role,2018-06-30
+E001835,U0561,EHR,Patient Records Read/Write,High,Role,2022-06-08
+E001836,U0561,Active Directory,Standard User,Low,Role,2022-06-08
+E001837,U0561,Email,Standard Mailbox,Low,Role,2022-06-08
+E001838,U0562,EHR,Patient Records Read,High,Role,2018-10-31
+E001839,U0562,Active Directory,Standard User,Low,Role,2018-10-31
+E001840,U0562,Email,Standard Mailbox,Low,Role,2018-10-31
+E001841,U0563,EHR,Scheduling,Medium,Role,2019-07-01
+E001842,U0563,Active Directory,Standard User,Low,Role,2019-07-01
+E001843,U0563,Email,Standard Mailbox,Low,Role,2019-07-01
+E001844,U0564,Radiology PACS,Imaging View/Capture,High,Role,2017-05-05
+E001845,U0564,Active Directory,Standard User,Low,Role,2017-05-05
+E001846,U0564,Email,Standard Mailbox,Low,Role,2017-05-05
+E001847,U0565,Radiology PACS,Imaging View/Capture,High,Role,2015-04-02
+E001848,U0565,Active Directory,Standard User,Low,Role,2015-04-02
+E001849,U0565,Email,Standard Mailbox,Low,Role,2015-04-02
+E001850,U0566,Radiology PACS,Imaging View/Capture,High,Role,2023-06-04
+E001851,U0566,EHR,Patient Records Read,High,Role,2023-06-04
+E001852,U0566,Active Directory,Standard User,Low,Role,2023-06-04
+E001853,U0566,Email,Standard Mailbox,Low,Role,2023-06-04
+E001854,U0566,VPN,VPN Access,Medium,Exception,2024-02-13
+E001855,U0567,Active Directory,Security Log Read,High,Role,2023-12-08
+E001856,U0567,VPN,VPN Access,Medium,Role,2023-12-08
+E001857,U0567,Email,Standard Mailbox,Low,Role,2023-12-08
+E001858,U0568,EHR,Patient Records Read/Write,High,Role,2021-11-12
+E001859,U0568,Active Directory,Standard User,Low,Role,2021-11-12
+E001860,U0568,Email,Standard Mailbox,Low,Role,2021-11-12
+E001861,U0569,Billing System,Claims Entry,Medium,Role,2020-09-22
+E001862,U0569,Active Directory,Standard User,Low,Role,2020-09-22
+E001863,U0569,Email,Standard Mailbox,Low,Role,2020-09-22
+E001864,U0570,Pharmacy System,Inventory View,Medium,Role,2025-08-09
+E001865,U0570,Active Directory,Standard User,Low,Role,2025-08-09
+E001866,U0570,Email,Standard Mailbox,Low,Role,2025-08-09
+E001867,U0571,Billing System,Claims Entry,Medium,Role,2025-12-15
+E001868,U0571,Active Directory,Standard User,Low,Role,2025-12-15
+E001869,U0571,Email,Standard Mailbox,Low,Role,2025-12-15
+E001870,U0572,EHR,Scheduling,Medium,Role,2016-09-03
+E001871,U0572,Active Directory,Standard User,Low,Role,2016-09-03
+E001872,U0572,Email,Standard Mailbox,Low,Role,2016-09-03
+E001873,U0573,Pharmacy System,Dispense Medication,High,Role,2015-11-21
+E001874,U0573,EHR,Medication Orders Read,High,Role,2015-11-21
+E001875,U0573,Active Directory,Standard User,Low,Role,2015-11-21
+E001876,U0573,Email,Standard Mailbox,Low,Role,2015-11-21
+E001877,U0574,Active Directory,Security Log Read,High,Role,2024-08-14
+E001878,U0574,VPN,VPN Access,Medium,Role,2024-08-14
+E001879,U0574,Email,Standard Mailbox,Low,Role,2024-08-14
+E001880,U0575,EHR,Scheduling,Medium,Role,2018-04-28
+E001881,U0575,Active Directory,Standard User,Low,Role,2018-04-28
+E001882,U0575,Email,Standard Mailbox,Low,Role,2018-04-28
+E001883,U0576,Pharmacy System,Inventory View,Medium,Role,2016-06-29
+E001884,U0576,Active Directory,Standard User,Low,Role,2016-06-29
+E001885,U0576,Email,Standard Mailbox,Low,Role,2016-06-29
+E001886,U0577,EHR,Patient Registration,High,Role,2024-01-02
+E001887,U0577,Active Directory,Standard User,Low,Role,2024-01-02
+E001888,U0577,Email,Standard Mailbox,Low,Role,2024-01-02
+E001889,U0578,Radiology PACS,Imaging View/Capture,High,Role,2016-01-14
+E001890,U0578,Active Directory,Standard User,Low,Role,2016-01-14
+E001891,U0578,Email,Standard Mailbox,Low,Role,2016-01-14
+E001892,U0579,EHR,Scheduling,Medium,Role,2026-04-07
+E001893,U0579,Active Directory,Standard User,Low,Role,2026-04-07
+E001894,U0579,Email,Standard Mailbox,Low,Role,2026-04-07
+E001895,U0580,Billing System,Claims Entry,Medium,Role,2017-12-15
+E001896,U0580,Active Directory,Standard User,Low,Role,2017-12-15
+E001897,U0580,Email,Standard Mailbox,Low,Role,2017-12-15
+E001898,U0581,Pharmacy System,Dispense Medication,High,Role,2016-06-21
+E001899,U0581,EHR,Medication Orders Read,High,Role,2016-06-21
+E001900,U0581,Active Directory,Standard User,Low,Role,2016-06-21
+E001901,U0581,Email,Standard Mailbox,Low,Role,2016-06-21
+E001902,U0582,Pharmacy System,Inventory View,Medium,Role,2024-10-06
+E001903,U0582,Active Directory,Standard User,Low,Role,2024-10-06
+E001904,U0582,Email,Standard Mailbox,Low,Role,2024-10-06
+E001905,U0583,EHR,Patient Records Read/Write,High,Role,2017-08-03
+E001906,U0583,Active Directory,Standard User,Low,Role,2017-08-03
+E001907,U0583,Email,Standard Mailbox,Low,Role,2017-08-03
+E001908,U0584,Billing System,Claims Entry,Medium,Role,2018-06-10
+E001909,U0584,Billing System,Claims Approve,High,Role,2018-06-10
+E001910,U0584,Active Directory,Standard User,Low,Role,2018-06-10
+E001911,U0584,Email,Standard Mailbox,Low,Role,2018-06-10
+E001912,U0585,EHR,Patient Registration,High,Role,2023-02-26
+E001913,U0585,Active Directory,Standard User,Low,Role,2023-02-26
+E001914,U0585,Email,Standard Mailbox,Low,Role,2023-02-26
+E001915,U0585,EHR,Patient Records Export,Critical,Manual,2026-03-04
+E001916,U0586,Radiology PACS,Imaging View/Capture,High,Role,2017-01-25
+E001917,U0586,Active Directory,Standard User,Low,Role,2017-01-25
+E001918,U0586,Email,Standard Mailbox,Low,Role,2017-01-25
+E001919,U0587,EHR,Patient Records Read/Write,High,Role,2019-07-28
+E001920,U0587,Active Directory,Standard User,Low,Role,2019-07-28
+E001921,U0587,Email,Standard Mailbox,Low,Role,2019-07-28
+E001922,U0588,Billing System,Claims Entry,Medium,Role,2023-03-08
+E001923,U0588,Active Directory,Standard User,Low,Role,2023-03-08
+E001924,U0588,Email,Standard Mailbox,Low,Role,2023-03-08
+E001925,U0589,EHR,Patient Records Read/Write,High,Role,2015-08-21
+E001926,U0589,EHR,Clinical Schedule Admin,Medium,Role,2015-08-21
+E001927,U0589,Active Directory,Standard User,Low,Role,2015-08-21
+E001928,U0589,Email,Standard Mailbox,Low,Role,2015-08-21
+E001929,U0589,HR Portal,Team Time Approval,Medium,Role,2015-08-21
+E001930,U0589,HR Portal,Payroll Approve,Critical,Manual,2024-01-08
+E001931,U0590,EHR,Patient Records Read/Write,High,Role,2017-06-10
+E001932,U0590,Active Directory,Standard User,Low,Role,2017-06-10
+E001933,U0590,Email,Standard Mailbox,Low,Role,2017-06-10
+E001934,U0591,EHR,Patient Registration,High,Role,2015-06-12
+E001935,U0591,Active Directory,Standard User,Low,Role,2015-06-12
+E001936,U0591,Email,Standard Mailbox,Low,Role,2015-06-12
+E001937,U0592,Pharmacy System,Dispense Medication,High,Role,2022-09-29
+E001938,U0592,EHR,Medication Orders Read,High,Role,2022-09-29
+E001939,U0592,Active Directory,Standard User,Low,Role,2022-09-29
+E001940,U0592,Email,Standard Mailbox,Low,Role,2022-09-29
+E001941,U0593,Billing System,Claims Entry,Medium,Role,2016-06-29
+E001942,U0593,Active Directory,Standard User,Low,Role,2016-06-29
+E001943,U0593,Email,Standard Mailbox,Low,Role,2016-06-29
+E001944,U0594,Radiology PACS,Imaging View/Capture,High,Role,2016-09-21
+E001945,U0594,Active Directory,Standard User,Low,Role,2016-09-21
+E001946,U0594,Email,Standard Mailbox,Low,Role,2016-09-21
+E001947,U0594,HR Portal,Payroll Approve,Critical,Manual,2025-03-24
+E001948,U0595,EHR,Patient Records Read/Write,High,Role,2023-02-22
+E001949,U0595,Active Directory,Standard User,Low,Role,2023-02-22
+E001950,U0595,Email,Standard Mailbox,Low,Role,2023-02-22
+E001951,U0596,EHR,Patient Records Read,High,Role,2016-04-10
+E001952,U0596,Active Directory,Standard User,Low,Role,2016-04-10
+E001953,U0596,Email,Standard Mailbox,Low,Role,2016-04-10
+E001954,U0597,Active Directory,Password Reset Rights,Medium,Role,2021-02-01
+E001955,U0597,VPN,VPN Access,Medium,Role,2021-02-01
+E001956,U0597,Email,Standard Mailbox,Low,Role,2021-02-01
+E001957,U0598,Radiology PACS,Imaging View/Capture,High,Role,2015-11-03
+E001958,U0598,Active Directory,Standard User,Low,Role,2015-11-03
+E001959,U0598,Email,Standard Mailbox,Low,Role,2015-11-03
+E001960,U0599,Active Directory,Standard User,Low,Role,2018-01-08
+E001961,U0599,Email,Standard Mailbox,Low,Role,2018-01-08
+E001962,U0600,Radiology PACS,Imaging View/Capture,High,Role,2018-10-31
+E001963,U0600,Active Directory,Standard User,Low,Role,2018-10-31
+E001964,U0600,Email,Standard Mailbox,Low,Role,2018-10-31
+E001965,U0025,HR Portal,Payroll Approve,High,Manual,2025-07-20
+E001966,U0551,Pharmacy System,Inventory Adjust,High,Manual,2026-08-10
+E001967,U0168,HR Portal,Employee Records Edit,Medium,Manual,2025-09-20
+E001968,U0168,HR Portal,Payroll Approve,High,Manual,2024-06-30
+E001969,U0316,Billing System,Claims Approve,High,Manual,2025-01-16
+E001970,U0306,Pharmacy System,Inventory Adjust,High,Manual,2026-09-08
+E001971,U0041,Billing System,Claims Approve,High,Manual,2024-10-09
+E001972,U0232,Billing System,Claims Approve,High,Manual,2026-05-09
+E001973,U0200,Billing System,Claims Approve,High,Manual,2026-07-26
+E001974,U0384,Pharmacy System,Inventory Adjust,High,Manual,2024-11-29
+E001975,U0486,Billing System,Claims Approve,High,Manual,2025-09-16
+E001976,U0379,Billing System,Claims Approve,High,Manual,2025-10-21
+E001977,U0185,HR Portal,Payroll Approve,High,Manual,2026-04-03
+E001978,U0499,Billing System,Claims Approve,High,Manual,2026-04-07
+E001979,U0480,Billing System,Claims Approve,High,Manual,2024-07-21
+E001980,U0530,Billing System,Claims Approve,High,Manual,2025-02-26
+E001981,U0113,Billing System,Claims Approve,High,Manual,2026-08-05
+E001982,U0509,Pharmacy System,Inventory Adjust,High,Manual,2025-03-27
+E001983,U0263,Billing System,Claims Approve,High,Manual,2024-12-26
+E001984,U0582,Pharmacy System,Dispense Medication,Medium,Manual,2025-11-15
+E001985,U0582,Pharmacy System,Inventory Adjust,High,Manual,2024-11-13
+E001986,U0588,Billing System,Claims Approve,High,Manual,2024-10-03
+E001987,U0399,Pharmacy System,Inventory Adjust,High,Manual,2026-04-07
+E001988,U0288,Billing System,Claims Approve,High,Manual,2024-09-09

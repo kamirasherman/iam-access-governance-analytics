@@ -1,0 +1,79 @@
+department,job_title,system,entitlement,risk_level
+Nursing,RN - Staff Nurse,EHR,Patient Records Read/Write,High
+Nursing,RN - Staff Nurse,Active Directory,Standard User,Low
+Nursing,RN - Staff Nurse,Email,Standard Mailbox,Low
+Nursing,CNA,EHR,Patient Records Read,High
+Nursing,CNA,Active Directory,Standard User,Low
+Nursing,CNA,Email,Standard Mailbox,Low
+Nursing,Nurse Manager,EHR,Patient Records Read/Write,High
+Nursing,Nurse Manager,EHR,Clinical Schedule Admin,Medium
+Nursing,Nurse Manager,Active Directory,Standard User,Low
+Nursing,Nurse Manager,Email,Standard Mailbox,Low
+Nursing,Nurse Manager,HR Portal,Team Time Approval,Medium
+Billing,Billing Specialist,Billing System,Claims Entry,Medium
+Billing,Billing Specialist,Active Directory,Standard User,Low
+Billing,Billing Specialist,Email,Standard Mailbox,Low
+Billing,Claims Analyst,Billing System,Claims Entry,Medium
+Billing,Claims Analyst,Billing System,Claims Reporting,Medium
+Billing,Claims Analyst,Active Directory,Standard User,Low
+Billing,Claims Analyst,Email,Standard Mailbox,Low
+Billing,Billing Supervisor,Billing System,Claims Entry,Medium
+Billing,Billing Supervisor,Billing System,Claims Approve,High
+Billing,Billing Supervisor,Active Directory,Standard User,Low
+Billing,Billing Supervisor,Email,Standard Mailbox,Low
+Pharmacy,Pharmacist,Pharmacy System,Dispense Medication,High
+Pharmacy,Pharmacist,EHR,Medication Orders Read,High
+Pharmacy,Pharmacist,Active Directory,Standard User,Low
+Pharmacy,Pharmacist,Email,Standard Mailbox,Low
+Pharmacy,Pharmacy Tech,Pharmacy System,Inventory View,Medium
+Pharmacy,Pharmacy Tech,Active Directory,Standard User,Low
+Pharmacy,Pharmacy Tech,Email,Standard Mailbox,Low
+Pharmacy,Pharmacy Manager,Pharmacy System,Dispense Medication,High
+Pharmacy,Pharmacy Manager,Pharmacy System,Inventory Adjust,High
+Pharmacy,Pharmacy Manager,Active Directory,Standard User,Low
+Pharmacy,Pharmacy Manager,Email,Standard Mailbox,Low
+Radiology,Radiology Tech,Radiology PACS,Imaging View/Capture,High
+Radiology,Radiology Tech,Active Directory,Standard User,Low
+Radiology,Radiology Tech,Email,Standard Mailbox,Low
+Radiology,Radiologist,Radiology PACS,Imaging View/Capture,High
+Radiology,Radiologist,EHR,Patient Records Read,High
+Radiology,Radiologist,Active Directory,Standard User,Low
+Radiology,Radiologist,Email,Standard Mailbox,Low
+IT,Help Desk Analyst,Active Directory,Password Reset Rights,Medium
+IT,Help Desk Analyst,VPN,VPN Access,Medium
+IT,Help Desk Analyst,Email,Standard Mailbox,Low
+IT,Systems Administrator,Active Directory,Domain Admin,Critical
+IT,Systems Administrator,VPN,VPN Access,Medium
+IT,Systems Administrator,Email,Standard Mailbox,Low
+IT,Security Analyst,Active Directory,Security Log Read,High
+IT,Security Analyst,VPN,VPN Access,Medium
+IT,Security Analyst,Email,Standard Mailbox,Low
+IT,IT Manager,Active Directory,Domain Admin,Critical
+IT,IT Manager,VPN,VPN Access,Medium
+IT,IT Manager,Email,Standard Mailbox,Low
+IT,IT Manager,HR Portal,Team Time Approval,Medium
+HR,HR Generalist,HR Portal,Employee Records Edit,High
+HR,HR Generalist,Active Directory,Standard User,Low
+HR,HR Generalist,Email,Standard Mailbox,Low
+HR,Payroll Specialist,HR Portal,Payroll Process,High
+HR,Payroll Specialist,Active Directory,Standard User,Low
+HR,Payroll Specialist,Email,Standard Mailbox,Low
+HR,HR Manager,HR Portal,Employee Records Edit,High
+HR,HR Manager,HR Portal,Payroll Approve,Critical
+HR,HR Manager,Active Directory,Standard User,Low
+HR,HR Manager,Email,Standard Mailbox,Low
+Patient Services,Scheduler,EHR,Scheduling,Medium
+Patient Services,Scheduler,Active Directory,Standard User,Low
+Patient Services,Scheduler,Email,Standard Mailbox,Low
+Patient Services,Registration Clerk,EHR,Patient Registration,High
+Patient Services,Registration Clerk,Active Directory,Standard User,Low
+Patient Services,Registration Clerk,Email,Standard Mailbox,Low
+Patient Services,Patient Services Supervisor,EHR,Scheduling,Medium
+Patient Services,Patient Services Supervisor,EHR,Patient Registration,High
+Patient Services,Patient Services Supervisor,Active Directory,Standard User,Low
+Patient Services,Patient Services Supervisor,Email,Standard Mailbox,Low
+Facilities,Maintenance Tech,Active Directory,Standard User,Low
+Facilities,Maintenance Tech,Email,Standard Mailbox,Low
+Facilities,Facilities Manager,Active Directory,Standard User,Low
+Facilities,Facilities Manager,Email,Standard Mailbox,Low
+Facilities,Facilities Manager,HR Portal,Team Time Approval,Medium

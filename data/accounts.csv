@@ -1,0 +1,2352 @@
+account_id,user_id,system,status,is_privileged,is_service_account,created_date,last_login
+A00001,U0001,EHR,Enabled,False,False,2026-05-09,2026-08-16
+A00002,U0001,Active Directory,Enabled,False,False,2026-04-29,2026-07-29
+A00003,U0001,HR Portal,Enabled,False,False,2026-04-06,2026-08-01
+A00004,U0001,Email,Enabled,False,False,2026-04-12,2026-08-06
+A00005,U0002,EHR,Enabled,False,False,2025-06-21,2026-04-28
+A00006,U0002,Active Directory,Enabled,False,False,2025-05-28,2026-09-23
+A00007,U0002,VPN,Enabled,False,False,2025-05-08,2026-08-09
+A00008,U0002,Email,Enabled,False,False,2025-06-09,2026-09-09
+A00009,U0003,EHR,Enabled,False,False,2020-04-21,2026-09-19
+A00010,U0003,Active Directory,Enabled,False,False,2020-06-01,2026-09-23
+A00011,U0003,HR Portal,Enabled,False,False,2020-05-05,2026-09-15
+A00012,U0003,Email,Enabled,False,False,2020-04-09,2026-09-15
+A00013,U0004,Active Directory,Enabled,False,False,2016-05-27,2026-08-07
+A00014,U0005,EHR,Enabled,False,False,2026-02-17,2026-08-16
+A00015,U0005,Pharmacy System,Enabled,False,False,2026-01-19,2026-09-10
+A00016,U0005,Active Directory,Enabled,False,False,2026-01-26,2026-08-13
+A00017,U0005,Radiology PACS,Enabled,False,False,2026-02-07,2026-09-23
+A00018,U0005,Email,Enabled,False,False,2026-02-12,2026-08-06
+A00019,U0006,EHR,Enabled,False,False,2026-02-08,2026-09-22
+A00020,U0006,Active Directory,Enabled,True,False,2026-03-02,2026-08-11
+A00021,U0006,VPN,Enabled,False,False,2026-02-17,2026-09-20
+A00022,U0006,Email,Enabled,False,False,2026-03-23,2026-09-16
+A00023,U0007,Pharmacy System,Enabled,False,False,2026-02-20,2026-08-07
+A00024,U0007,Active Directory,Enabled,False,False,2026-02-21,2026-09-03
+A00025,U0007,VPN,Enabled,False,False,2026-02-28,2026-08-07
+A00026,U0007,Email,Enabled,False,False,2026-01-30,2026-01-20
+A00027,U0008,Active Directory,Enabled,False,False,2019-02-09,2026-08-11
+A00028,U0008,HR Portal,Enabled,False,False,2018-12-20,2026-09-24
+A00029,U0008,Email,Enabled,False,False,2018-12-27,2026-08-13
+A00030,U0009,EHR,Enabled,False,False,2026-02-21,2026-09-21
+A00031,U0009,Active Directory,Enabled,False,False,2026-02-16,2025-06-14
+A00032,U0009,Radiology PACS,Enabled,False,False,2026-02-24,2026-07-27
+A00033,U0009,Email,Enabled,False,False,2026-01-24,2026-09-18
+A00034,U0010,Billing System,Enabled,False,False,2026-04-23,2026-08-29
+A00035,U0010,Active Directory,Enabled,True,False,2026-05-03,2026-08-28
+A00036,U0010,VPN,Enabled,False,False,2026-05-12,2026-04-15
+A00037,U0010,Email,Enabled,False,False,2026-05-08,2026-08-24
+A00038,U0011,EHR,Enabled,False,False,2015-11-07,2026-08-18
+A00039,U0011,Active Directory,Enabled,False,False,2015-11-05,2026-08-11
+A00040,U0011,VPN,Enabled,False,False,2015-12-16,2025-09-20
+A00041,U0011,HR Portal,Enabled,False,False,2015-12-25,2026-01-21
+A00042,U0011,Email,Enabled,False,False,2015-12-01,2026-09-16
+A00043,U0012,Pharmacy System,Enabled,False,False,2016-02-04,2026-08-25
+A00044,U0012,Active Directory,Enabled,False,False,2015-12-25,2026-08-22
+A00045,U0012,Radiology PACS,Enabled,False,False,2016-01-13,2026-09-13
+A00046,U0012,Email,Enabled,False,False,2016-01-02,2026-09-20
+A00047,U0013,EHR,Disabled,False,False,2020-03-17,2020-10-06
+A00048,U0013,Active Directory,Disabled,False,False,2020-02-13,2026-02-01
+A00049,U0013,HR Portal,Disabled,False,False,2020-03-22,2026-01-04
+A00050,U0013,Email,Enabled,False,False,2020-03-02,2026-07-30
+A00051,U0014,EHR,Enabled,False,False,2025-12-04,2026-09-14
+A00052,U0014,Active Directory,Enabled,False,False,2026-01-09,2026-08-10
+A00053,U0014,Email,Enabled,False,False,2026-01-05,2026-08-16
+A00054,U0015,Email,Enabled,False,False,2016-05-13,2026-08-20
+A00055,U0016,EHR,Enabled,False,False,2015-03-08,2026-09-06
+A00056,U0016,Active Directory,Enabled,False,False,2015-02-26,2026-09-01
+A00057,U0016,Email,Enabled,False,False,2015-02-07,2026-08-09
+A00058,U0017,EHR,Enabled,False,False,2023-07-10,2026-07-30
+A00059,U0017,Active Directory,Enabled,False,False,2023-06-30,2026-09-12
+A00060,U0017,HR Portal,Enabled,False,False,2023-07-24,2026-08-19
+A00061,U0018,Billing System,Enabled,False,False,2016-03-22,2026-06-04
+A00062,U0018,Active Directory,Enabled,False,False,2016-03-23,2026-09-08
+A00063,U0018,Email,Enabled,False,False,2016-04-17,2026-07-31
+A00064,U0019,EHR,Enabled,False,False,2024-10-31,2026-09-22
+A00065,U0019,Active Directory,Enabled,False,False,2024-10-30,2026-09-20
+A00066,U0019,HR Portal,Enabled,False,False,2024-12-04,2026-08-14
+A00067,U0019,Email,Disabled,False,False,2024-10-25,2026-02-11
+A00068,U0020,EHR,Enabled,False,False,2021-02-07,2026-08-31
+A00069,U0020,Billing System,Enabled,False,False,2021-02-17,2026-08-01
+A00070,U0020,Pharmacy System,Enabled,False,False,2021-02-24,2026-08-08
+A00071,U0020,Active Directory,Enabled,False,False,2021-03-07,2026-09-11
+A00072,U0020,VPN,Enabled,False,False,2021-02-01,2026-08-27
+A00073,U0020,HR Portal,Enabled,False,False,2021-03-12,2026-09-19
+A00074,U0020,Email,Enabled,False,False,2021-03-14,2026-09-10
+A00075,U0021,EHR,Enabled,False,False,2019-09-25,2026-07-28
+A00076,U0021,Active Directory,Disabled,False,False,2019-08-05,2025-05-09
+A00077,U0021,Radiology PACS,Disabled,False,False,2019-09-29,2023-11-26
+A00078,U0021,Email,Enabled,False,False,2019-08-22,2026-08-02
+A00079,U0022,EHR,Enabled,False,False,2017-10-02,2026-08-01
+A00080,U0022,Active Directory,Enabled,False,False,2017-10-25,2026-08-30
+A00081,U0022,HR Portal,Enabled,False,False,2017-11-12,2026-09-13
+A00082,U0022,Email,Enabled,False,False,2017-11-06,2026-09-10
+A00083,U0023,Pharmacy System,Enabled,False,False,2025-06-05,2026-08-12
+A00084,U0023,Active Directory,Enabled,True,False,2025-05-04,2026-09-19
+A00085,U0023,Radiology PACS,Disabled,False,False,2025-04-29,2025-12-15
+A00086,U0023,Email,Enabled,False,False,2025-05-23,2026-08-02
+A00087,U0024,EHR,Enabled,False,False,2021-11-21,2026-05-09
+A00088,U0024,Active Directory,Enabled,False,False,2021-11-23,2026-08-27
+A00089,U0024,Email,Enabled,False,False,2021-11-10,2026-08-25
+A00090,U0025,EHR,Enabled,False,False,2024-12-06,2026-08-07
+A00091,U0025,Active Directory,Enabled,False,False,2025-01-06,2026-08-18
+A00092,U0025,VPN,Disabled,False,False,2024-12-25,2026-03-07
+A00093,U0025,Email,Enabled,False,False,2024-12-12,2026-08-28
+A00094,U0026,Active Directory,Enabled,False,False,2020-04-04,2026-09-06
+A00095,U0026,VPN,Enabled,False,False,2020-03-21,2026-09-15
+A00096,U0026,Email,Enabled,False,False,2020-03-14,2026-07-28
+A00097,U0027,EHR,Enabled,False,False,2024-03-21,2026-08-03
+A00098,U0027,Active Directory,Enabled,False,False,2024-04-05,2025-10-01
+A00099,U0027,HR Portal,Disabled,False,False,2024-04-21,2025-06-17
+A00100,U0027,Radiology PACS,Enabled,False,False,2024-05-15,2026-09-18
+A00101,U0027,Email,Enabled,False,False,2024-05-17,2026-09-08
+A00102,U0028,Billing System,Enabled,False,False,2021-02-09,2026-08-03
+A00103,U0028,Active Directory,Enabled,False,False,2021-02-27,2026-09-05
+A00104,U0028,VPN,Enabled,False,False,2021-03-14,2026-09-01
+A00105,U0028,HR Portal,Enabled,False,False,2021-03-18,2026-08-03
+A00106,U0028,Email,Enabled,False,False,2021-03-03,2025-09-17
+A00107,U0029,Billing System,Enabled,False,False,2021-09-04,2026-09-01
+A00108,U0029,Active Directory,Enabled,False,False,2021-07-27,2026-08-16
+A00109,U0029,VPN,Enabled,False,False,2021-09-03,2026-09-20
+A00110,U0029,Email,Enabled,False,False,2021-09-02,2025-07-31
+A00111,U0030,EHR,Enabled,False,False,2015-11-07,2026-09-04
+A00112,U0030,Active Directory,Enabled,False,False,2015-09-26,2026-09-20
+A00113,U0030,VPN,Enabled,False,False,2015-09-18,2026-08-07
+A00114,U0030,HR Portal,Disabled,False,False,2015-09-29,2019-04-16
+A00115,U0030,Email,Enabled,False,False,2015-09-23,2026-09-09
+A00116,U0031,EHR,Enabled,False,False,2025-07-17,2026-09-15
+A00117,U0031,Active Directory,Enabled,False,False,2025-06-29,2026-08-11
+A00118,U0031,Email,Enabled,False,False,2025-08-06,2026-09-14
+A00119,U0032,EHR,Enabled,False,False,2015-12-26,2026-03-18
+A00120,U0032,Billing System,Enabled,False,False,2015-12-24,2026-08-08
+A00121,U0032,Active Directory,Enabled,False,False,2016-01-15,2026-09-17
+A00122,U0032,HR Portal,Enabled,False,False,2016-01-12,2026-01-28
+A00123,U0032,Email,Enabled,False,False,2016-01-28,2025-11-02
+A00124,U0033,EHR,Enabled,False,False,2017-06-07,2026-03-23
+A00125,U0033,Active Directory,Enabled,False,False,2017-06-06,2026-09-17
+A00126,U0033,VPN,Enabled,False,False,2017-06-03,2026-08-19
+A00127,U0033,Email,Enabled,False,False,2017-05-15,2026-08-19
+A00128,U0034,Active Directory,Enabled,False,False,2025-02-04,2026-08-18
+A00129,U0034,Radiology PACS,Enabled,False,False,2025-02-01,2026-09-18
+A00130,U0034,Email,Enabled,False,False,2025-02-10,2026-08-19
+A00131,U0035,Active Directory,Enabled,False,False,2019-12-02,2026-08-25
+A00132,U0035,Email,Enabled,False,False,2019-10-24,2026-08-26
+A00133,U0036,EHR,Enabled,False,False,2026-03-27,2026-08-05
+A00134,U0036,Active Directory,Enabled,True,False,2026-05-02,2026-07-30
+A00135,U0036,Email,Enabled,False,False,2026-04-06,2026-07-27
+A00136,U0037,EHR,Enabled,False,False,2025-05-03,2026-08-09
+A00137,U0037,Active Directory,Enabled,False,False,2025-04-03,2026-08-23
+A00138,U0037,Email,Enabled,False,False,2025-04-24,2026-09-19
+A00139,U0038,EHR,Enabled,False,False,2018-07-01,2026-09-02
+A00140,U0038,Billing System,Disabled,False,False,2018-07-14,2020-04-30
+A00141,U0038,Active Directory,Disabled,False,False,2018-07-10,2019-01-03
+A00142,U0038,HR Portal,Disabled,False,False,2018-08-08,2020-11-12
+A00143,U0038,Email,Disabled,False,False,2018-07-17,2018-07-30
+A00144,U0039,EHR,Enabled,False,False,2022-02-24,2026-09-13
+A00145,U0039,Active Directory,Enabled,False,False,2022-02-13,2026-07-30
+A00146,U0039,HR Portal,Enabled,False,False,2022-02-08,2026-08-03
+A00147,U0039,Email,Enabled,False,False,2022-02-22,2026-08-26
+A00148,U0040,Billing System,Enabled,False,False,2018-07-17,2026-07-27
+A00149,U0040,VPN,Enabled,False,False,2018-06-20,2026-07-29
+A00150,U0040,Email,Disabled,False,False,2018-07-16,2019-11-17
+A00151,U0041,EHR,Enabled,False,False,2019-01-21,2026-08-24
+A00152,U0041,Billing System,Enabled,False,False,2019-01-05,2026-08-23
+A00153,U0041,Active Directory,Enabled,False,False,2019-01-04,2026-07-31
+A00154,U0041,VPN,Enabled,False,False,2019-01-22,2026-04-09
+A00155,U0041,Email,Enabled,False,False,2019-01-22,2026-08-16
+A00156,U0042,Pharmacy System,Enabled,False,False,2018-03-28,2026-09-10
+A00157,U0042,Active Directory,Enabled,False,False,2018-04-10,2026-06-22
+A00158,U0042,HR Portal,Enabled,False,False,2018-03-30,2026-09-01
+A00159,U0042,Email,Enabled,False,False,2018-03-27,2026-08-11
+A00160,U0043,EHR,Enabled,False,False,2022-05-03,2026-08-28
+A00161,U0043,Active Directory,Enabled,False,False,2022-05-15,2026-08-01
+A00162,U0043,VPN,Enabled,False,False,2022-03-31,2026-08-06
+A00163,U0043,Email,Enabled,False,False,2022-05-12,2026-09-01
+A00164,U0044,EHR,Enabled,False,False,2020-06-08,2026-08-28
+A00165,U0044,Active Directory,Enabled,False,False,2020-07-26,2026-08-23
+A00166,U0044,Radiology PACS,Enabled,False,False,2020-06-19,2025-12-18
+A00167,U0044,Email,Enabled,False,False,2020-06-17,2026-08-10
+A00168,U0045,EHR,Enabled,False,False,2022-09-21,2026-09-07
+A00169,U0045,Pharmacy System,Enabled,False,False,2022-10-25,2026-08-12
+A00170,U0045,Active Directory,Enabled,False,False,2022-10-18,2026-08-26
+A00171,U0045,HR Portal,Enabled,False,False,2022-10-03,2026-09-13
+A00172,U0045,Email,Enabled,False,False,2022-09-18,2026-08-13
+A00173,U0046,EHR,Enabled,False,False,2024-01-01,2026-08-25
+A00174,U0046,Active Directory,Enabled,False,False,2024-01-08,2026-08-06
+A00175,U0046,Email,Enabled,False,False,2024-02-04,2026-09-03
+A00176,U0047,EHR,Enabled,False,False,2019-12-25,2025-08-02
+A00177,U0047,Active Directory,Enabled,False,False,2019-11-27,2026-08-23
+A00178,U0047,Email,Enabled,False,False,2019-12-07,2026-09-16
+A00179,U0048,EHR,Enabled,False,False,2025-12-24,2026-08-22
+A00180,U0048,Active Directory,Enabled,False,False,2025-12-11,2025-12-01
+A00181,U0048,Email,Enabled,False,False,2025-12-31,2025-08-15
+A00182,U0049,EHR,Enabled,False,False,2025-10-29,2026-08-15
+A00183,U0049,Active Directory,Enabled,False,False,2025-09-15,2026-09-20
+A00184,U0049,HR Portal,Enabled,False,False,2025-10-09,2026-09-06
+A00185,U0049,Email,Enabled,False,False,2025-09-16,2026-08-29
+A00186,U0050,EHR,Enabled,False,False,2016-04-26,2026-09-09
+A00187,U0050,Billing System,Enabled,False,False,2016-04-23,2026-08-23
+A00188,U0050,Active Directory,Enabled,False,False,2016-04-14,2026-09-18
+A00189,U0050,VPN,Enabled,False,False,2016-03-06,2026-08-13
+A00190,U0050,Email,Enabled,False,False,2016-03-26,2026-08-06
+A00191,U0051,EHR,Enabled,False,False,2026-04-17,2026-09-06
+A00192,U0051,Active Directory,Enabled,False,False,2026-04-16,2026-08-27
+A00193,U0051,VPN,Enabled,False,False,2026-03-30,2026-09-01
+A00194,U0051,Email,Enabled,False,False,2026-03-28,2026-08-24
+A00195,U0052,EHR,Enabled,False,False,2021-01-15,2026-09-22
+A00196,U0052,Active Directory,Enabled,True,False,2020-12-23,2026-08-10
+A00197,U0052,Radiology PACS,Enabled,False,False,2021-01-18,2026-08-24
+A00198,U0052,Email,Enabled,False,False,2020-12-29,2026-08-25
+A00199,U0053,Active Directory,Enabled,False,False,2022-05-27,2026-09-12
+A00200,U0053,HR Portal,Enabled,False,False,2022-05-12,2026-08-22
+A00201,U0053,Email,Enabled,False,False,2022-05-10,2026-08-25
+A00202,U0054,EHR,Enabled,False,False,2015-09-30,2026-08-17
+A00203,U0054,Billing System,Enabled,False,False,2015-10-11,2026-08-21
+A00204,U0054,Active Directory,Enabled,False,False,2015-10-29,2026-09-09
+A00205,U0054,VPN,Enabled,False,False,2015-09-14,2026-01-18
+A00206,U0054,HR Portal,Enabled,False,False,2015-10-15,2026-05-10
+A00207,U0054,Email,Enabled,False,False,2015-10-01,2026-08-11
+A00208,U0055,Active Directory,Enabled,False,False,2020-08-25,2026-09-03
+A00209,U0055,HR Portal,Enabled,False,False,2020-09-21,2026-08-24
+A00210,U0055,Radiology PACS,Enabled,False,False,2020-09-22,2026-08-01
+A00211,U0055,Email,Enabled,False,False,2020-09-22,2026-09-12
+A00212,U0056,EHR,Enabled,False,False,2019-11-30,2026-08-24
+A00213,U0056,Active Directory,Enabled,False,False,2019-10-27,2026-08-13
+A00214,U0056,Email,Enabled,False,False,2019-11-05,2026-08-14
+A00215,U0057,EHR,Enabled,False,False,2016-12-22,2026-09-24
+A00216,U0057,Active Directory,Enabled,False,False,2016-11-08,2026-09-09
+A00217,U0057,Email,Enabled,False,False,2016-12-23,2026-07-28
+A00218,U0058,EHR,Enabled,False,False,2020-11-22,2026-08-23
+A00219,U0058,Email,Enabled,False,False,2020-11-04,2026-09-13
+A00220,U0059,EHR,Enabled,False,False,2021-05-31,2026-08-31
+A00221,U0059,Active Directory,Enabled,True,False,2021-05-08,2026-09-23
+A00222,U0059,VPN,Enabled,False,False,2021-05-15,2026-09-02
+A00223,U0059,Email,Enabled,False,False,2021-05-28,2026-08-16
+A00224,U0060,EHR,Enabled,False,False,2024-09-29,2026-08-04
+A00225,U0060,VPN,Enabled,False,False,2024-08-26,2026-09-03
+A00226,U0060,Email,Enabled,False,False,2024-09-09,2026-08-28
+A00227,U0061,EHR,Enabled,False,False,2025-08-02,2026-09-01
+A00228,U0061,Active Directory,Enabled,False,False,2025-07-08,2026-07-27
+A00229,U0061,VPN,Enabled,False,False,2025-07-06,2026-08-09
+A00230,U0061,Email,Enabled,False,False,2025-06-26,2026-09-08
+A00231,U0062,EHR,Enabled,False,False,2022-12-02,2026-09-02
+A00232,U0062,Active Directory,Enabled,False,False,2022-11-12,2026-09-09
+A00233,U0062,Email,Enabled,False,False,2022-12-04,2026-08-30
+A00234,U0063,Active Directory,Enabled,False,False,2020-08-26,2026-07-27
+A00235,U0063,HR Portal,Enabled,False,False,2020-08-04,2026-08-10
+A00236,U0063,Email,Disabled,False,False,2020-07-19,2022-12-27
+A00237,U0064,EHR,Enabled,False,False,2017-03-27,2026-08-30
+A00238,U0064,Active Directory,Enabled,False,False,2017-04-18,2026-08-10
+A00239,U0064,Email,Enabled,False,False,2017-03-24,2026-08-04
+A00240,U0065,EHR,Enabled,False,False,2015-07-28,2026-09-11
+A00241,U0065,Pharmacy System,Enabled,False,False,2015-08-10,2026-08-11
+A00242,U0065,Active Directory,Enabled,False,False,2015-09-03,2025-07-15
+A00243,U0065,VPN,Enabled,False,False,2015-09-03,2026-08-10
+A00244,U0065,HR Portal,Enabled,False,False,2015-08-09,2026-09-21
+A00245,U0065,Email,Enabled,False,False,2015-07-29,2025-12-13
+A00246,U0066,EHR,Enabled,False,False,2025-09-03,2025-08-26
+A00247,U0066,Active Directory,Enabled,False,False,2025-09-06,2026-08-16
+A00248,U0066,Email,Enabled,False,False,2025-09-06,2026-09-20
+A00249,U0067,Active Directory,Enabled,False,False,2015-06-27,2026-07-27
+A00250,U0067,HR Portal,Enabled,False,False,2015-05-21,2026-08-18
+A00251,U0067,Email,Enabled,False,False,2015-07-07,2026-09-02
+A00252,U0068,EHR,Enabled,False,False,2016-01-11,2026-08-13
+A00253,U0068,Billing System,Disabled,False,False,2016-01-23,2016-06-20
+A00254,U0068,Active Directory,Enabled,False,False,2016-01-31,2026-08-28
+A00255,U0068,VPN,Enabled,False,False,2016-01-09,2026-09-17
+A00256,U0069,Active Directory,Enabled,False,False,2021-11-09,2026-08-31
+A00257,U0069,Email,Enabled,False,False,2021-10-24,2026-09-01
+A00258,U0070,EHR,Enabled,False,False,2021-02-15,2026-08-08
+A00259,U0070,Active Directory,Enabled,False,False,2021-03-27,2026-08-24
+A00260,U0070,HR Portal,Enabled,False,False,2021-03-16,2026-09-13
+A00261,U0070,Radiology PACS,Enabled,False,False,2021-03-03,2026-09-16
+A00262,U0070,Email,Enabled,False,False,2021-03-25,2026-03-18
+A00263,U0071,EHR,Enabled,False,False,2016-12-09,2026-08-18
+A00264,U0071,Active Directory,Enabled,False,False,2016-11-29,2026-08-24
+A00265,U0071,VPN,Enabled,False,False,2016-11-28,2026-09-15
+A00266,U0071,Email,Enabled,False,False,2016-12-09,2026-08-20
+A00267,U0072,Active Directory,Enabled,False,False,2017-12-11,2026-08-02
+A00268,U0072,Email,Enabled,False,False,2017-12-28,2026-08-27
+A00269,U0073,EHR,Enabled,False,False,2020-03-16,2026-09-06
+A00270,U0073,Billing System,Enabled,False,False,2020-03-28,2026-08-03
+A00271,U0073,Active Directory,Enabled,False,False,2020-04-17,2026-08-03
+A00272,U0073,VPN,Enabled,False,False,2020-03-09,2025-06-20
+A00273,U0073,Email,Enabled,False,False,2020-03-18,2026-09-15
+A00274,U0074,EHR,Enabled,False,False,2023-05-27,2026-08-14
+A00275,U0074,Active Directory,Enabled,False,False,2023-06-11,2026-08-21
+A00276,U0074,VPN,Enabled,False,False,2023-06-25,2026-08-13
+A00277,U0074,Email,Enabled,False,False,2023-06-04,2026-09-12
+A00278,U0075,EHR,Enabled,False,False,2018-09-13,2026-09-07
+A00279,U0075,Billing System,Enabled,False,False,2018-09-30,2026-08-17
+A00280,U0075,Active Directory,Enabled,False,False,2018-09-29,2026-09-18
+A00281,U0075,HR Portal,Enabled,False,False,2018-09-19,2026-08-26
+A00282,U0075,Email,Enabled,False,False,2018-09-05,2026-08-18
+A00283,U0076,EHR,Enabled,False,False,2021-01-05,2025-06-07
+A00284,U0076,Billing System,Enabled,False,False,2020-12-16,2026-08-09
+A00285,U0076,Active Directory,Enabled,False,False,2021-01-13,2026-09-05
+A00286,U0076,VPN,Enabled,False,False,2020-12-16,2026-08-30
+A00287,U0076,Radiology PACS,Enabled,False,False,2021-01-16,2026-04-15
+A00288,U0076,Email,Enabled,False,False,2020-12-13,2026-09-17
+A00289,U0077,Billing System,Enabled,False,False,2018-09-13,2026-09-14
+A00290,U0077,Active Directory,Enabled,False,False,2018-10-11,2026-09-07
+A00291,U0077,Email,Enabled,False,False,2018-09-17,2026-09-09
+A00292,U0078,EHR,Enabled,False,False,2019-07-05,2026-08-26
+A00293,U0078,Active Directory,Enabled,False,False,2019-06-27,2026-07-28
+A00294,U0078,Email,Enabled,False,False,2019-06-15,2026-09-11
+A00295,U0079,EHR,Enabled,False,False,2016-12-15,2026-08-12
+A00296,U0079,Billing System,Enabled,False,False,2017-01-14,2026-09-09
+A00297,U0079,Pharmacy System,Enabled,False,False,2017-01-08,2026-09-12
+A00298,U0079,Active Directory,Enabled,False,False,2016-12-25,2026-07-31
+A00299,U0079,Radiology PACS,Enabled,False,False,2016-12-05,2026-09-14
+A00300,U0079,Email,Enabled,False,False,2016-12-01,2026-08-15
+A00301,U0080,EHR,Enabled,False,False,2024-06-17,2026-08-02
+A00302,U0080,Active Directory,Enabled,False,False,2024-06-30,2026-08-08
+A00303,U0080,VPN,Enabled,False,False,2024-08-03,2026-08-27
+A00304,U0080,Email,Enabled,False,False,2024-06-12,2026-09-04
+A00305,U0081,EHR,Enabled,False,False,2025-03-08,2026-08-30
+A00306,U0081,Active Directory,Enabled,False,False,2025-03-07,2026-02-10
+A00307,U0081,HR Portal,Enabled,False,False,2025-03-07,2026-08-08
+A00308,U0081,Email,Enabled,False,False,2025-03-13,2026-07-30
+A00309,U0082,Active Directory,Enabled,False,False,2022-10-24,2026-08-10
+A00310,U0082,Email,Enabled,False,False,2022-08-26,2026-08-20
+A00311,U0083,EHR,Enabled,False,False,2017-01-05,2026-09-12
+A00312,U0083,Billing System,Enabled,False,False,2016-12-31,2026-09-24
+A00313,U0083,Active Directory,Enabled,False,False,2017-01-01,2026-09-03
+A00314,U0083,VPN,Enabled,False,False,2017-01-06,2026-09-23
+A00315,U0083,Email,Enabled,False,False,2017-01-02,2026-09-06
+A00316,U0084,EHR,Enabled,False,False,2025-08-27,2026-08-06
+A00317,U0084,Active Directory,Enabled,False,False,2025-08-09,2026-09-14
+A00318,U0084,Email,Enabled,False,False,2025-09-07,2026-08-27
+A00319,U0085,EHR,Enabled,False,False,2026-05-18,2026-07-31
+A00320,U0085,Active Directory,Enabled,False,False,2026-06-15,2026-08-15
+A00321,U0085,Email,Enabled,False,False,2026-06-22,2026-08-22
+A00322,U0086,EHR,Disabled,False,False,2016-02-19,2023-01-16
+A00323,U0086,Active Directory,Enabled,False,False,2016-01-31,2026-08-20
+A00324,U0086,VPN,Enabled,False,False,2016-02-22,2026-09-13
+A00325,U0086,Email,Enabled,False,False,2016-02-08,2026-08-06
+A00326,U0087,EHR,Enabled,False,False,2017-02-21,2026-08-24
+A00327,U0087,Active Directory,Enabled,False,False,2017-03-03,2026-08-24
+A00328,U0087,HR Portal,Enabled,False,False,2017-02-05,2026-08-08
+A00329,U0087,Email,Enabled,False,False,2017-03-06,2026-08-31
+A00330,U0088,EHR,Enabled,False,False,2015-09-07,2026-09-05
+A00331,U0088,Active Directory,Enabled,False,False,2015-08-04,2026-09-02
+A00332,U0088,Email,Enabled,False,False,2015-09-17,2026-08-27
+A00333,U0089,Active Directory,Enabled,False,False,2026-03-24,2026-07-29
+A00334,U0089,Email,Enabled,False,False,2026-03-26,2026-08-04
+A00335,U0090,EHR,Enabled,False,False,2015-04-16,2026-09-10
+A00336,U0090,Active Directory,Enabled,False,False,2015-04-28,2026-08-26
+A00337,U0090,VPN,Enabled,False,False,2015-04-14,2026-07-31
+A00338,U0090,HR Portal,Enabled,False,False,2015-04-10,2026-08-24
+A00339,U0090,Email,Enabled,False,False,2015-04-14,2026-02-20
+A00340,U0091,EHR,Enabled,False,False,2024-08-25,2026-08-27
+A00341,U0091,Active Directory,Disabled,False,False,2024-09-18,2026-08-18
+A00342,U0092,EHR,Enabled,False,False,2022-01-14,2026-08-16
+A00343,U0092,Active Directory,Enabled,False,False,2022-01-26,2026-09-17
+A00344,U0092,Radiology PACS,Enabled,False,False,2022-01-31,2026-06-05
+A00345,U0092,Email,Enabled,False,False,2022-01-19,2026-09-01
+A00346,U0093,EHR,Enabled,False,False,2021-03-20,2026-08-01
+A00347,U0093,Billing System,Enabled,False,False,2021-03-23,2026-07-31
+A00348,U0093,Pharmacy System,Enabled,False,False,2021-03-18,2026-09-19
+A00349,U0093,Active Directory,Enabled,False,False,2021-03-15,2026-09-09
+A00350,U0093,Radiology PACS,Enabled,False,False,2021-02-10,2026-07-31
+A00351,U0093,Email,Enabled,False,False,2021-03-10,2026-08-24
+A00352,U0094,EHR,Enabled,False,False,2021-07-01,2026-09-14
+A00353,U0094,Active Directory,Enabled,True,False,2021-07-04,2026-09-09
+A00354,U0094,Radiology PACS,Enabled,False,False,2021-08-18,2026-09-13
+A00355,U0094,Email,Enabled,False,False,2021-08-12,2026-09-23
+A00356,U0095,EHR,Enabled,False,False,2025-09-07,2026-08-21
+A00357,U0095,Pharmacy System,Enabled,False,False,2025-08-04,2026-08-12
+A00358,U0095,Active Directory,Enabled,False,False,2025-08-09,2026-07-27
+A00359,U0095,VPN,Enabled,False,False,2025-09-08,2026-09-20
+A00360,U0095,Email,Enabled,False,False,2025-08-05,2026-09-07
+A00361,U0096,EHR,Enabled,False,False,2015-03-23,2026-07-28
+A00362,U0096,Active Directory,Enabled,False,False,2015-04-07,2026-09-17
+A00363,U0096,HR Portal,Enabled,False,False,2015-02-23,2026-06-17
+A00364,U0096,Email,Enabled,False,False,2015-03-14,2026-09-19
+A00365,U0097,EHR,Enabled,False,False,2025-11-14,2026-08-07
+A00366,U0097,Billing System,Enabled,False,False,2025-09-26,2026-08-27
+A00367,U0097,Active Directory,Enabled,False,False,2025-11-08,2026-08-13
+A00368,U0097,Email,Enabled,False,False,2025-11-01,2026-08-06
+A00369,U0098,Active Directory,Enabled,False,False,2025-03-17,2026-08-12
+A00370,U0098,Email,Enabled,False,False,2025-02-25,2026-07-29
+A00371,U0099,EHR,Enabled,False,False,2019-03-17,2026-08-15
+A00372,U0099,Active Directory,Enabled,False,False,2019-02-11,2026-08-15
+A00373,U0099,HR Portal,Disabled,False,False,2019-02-12,2026-04-23
+A00374,U0099,Email,Enabled,False,False,2019-02-09,2026-09-05
+A00375,U0100,EHR,Enabled,False,False,2017-02-16,2026-09-24
+A00376,U0100,Active Directory,Enabled,True,False,2017-02-27,2026-02-27
+A00377,U0100,Email,Enabled,False,False,2017-02-21,2026-09-07
+A00378,U0101,EHR,Disabled,False,False,2017-10-27,2025-09-11
+A00379,U0101,Pharmacy System,Enabled,False,False,2017-12-10,2026-09-11
+A00380,U0101,Active Directory,Enabled,False,False,2017-11-17,2026-07-29
+A00381,U0101,HR Portal,Enabled,False,False,2017-10-30,2026-08-08
+A00382,U0101,Email,Disabled,False,False,2017-10-23,2019-10-23
+A00383,U0102,EHR,Enabled,False,False,2022-05-11,2026-08-09
+A00384,U0102,Active Directory,Enabled,False,False,2022-06-07,2026-08-04
+A00385,U0102,Email,Enabled,False,False,2022-06-13,2026-08-22
+A00386,U0103,EHR,Enabled,False,False,2019-06-14,2026-09-11
+A00387,U0103,Billing System,Enabled,False,False,2019-06-13,2026-09-19
+A00388,U0103,Active Directory,Enabled,True,False,2019-06-04,2026-08-25
+A00389,U0103,HR Portal,Enabled,False,False,2019-05-22,2026-09-22
+A00390,U0103,Radiology PACS,Disabled,False,False,2019-06-01,2024-04-25
+A00391,U0103,Email,Enabled,False,False,2019-05-30,2026-08-10
+A00392,U0104,EHR,Enabled,False,False,2021-02-17,2026-08-30
+A00393,U0104,Billing System,Disabled,False,False,2021-02-12,2026-06-09
+A00394,U0104,Active Directory,Enabled,False,False,2021-02-22,2026-07-27
+A00395,U0104,VPN,Enabled,False,False,2021-03-10,2026-08-23
+A00396,U0104,Email,Enabled,False,False,2021-02-06,2026-09-06
+A00397,U0105,EHR,Enabled,False,False,2021-07-26,2025-07-22
+A00398,U0105,Active Directory,Enabled,False,False,2021-08-23,2026-09-05
+A00399,U0105,VPN,Enabled,False,False,2021-07-12,2026-09-04
+A00400,U0105,Email,Enabled,False,False,2021-07-28,2026-08-17
+A00401,U0106,Billing System,Enabled,False,False,2024-12-08,2026-07-28
+A00402,U0106,Pharmacy System,Enabled,False,False,2024-12-07,2026-08-18
+A00403,U0106,Active Directory,Enabled,False,False,2024-12-01,2026-08-22
+A00404,U0106,HR Portal,Enabled,False,False,2024-11-26,2026-08-15
+A00405,U0106,Radiology PACS,Enabled,False,False,2024-12-15,2026-09-24
+A00406,U0106,Email,Enabled,False,False,2024-11-30,2026-07-27
+A00407,U0107,EHR,Enabled,False,False,2016-03-08,2026-08-09
+A00408,U0107,Pharmacy System,Enabled,False,False,2016-04-12,2026-09-12
+A00409,U0107,Active Directory,Enabled,False,False,2016-03-19,2026-09-16
+A00410,U0107,VPN,Enabled,False,False,2016-03-03,2026-09-16
+A00411,U0107,HR Portal,Enabled,False,False,2016-04-13,2026-09-03
+A00412,U0107,Email,Enabled,False,False,2016-03-17,2025-12-29
+A00413,U0108,Active Directory,Enabled,False,False,2017-06-19,2026-09-15
+A00414,U0108,Email,Enabled,False,False,2017-06-09,2025-06-08
+A00415,U0109,Billing System,Enabled,False,False,2019-05-31,2025-08-13
+A00416,U0109,Active Directory,Enabled,False,False,2019-04-23,2026-09-07
+A00417,U0109,HR Portal,Enabled,False,False,2019-06-19,2026-08-10
+A00418,U0109,Email,Enabled,False,False,2019-04-22,2026-08-27
+A00419,U0110,EHR,Enabled,False,False,2022-04-09,2026-09-24
+A00420,U0110,Active Directory,Enabled,False,False,2022-03-11,2026-08-08
+A00421,U0110,Email,Enabled,False,False,2022-02-27,2026-09-15
+A00422,U0111,Billing System,Enabled,False,False,2021-12-23,2026-02-21
+A00423,U0111,Active Directory,Enabled,False,False,2022-01-21,2026-08-28
+A00424,U0111,Email,Enabled,False,False,2022-01-27,2026-07-29
+A00425,U0112,EHR,Enabled,False,False,2021-08-09,2026-08-08
+A00426,U0112,Active Directory,Enabled,False,False,2021-08-07,2026-08-18
+A00427,U0112,VPN,Enabled,False,False,2021-09-05,2026-09-08
+A00428,U0112,Email,Enabled,False,False,2021-08-03,2026-09-13
+A00429,U0113,EHR,Enabled,False,False,2020-05-22,2026-08-29
+A00430,U0113,Active Directory,Enabled,False,False,2020-05-29,2026-08-26
+A00431,U0113,Email,Enabled,False,False,2020-05-09,2026-09-02
+A00432,U0114,EHR,Enabled,False,False,2023-10-30,2026-04-29
+A00433,U0114,Active Directory,Enabled,True,False,2023-10-31,2025-06-07
+A00434,U0114,VPN,Enabled,False,False,2023-11-08,2026-08-07
+A00435,U0114,Email,Enabled,False,False,2023-10-23,2026-09-05
+A00436,U0115,EHR,Enabled,False,False,2016-11-17,2026-08-02
+A00437,U0115,Active Directory,Enabled,False,False,2016-11-16,2026-08-05
+A00438,U0115,Email,Enabled,False,False,2016-11-14,2026-08-22
+A00439,U0116,EHR,Enabled,False,False,2023-05-08,2026-09-05
+A00440,U0116,Billing System,Enabled,False,False,2023-04-28,2026-04-04
+A00441,U0116,Active Directory,Enabled,False,False,2023-06-11,2026-09-11
+A00442,U0116,VPN,Enabled,False,False,2023-06-18,2026-09-11
+A00443,U0116,Email,Enabled,False,False,2023-06-02,2026-08-18
+A00444,U0117,EHR,Enabled,False,False,2016-03-28,2026-09-18
+A00445,U0117,Active Directory,Enabled,False,False,2016-04-03,2026-09-15
+A00446,U0117,HR Portal,Enabled,False,False,2016-03-05,2026-08-23
+A00447,U0117,Email,Enabled,False,False,2016-03-02,2026-09-16
+A00448,U0118,EHR,Enabled,False,False,2020-07-05,2026-08-21
+A00449,U0118,Active Directory,Enabled,False,False,2020-07-11,2026-09-07
+A00450,U0118,Email,Enabled,False,False,2020-08-02,2026-09-18
+A00451,U0119,EHR,Enabled,False,False,2017-04-08,2025-10-14
+A00452,U0119,Active Directory,Enabled,True,False,2017-02-20,2026-08-29
+A00453,U0119,Email,Enabled,False,False,2017-02-17,2026-07-28
+A00454,U0120,EHR,Enabled,False,False,2016-07-08,2026-08-24
+A00455,U0120,Pharmacy System,Enabled,False,False,2016-07-11,2026-09-16
+A00456,U0120,Active Directory,Enabled,False,False,2016-07-17,2026-09-05
+A00457,U0120,HR Portal,Enabled,False,False,2016-07-03,2026-08-11
+A00458,U0120,Radiology PACS,Enabled,False,False,2016-07-10,2026-04-04
+A00459,U0120,Email,Enabled,False,False,2016-06-21,2026-09-11
+A00460,U0121,EHR,Enabled,False,False,2020-08-08,2026-08-09
+A00461,U0121,Active Directory,Enabled,False,False,2020-08-04,2026-08-04
+A00462,U0121,VPN,Enabled,False,False,2020-08-10,2026-08-26
+A00463,U0121,HR Portal,Enabled,False,False,2020-07-18,2026-09-05
+A00464,U0121,Email,Enabled,False,False,2020-08-19,2025-10-02
+A00465,U0122,Active Directory,Enabled,False,False,2025-02-27,2026-08-06
+A00466,U0122,Email,Enabled,False,False,2025-03-03,2026-09-24
+A00467,U0123,EHR,Enabled,False,False,2017-12-20,2026-08-24
+A00468,U0123,Active Directory,Enabled,False,False,2017-12-27,2026-09-15
+A00469,U0123,HR Portal,Enabled,False,False,2018-01-04,2026-08-06
+A00470,U0123,Email,Disabled,False,False,2017-12-07,2025-01-25
+A00471,U0124,EHR,Enabled,False,False,2023-11-03,2026-09-03
+A00472,U0124,Active Directory,Enabled,False,False,2023-11-12,2026-08-21
+A00473,U0124,VPN,Enabled,False,False,2023-11-04,2026-08-15
+A00474,U0124,HR Portal,Enabled,False,False,2023-11-03,2026-09-06
+A00475,U0124,Radiology PACS,Enabled,False,False,2023-12-03,2026-08-03
+A00476,U0124,Email,Enabled,False,False,2023-12-19,2026-09-19
+A00477,U0125,EHR,Enabled,False,False,2026-04-03,2026-09-20
+A00478,U0125,Active Directory,Enabled,False,False,2026-05-05,2026-08-13
+A00479,U0125,Email,Enabled,False,False,2026-04-30,2026-08-17
+A00480,U0126,Pharmacy System,Enabled,False,False,2019-09-26,2026-09-03
+A00481,U0126,Active Directory,Enabled,False,False,2019-11-04,2026-08-27
+A00482,U0126,HR Portal,Enabled,False,False,2019-09-22,2026-09-07
+A00483,U0126,Email,Enabled,False,False,2019-10-23,2026-08-04
+A00484,U0127,EHR,Enabled,False,False,2018-08-04,2026-08-10
+A00485,U0127,Billing System,Enabled,False,False,2018-08-02,2026-07-29
+A00486,U0127,Active Directory,Enabled,False,False,2018-07-16,2026-08-03
+A00487,U0127,Email,Enabled,False,False,2018-08-02,2026-08-07
+A00488,U0128,EHR,Enabled,False,False,2023-07-15,2026-08-17
+A00489,U0128,Active Directory,Enabled,False,False,2023-07-12,2026-09-03
+A00490,U0128,Email,Enabled,False,False,2023-07-04,2026-09-02
+A00491,U0129,EHR,Enabled,False,False,2021-05-09,2026-08-24
+A00492,U0129,Active Directory,Enabled,False,False,2021-04-26,2026-09-17
+A00493,U0129,VPN,Enabled,False,False,2021-05-08,2026-07-31
+A00494,U0129,Email,Enabled,False,False,2021-04-01,2026-08-08
+A00495,U0130,EHR,Enabled,False,False,2016-04-03,2026-08-30
+A00496,U0130,Active Directory,Enabled,False,False,2016-03-21,2026-09-20
+A00497,U0130,HR Portal,Enabled,False,False,2016-04-23,2026-08-02
+A00498,U0130,Email,Enabled,False,False,2016-05-13,2026-08-07
+A00499,U0131,EHR,Enabled,False,False,2021-09-20,2026-08-11
+A00500,U0131,Billing System,Enabled,False,False,2021-09-07,2026-08-25
+A00501,U0131,Active Directory,Enabled,False,False,2021-09-22,2026-09-24
+A00502,U0131,VPN,Enabled,False,False,2021-09-22,2026-09-03
+A00503,U0131,HR Portal,Enabled,False,False,2021-09-10,2026-09-06
+A00504,U0131,Email,Enabled,False,False,2021-10-10,2026-07-31
+A00505,U0132,EHR,Enabled,False,False,2024-07-25,2026-09-16
+A00506,U0132,Active Directory,Enabled,False,False,2024-08-12,2026-08-28
+A00507,U0132,Email,Enabled,False,False,2024-09-03,2025-07-13
+A00508,U0133,Billing System,Enabled,False,False,2023-09-04,2026-08-10
+A00509,U0133,Active Directory,Enabled,False,False,2023-09-15,2026-08-03
+A00510,U0133,VPN,Enabled,False,False,2023-09-18,2026-08-05
+A00511,U0133,HR Portal,Enabled,False,False,2023-11-02,2026-09-03
+A00512,U0133,Email,Enabled,False,False,2023-11-01,2026-08-28
+A00513,U0134,EHR,Enabled,False,False,2019-10-18,2026-09-07
+A00514,U0134,Pharmacy System,Enabled,False,False,2019-10-01,2026-09-08
+A00515,U0134,Active Directory,Enabled,False,False,2019-09-08,2026-08-08
+A00516,U0134,Email,Enabled,False,False,2019-10-24,2026-08-20
+A00517,U0135,EHR,Enabled,False,False,2019-06-13,2026-09-01
+A00518,U0135,Pharmacy System,Enabled,False,False,2019-06-06,2026-09-15
+A00519,U0135,Active Directory,Enabled,False,False,2019-06-03,2026-05-01
+A00520,U0135,Email,Enabled,False,False,2019-07-18,2026-09-15
+A00521,U0136,EHR,Enabled,False,False,2024-09-18,2026-07-27
+A00522,U0136,Active Directory,Enabled,False,False,2024-10-09,2026-09-05
+A00523,U0136,Email,Enabled,False,False,2024-08-30,2026-08-16
+A00524,U0137,EHR,Enabled,False,False,2017-02-21,2026-07-31
+A00525,U0137,Active Directory,Enabled,False,False,2017-02-18,2026-09-06
+A00526,U0137,Email,Enabled,False,False,2017-03-20,2026-09-11
+A00527,U0138,Active Directory,Enabled,True,False,2023-04-05,2026-09-23
+A00528,U0138,VPN,Enabled,False,False,2023-03-11,2026-09-07
+A00529,U0138,Email,Enabled,False,False,2023-03-18,2026-07-31
+A00530,U0139,EHR,Enabled,False,False,2021-04-01,2026-07-30
+A00531,U0139,Billing System,Enabled,False,False,2021-03-18,2026-08-02
+A00532,U0139,Pharmacy System,Enabled,False,False,2021-02-10,2026-08-14
+A00533,U0139,Active Directory,Enabled,False,False,2021-03-06,2026-08-26
+A00534,U0139,Email,Enabled,False,False,2021-02-14,2026-09-03
+A00535,U0140,EHR,Enabled,False,False,2017-12-13,2026-03-17
+A00536,U0140,Billing System,Enabled,False,False,2017-11-11,2025-06-07
+A00537,U0140,Active Directory,Enabled,True,False,2017-12-01,2025-09-04
+A00538,U0140,HR Portal,Enabled,False,False,2017-12-11,2026-08-14
+A00539,U0140,Email,Enabled,False,False,2017-12-05,2026-08-03
+A00540,U0141,Active Directory,Enabled,False,False,2015-12-28,2026-09-24
+A00541,U0141,VPN,Enabled,False,False,2015-11-21,2026-08-18
+A00542,U0141,HR Portal,Enabled,False,False,2015-11-16,2026-08-16
+A00543,U0141,Radiology PACS,Enabled,False,False,2015-12-31,2026-09-18
+A00544,U0141,Email,Disabled,False,False,2015-12-03,2024-02-05
+A00545,U0142,EHR,Enabled,False,False,2018-05-15,2026-09-01
+A00546,U0142,Pharmacy System,Enabled,False,False,2018-03-24,2026-09-17
+A00547,U0142,Active Directory,Enabled,True,False,2018-03-27,2026-09-21
+A00548,U0142,VPN,Enabled,False,False,2018-03-30,2026-07-28
+A00549,U0142,Email,Enabled,False,False,2018-05-15,2026-08-19
+A00550,U0143,EHR,Enabled,False,False,2021-01-23,2026-09-23
+A00551,U0143,Active Directory,Enabled,False,False,2021-02-03,2026-08-21
+A00552,U0143,Radiology PACS,Enabled,False,False,2021-01-29,2026-08-22
+A00553,U0143,Email,Enabled,False,False,2021-03-03,2026-09-14
+A00554,U0144,EHR,Enabled,False,False,2019-03-05,2026-08-20
+A00555,U0144,Active Directory,Enabled,False,False,2019-02-17,2026-08-03
+A00556,U0144,Email,Enabled,False,False,2019-04-04,2026-09-20
+A00557,U0145,EHR,Enabled,False,False,2025-12-17,2026-09-10
+A00558,U0145,Active Directory,Enabled,False,False,2026-01-09,2026-08-06
+A00559,U0145,VPN,Enabled,False,False,2025-12-30,2026-09-03
+A00560,U0145,Email,Enabled,False,False,2025-12-09,2026-09-03
+A00561,U0146,EHR,Enabled,False,False,2019-04-17,2026-07-31
+A00562,U0146,Active Directory,Enabled,False,False,2019-05-09,2026-08-31
+A00563,U0146,VPN,Enabled,False,False,2019-04-20,2026-09-23
+A00564,U0146,Email,Enabled,False,False,2019-04-23,2026-07-29
+A00565,U0147,EHR,Enabled,False,False,2017-06-08,2026-09-16
+A00566,U0147,Billing System,Enabled,False,False,2017-07-05,2026-09-20
+A00567,U0147,Active Directory,Enabled,False,False,2017-06-20,2026-08-11
+A00568,U0147,VPN,Enabled,False,False,2017-06-28,2026-08-15
+A00569,U0147,Email,Enabled,False,False,2017-06-25,2026-01-26
+A00570,U0148,EHR,Enabled,False,False,2016-12-07,2026-02-28
+A00571,U0148,Active Directory,Enabled,False,False,2016-11-28,2026-08-27
+A00572,U0148,Email,Enabled,False,False,2016-11-24,2026-08-20
+A00573,U0149,EHR,Enabled,False,False,2018-10-10,2026-08-24
+A00574,U0149,Active Directory,Enabled,False,False,2018-10-25,2026-08-31
+A00575,U0149,VPN,Enabled,False,False,2018-09-10,2026-08-27
+A00576,U0149,HR Portal,Enabled,False,False,2018-10-12,2026-08-31
+A00577,U0149,Email,Enabled,False,False,2018-10-21,2026-08-12
+A00578,U0150,Billing System,Enabled,False,False,2021-01-26,2026-08-13
+A00579,U0150,Active Directory,Enabled,False,False,2021-03-08,2026-08-03
+A00580,U0150,VPN,Enabled,False,False,2021-02-07,2026-08-01
+A00581,U0150,Email,Enabled,False,False,2021-01-14,2026-08-19
+A00582,U0151,EHR,Enabled,False,False,2017-04-03,2026-08-26
+A00583,U0151,Active Directory,Enabled,True,False,2017-04-09,2026-08-13
+A00584,U0151,HR Portal,Enabled,False,False,2017-03-19,2026-09-24
+A00585,U0151,Email,Enabled,False,False,2017-03-20,2026-09-20
+A00586,U0152,Active Directory,Enabled,False,False,2019-05-23,2026-08-15
+A00587,U0152,VPN,Enabled,False,False,2019-04-21,2026-07-29
+A00588,U0152,HR Portal,Enabled,False,False,2019-05-22,2026-08-05
+A00589,U0152,Email,Enabled,False,False,2019-05-15,2026-08-20
+A00590,U0153,EHR,Enabled,False,False,2016-10-20,2026-07-30
+A00591,U0153,Active Directory,Disabled,False,False,2016-09-29,2022-11-05
+A00592,U0153,HR Portal,Enabled,False,False,2016-10-30,2026-09-03
+A00593,U0153,Radiology PACS,Enabled,False,False,2016-11-09,2026-09-10
+A00594,U0153,Email,Disabled,False,False,2016-11-12,2018-04-08
+A00595,U0154,EHR,Enabled,False,False,2015-09-13,2025-10-23
+A00596,U0154,Billing System,Enabled,False,False,2015-09-03,2026-09-19
+A00597,U0154,Pharmacy System,Enabled,False,False,2015-09-06,2026-08-27
+A00598,U0154,VPN,Disabled,False,False,2015-08-31,2020-01-03
+A00599,U0154,Email,Enabled,False,False,2015-08-18,2026-09-02
+A00600,U0155,EHR,Enabled,False,False,2015-09-07,2026-09-18
+A00601,U0155,Active Directory,Enabled,False,False,2015-08-28,2026-08-09
+A00602,U0155,VPN,Enabled,False,False,2015-08-15,2026-08-23
+A00603,U0155,Email,Enabled,False,False,2015-09-20,2026-08-05
+A00604,U0156,EHR,Enabled,False,False,2024-02-26,2026-09-08
+A00605,U0156,Billing System,Enabled,False,False,2024-02-10,2026-08-24
+A00606,U0156,Pharmacy System,Enabled,False,False,2024-02-02,2026-08-13
+A00607,U0156,Active Directory,Enabled,False,False,2024-02-05,2026-09-16
+A00608,U0156,VPN,Enabled,False,False,2024-03-16,2026-09-08
+A00609,U0156,Email,Enabled,False,False,2024-02-11,2026-08-23
+A00610,U0157,EHR,Enabled,False,False,2018-04-29,2025-07-06
+A00611,U0157,Active Directory,Enabled,False,False,2018-06-08,2026-07-30
+A00612,U0157,Email,Enabled,False,False,2018-06-09,2026-08-09
+A00613,U0158,Active Directory,Enabled,False,False,2015-02-18,2026-08-11
+A00614,U0158,VPN,Enabled,False,False,2015-01-31,2026-09-01
+A00615,U0158,HR Portal,Enabled,False,False,2015-02-18,2026-07-30
+A00616,U0158,Radiology PACS,Enabled,False,False,2015-01-18,2026-09-15
+A00617,U0158,Email,Enabled,False,False,2015-01-29,2026-08-09
+A00618,U0159,Active Directory,Enabled,False,False,2019-09-05,2026-08-22
+A00619,U0159,VPN,Enabled,False,False,2019-09-11,2026-08-20
+A00620,U0159,Email,Enabled,False,False,2019-08-10,2026-09-05
+A00621,U0160,EHR,Enabled,False,False,2016-08-14,2026-09-23
+A00622,U0160,Billing System,Enabled,False,False,2016-07-22,2026-08-27
+A00623,U0160,Active Directory,Enabled,True,False,2016-07-23,2026-08-13
+A00624,U0160,HR Portal,Enabled,False,False,2016-08-02,2026-09-17
+A00625,U0160,Email,Enabled,False,False,2016-07-04,2026-02-02
+A00626,U0161,EHR,Enabled,False,False,2016-10-26,2026-09-20
+A00627,U0161,Active Directory,Enabled,False,False,2016-09-30,2026-08-10
+A00628,U0161,HR Portal,Enabled,False,False,2016-10-25,2026-08-26
+A00629,U0161,Email,Enabled,False,False,2016-10-15,2026-08-03
+A00630,U0162,Active Directory,Enabled,False,False,2018-10-09,2026-06-22
+A00631,U0162,Email,Enabled,False,False,2018-09-18,2026-09-07
+A00632,U0163,Billing System,Enabled,False,False,2022-08-30,2026-08-27
+A00633,U0163,Active Directory,Enabled,False,False,2022-07-07,2026-09-21
+A00634,U0163,Email,Enabled,False,False,2022-07-22,2026-08-09
+A00635,U0164,Billing System,Enabled,False,False,2020-06-24,2026-08-19
+A00636,U0164,Active Directory,Enabled,True,False,2020-06-16,2026-09-16
+A00637,U0164,VPN,Enabled,False,False,2020-06-19,2026-08-02
+A00638,U0164,Radiology PACS,Enabled,False,False,2020-07-17,2026-08-05
+A00639,U0164,Email,Enabled,False,False,2020-07-08,2026-09-05
+A00640,U0165,EHR,Enabled,False,False,2016-03-05,2026-04-22
+A00641,U0165,Active Directory,Enabled,False,False,2016-01-17,2026-09-11
+A00642,U0165,Email,Enabled,False,False,2016-01-17,2026-08-26
+A00643,U0166,Billing System,Enabled,False,False,2024-10-16,2026-08-15
+A00644,U0166,Pharmacy System,Enabled,False,False,2024-08-31,2026-09-11
+A00645,U0166,Active Directory,Enabled,False,False,2024-10-19,2026-08-14
+A00646,U0166,Email,Enabled,False,False,2024-09-14,2026-09-22
+A00647,U0167,Active Directory,Disabled,False,False,2023-08-18,2024-07-21
+A00648,U0167,VPN,Enabled,False,False,2023-08-31,2026-09-21
+A00649,U0167,Email,Enabled,False,False,2023-09-04,2026-08-13
+A00650,U0168,Billing System,Enabled,False,False,2023-09-11,2026-09-09
+A00651,U0168,Active Directory,Enabled,False,False,2023-08-26,2026-08-16
+A00652,U0168,Email,Enabled,False,False,2023-09-10,2026-09-13
+A00653,U0169,Billing System,Enabled,False,False,2018-08-02,2026-08-15
+A00654,U0169,Pharmacy System,Disabled,False,False,2018-06-28,2023-12-09
+A00655,U0169,Active Directory,Enabled,False,False,2018-07-17,2026-08-18
+A00656,U0169,Email,Disabled,False,False,2018-08-13,2026-06-02
+A00657,U0170,Active Directory,Enabled,False,False,2023-07-24,2026-09-18
+A00658,U0170,Email,Enabled,False,False,2023-07-22,2026-09-06
+A00659,U0171,EHR,Enabled,False,False,2021-11-07,2026-09-17
+A00660,U0171,Pharmacy System,Enabled,False,False,2021-11-04,2026-09-11
+A00661,U0171,Active Directory,Enabled,False,False,2021-09-27,2026-09-01
+A00662,U0171,VPN,Enabled,False,False,2021-11-09,2026-08-26
+A00663,U0171,Email,Enabled,False,False,2021-11-03,2026-08-24
+A00664,U0172,EHR,Enabled,False,False,2025-06-19,2026-08-19
+A00665,U0172,Active Directory,Enabled,False,False,2025-06-18,2026-05-21
+A00666,U0172,HR Portal,Enabled,False,False,2025-06-30,2026-09-01
+A00667,U0172,Email,Enabled,False,False,2025-05-25,2026-09-17
+A00668,U0173,EHR,Enabled,False,False,2022-12-26,2026-09-15
+A00669,U0173,Billing System,Enabled,False,False,2023-02-02,2026-01-29
+A00670,U0173,Active Directory,Enabled,True,False,2023-01-31,2026-08-24
+A00671,U0173,Email,Enabled,False,False,2023-01-18,2026-08-03
+A00672,U0174,EHR,Enabled,False,False,2020-01-16,2026-08-30
+A00673,U0174,Billing System,Enabled,False,False,2020-01-16,2026-08-28
+A00674,U0174,Active Directory,Enabled,False,False,2020-02-14,2026-08-08
+A00675,U0174,Radiology PACS,Enabled,False,False,2020-01-22,2026-09-09
+A00676,U0174,Email,Enabled,False,False,2020-02-28,2026-08-15
+A00677,U0175,Billing System,Enabled,False,False,2016-08-01,2026-08-04
+A00678,U0175,Active Directory,Enabled,False,False,2016-08-20,2026-03-02
+A00679,U0175,Email,Enabled,False,False,2016-07-09,2026-09-08
+A00680,U0176,EHR,Enabled,False,False,2022-09-21,2026-09-02
+A00681,U0176,Active Directory,Enabled,True,False,2022-08-10,2026-08-27
+A00682,U0176,Email,Enabled,False,False,2022-08-22,2026-09-03
+A00683,U0177,EHR,Enabled,False,False,2016-12-30,2026-09-16
+A00684,U0177,Billing System,Enabled,False,False,2016-11-26,2026-07-28
+A00685,U0177,Active Directory,Enabled,False,False,2016-11-22,2026-09-02
+A00686,U0177,HR Portal,Enabled,False,False,2016-12-13,2025-12-27
+A00687,U0177,Email,Enabled,False,False,2016-12-18,2026-08-26
+A00688,U0178,EHR,Enabled,False,False,2024-11-23,2026-09-13
+A00689,U0178,Billing System,Enabled,False,False,2024-11-28,2026-09-16
+A00690,U0178,Active Directory,Enabled,False,False,2024-10-27,2026-08-09
+A00691,U0178,VPN,Enabled,False,False,2024-11-10,2026-08-13
+A00692,U0178,HR Portal,Enabled,False,False,2024-11-19,2026-08-06
+A00693,U0178,Email,Enabled,False,False,2024-12-24,2026-07-27
+A00694,U0179,EHR,Enabled,False,False,2025-01-18,2026-09-01
+A00695,U0179,Active Directory,Enabled,False,False,2024-12-30,2026-09-22
+A00696,U0179,Email,Enabled,False,False,2025-01-07,2026-09-21
+A00697,U0180,Active Directory,Enabled,False,False,2016-09-18,2026-08-26
+A00698,U0180,Email,Enabled,False,False,2016-08-04,2026-09-20
+A00699,U0181,EHR,Enabled,False,False,2023-06-19,2026-09-08
+A00700,U0181,Billing System,Disabled,False,False,2023-06-22,2025-02-07
+A00701,U0181,Active Directory,Disabled,False,False,2023-08-02,2025-10-30
+A00702,U0181,Email,Disabled,False,False,2023-06-26,2024-02-19
+A00703,U0182,EHR,Enabled,False,False,2023-10-22,2026-08-12
+A00704,U0182,Active Directory,Enabled,False,False,2023-10-13,2026-09-14
+A00705,U0182,VPN,Enabled,False,False,2023-11-06,2026-09-11
+A00706,U0182,Email,Enabled,False,False,2023-11-12,2026-09-07
+A00707,U0183,EHR,Enabled,False,False,2022-01-12,2026-08-11
+A00708,U0183,Billing System,Enabled,False,False,2021-12-19,2026-08-10
+A00709,U0183,Active Directory,Enabled,False,False,2022-02-04,2026-09-20
+A00710,U0183,Email,Enabled,False,False,2022-01-11,2026-07-31
+A00711,U0184,EHR,Enabled,False,False,2023-03-16,2026-08-03
+A00712,U0184,Active Directory,Enabled,False,False,2023-04-13,2026-08-06
+A00713,U0184,VPN,Enabled,False,False,2023-03-14,2026-08-27
+A00714,U0184,HR Portal,Enabled,False,False,2023-04-11,2026-09-06
+A00715,U0184,Radiology PACS,Enabled,False,False,2023-03-16,2026-08-06
+A00716,U0184,Email,Enabled,False,False,2023-05-10,2026-07-28
+A00717,U0185,EHR,Enabled,False,False,2019-09-01,2026-08-28
+A00718,U0185,Active Directory,Enabled,False,False,2019-09-13,2026-07-29
+A00719,U0185,VPN,Enabled,False,False,2019-08-16,2026-08-08
+A00720,U0185,Email,Enabled,False,False,2019-09-20,2026-08-23
+A00721,U0186,EHR,Enabled,False,False,2022-12-31,2026-08-06
+A00722,U0186,Billing System,Enabled,False,False,2023-01-20,2026-09-23
+A00723,U0186,Active Directory,Enabled,False,False,2022-12-31,2026-08-14
+A00724,U0186,VPN,Enabled,False,False,2023-02-12,2026-09-04
+A00725,U0186,HR Portal,Enabled,False,False,2023-01-11,2026-09-10
+A00726,U0186,Radiology PACS,Enabled,False,False,2023-01-09,2026-09-06
+A00727,U0186,Email,Enabled,False,False,2023-02-08,2026-09-14
+A00728,U0187,Active Directory,Enabled,True,False,2022-01-31,2025-12-31
+A00729,U0187,VPN,Enabled,False,False,2022-01-15,2026-07-27
+A00730,U0187,Email,Enabled,False,False,2022-01-21,2026-09-09
+A00731,U0188,EHR,Enabled,False,False,2018-10-26,2026-08-19
+A00732,U0188,Active Directory,Enabled,False,False,2018-10-24,2026-08-31
+A00733,U0188,HR Portal,Enabled,False,False,2018-10-20,2026-09-02
+A00734,U0188,Email,Enabled,False,False,2018-11-07,2026-09-07
+A00735,U0189,EHR,Enabled,False,False,2021-04-26,2026-09-17
+A00736,U0189,Pharmacy System,Enabled,False,False,2021-03-31,2026-09-01
+A00737,U0189,Active Directory,Enabled,False,False,2021-03-28,2026-08-21
+A00738,U0189,VPN,Enabled,False,False,2021-04-18,2026-08-19
+A00739,U0189,HR Portal,Enabled,False,False,2021-04-12,2026-08-27
+A00740,U0189,Email,Enabled,False,False,2021-03-21,2026-08-12
+A00741,U0190,EHR,Enabled,False,False,2024-04-05,2026-08-28
+A00742,U0190,Active Directory,Enabled,False,False,2024-04-22,2026-09-04
+A00743,U0190,VPN,Enabled,False,False,2024-04-02,2026-08-23
+A00744,U0190,Email,Enabled,False,False,2024-05-20,2026-01-29
+A00745,U0191,EHR,Disabled,False,False,2025-06-26,2026-01-23
+A00746,U0191,Active Directory,Disabled,False,False,2025-07-04,2025-09-01
+A00747,U0191,Email,Disabled,False,False,2025-06-11,2025-08-31
+A00748,U0192,EHR,Enabled,False,False,2026-03-14,2026-08-30
+A00749,U0192,Pharmacy System,Enabled,False,False,2026-04-26,2026-08-01
+A00750,U0192,Active Directory,Enabled,False,False,2026-04-24,2026-09-08
+A00751,U0192,VPN,Enabled,False,False,2026-03-29,2025-08-05
+A00752,U0192,Email,Disabled,False,False,2026-03-03,2026-03-15
+A00753,U0193,EHR,Enabled,False,False,2016-03-16,2026-08-07
+A00754,U0193,Billing System,Enabled,False,False,2016-04-27,2026-09-10
+A00755,U0193,Pharmacy System,Enabled,False,False,2016-04-06,2026-09-11
+A00756,U0193,Active Directory,Enabled,False,False,2016-04-13,2026-08-26
+A00757,U0193,Email,Enabled,False,False,2016-04-26,2026-09-10
+A00758,U0194,Billing System,Enabled,False,False,2020-04-02,2026-09-01
+A00759,U0194,Active Directory,Enabled,False,False,2020-03-26,2026-07-31
+A00760,U0194,VPN,Enabled,False,False,2020-04-06,2026-09-18
+A00761,U0194,Email,Enabled,False,False,2020-03-26,2026-09-03
+A00762,U0195,EHR,Enabled,False,False,2018-08-02,2026-08-12
+A00763,U0195,Active Directory,Enabled,False,False,2018-07-03,2026-07-31
+A00764,U0195,Email,Enabled,False,False,2018-07-11,2026-08-29
+A00765,U0196,EHR,Enabled,False,False,2021-09-28,2026-09-24
+A00766,U0196,Active Directory,Enabled,False,False,2021-11-01,2026-08-21
+A00767,U0196,Email,Enabled,False,False,2021-10-21,2026-09-18
+A00768,U0197,EHR,Enabled,False,False,2018-05-25,2026-09-15
+A00769,U0197,Active Directory,Enabled,False,False,2018-05-24,2026-09-19
+A00770,U0197,VPN,Enabled,False,False,2018-05-17,2026-08-23
+A00771,U0197,HR Portal,Enabled,False,False,2018-06-17,2026-09-15
+A00772,U0197,Email,Enabled,False,False,2018-05-13,2026-09-14
+A00773,U0198,EHR,Enabled,False,False,2016-12-27,2026-08-21
+A00774,U0198,Billing System,Enabled,False,False,2017-01-14,2026-08-04
+A00775,U0198,Active Directory,Enabled,False,False,2016-12-07,2026-09-24
+A00776,U0198,Email,Enabled,False,False,2016-12-19,2026-09-17
+A00777,U0199,EHR,Disabled,False,False,2016-07-22,2017-05-21
+A00778,U0199,Billing System,Enabled,False,False,2016-08-13,2026-08-02
+A00779,U0199,Active Directory,Disabled,False,False,2016-07-25,2020-07-20
+A00780,U0199,Email,Enabled,False,False,2016-08-27,2026-09-01
+A00781,U0200,EHR,Enabled,False,False,2016-09-09,2026-08-20
+A00782,U0200,Billing System,Disabled,False,False,2016-09-14,2019-07-11
+A00783,U0200,Active Directory,Enabled,False,False,2016-08-05,2026-08-31
+A00784,U0200,Email,Enabled,False,False,2016-08-25,2026-08-10
+A00785,U0201,EHR,Enabled,False,False,2020-03-27,2026-09-13
+A00786,U0201,Billing System,Enabled,False,False,2020-04-10,2026-08-26
+A00787,U0201,Active Directory,Enabled,False,False,2020-03-21,2026-09-20
+A00788,U0201,Email,Enabled,False,False,2020-03-22,2026-09-20
+A00789,U0202,EHR,Enabled,False,False,2017-03-26,2026-07-29
+A00790,U0202,Active Directory,Enabled,False,False,2017-04-15,2026-09-12
+A00791,U0202,Radiology PACS,Enabled,False,False,2017-04-06,2026-08-11
+A00792,U0202,Email,Enabled,False,False,2017-04-07,2026-08-01
+A00793,U0203,Active Directory,Enabled,False,False,2025-02-03,2026-08-23
+A00794,U0203,VPN,Enabled,False,False,2025-01-08,2026-08-30
+A00795,U0203,Radiology PACS,Enabled,False,False,2025-01-16,2026-08-07
+A00796,U0203,Email,Enabled,False,False,2025-01-29,2026-08-11
+A00797,U0204,Pharmacy System,Enabled,False,False,2026-04-16,2026-02-21
+A00798,U0204,Active Directory,Enabled,False,False,2026-04-17,2026-09-11
+A00799,U0204,VPN,Enabled,False,False,2026-03-23,2026-09-19
+A00800,U0204,HR Portal,Enabled,False,False,2026-04-21,2026-08-10
+A00801,U0204,Radiology PACS,Enabled,False,False,2026-04-08,2026-08-04
+A00802,U0204,Email,Disabled,False,False,2026-05-11,2026-05-12
+A00803,U0205,EHR,Enabled,False,False,2017-12-05,2026-08-14
+A00804,U0205,Billing System,Enabled,False,False,2017-12-17,2026-08-23
+A00805,U0205,Active Directory,Enabled,False,False,2017-11-12,2026-08-07
+A00806,U0205,HR Portal,Enabled,False,False,2017-11-19,2025-06-21
+A00807,U0205,Email,Enabled,False,False,2017-12-08,2026-08-01
+A00808,U0206,EHR,Enabled,False,False,2025-03-27,2026-08-22
+A00809,U0206,Billing System,Enabled,False,False,2025-03-28,2026-08-03
+A00810,U0206,Active Directory,Enabled,False,False,2025-03-04,2026-09-20
+A00811,U0206,Email,Enabled,False,False,2025-03-18,2026-08-12
+A00812,U0207,EHR,Enabled,False,False,2021-09-01,2026-09-21
+A00813,U0207,Active Directory,Enabled,False,False,2021-09-10,2026-08-10
+A00814,U0207,VPN,Disabled,False,False,2021-08-06,2021-10-02
+A00815,U0207,Email,Enabled,False,False,2021-09-23,2026-08-14
+A00816,U0208,Active Directory,Enabled,False,False,2019-12-19,2026-08-29
+A00817,U0208,VPN,Enabled,False,False,2019-11-02,2026-07-31
+A00818,U0208,Email,Disabled,False,False,2019-11-07,2023-03-30
+A00819,U0209,EHR,Enabled,False,False,2024-03-16,2026-08-06
+A00820,U0209,Billing System,Enabled,False,False,2024-04-02,2026-09-21
+A00821,U0209,Active Directory,Enabled,True,False,2024-02-17,2025-06-06
+A00822,U0209,Email,Enabled,False,False,2024-02-28,2026-09-01
+A00823,U0210,Active Directory,Enabled,False,False,2026-05-01,2026-08-15
+A00824,U0210,VPN,Enabled,False,False,2026-06-14,2026-09-09
+A00825,U0210,Radiology PACS,Enabled,False,False,2026-05-18,2026-06-02
+A00826,U0210,Email,Enabled,False,False,2026-06-21,2026-09-02
+A00827,U0211,EHR,Enabled,False,False,2022-11-29,2026-08-03
+A00828,U0211,Active Directory,Enabled,False,False,2022-11-24,2026-08-15
+A00829,U0211,VPN,Enabled,False,False,2022-10-28,2026-09-22
+A00830,U0211,HR Portal,Enabled,False,False,2022-11-17,2026-08-10
+A00831,U0211,Email,Enabled,False,False,2022-11-08,2026-08-16
+A00832,U0212,Billing System,Enabled,False,False,2026-03-21,2026-08-04
+A00833,U0212,Active Directory,Enabled,False,False,2026-04-17,2026-07-28
+A00834,U0212,Email,Enabled,False,False,2026-04-20,2026-08-18
+A00835,U0213,EHR,Enabled,False,False,2017-06-21,2026-08-25
+A00836,U0213,Active Directory,Enabled,False,False,2017-07-07,2026-08-16
+A00837,U0213,VPN,Enabled,False,False,2017-06-21,2026-08-21
+A00838,U0213,HR Portal,Enabled,False,False,2017-06-03,2026-07-31
+A00839,U0213,Email,Enabled,False,False,2017-07-01,2026-08-27
+A00840,U0214,EHR,Enabled,False,False,2022-10-10,2026-08-19
+A00841,U0214,Billing System,Enabled,False,False,2022-09-28,2026-08-15
+A00842,U0214,Active Directory,Enabled,False,False,2022-09-05,2026-08-28
+A00843,U0214,HR Portal,Enabled,False,False,2022-10-05,2026-05-24
+A00844,U0214,Email,Enabled,False,False,2022-10-08,2026-08-14
+A00845,U0215,EHR,Enabled,False,False,2025-05-08,2025-10-22
+A00846,U0215,Active Directory,Disabled,False,False,2025-06-10,2025-12-20
+A00847,U0215,Radiology PACS,Enabled,False,False,2025-05-21,2026-08-13
+A00848,U0215,Email,Enabled,False,False,2025-05-29,2026-08-31
+A00849,U0216,EHR,Enabled,False,False,2019-11-27,2026-07-28
+A00850,U0216,Active Directory,Enabled,False,False,2019-11-22,2026-09-18
+A00851,U0216,Email,Enabled,False,False,2019-10-31,2026-08-12
+A00852,U0217,EHR,Enabled,False,False,2016-12-20,2026-01-12
+A00853,U0217,Active Directory,Enabled,False,False,2017-01-06,2026-08-16
+A00854,U0217,Email,Enabled,False,False,2016-12-20,2026-08-02
+A00855,U0218,EHR,Enabled,False,False,2025-04-14,2026-08-13
+A00856,U0218,Active Directory,Enabled,False,False,2025-04-10,2026-09-05
+A00857,U0218,VPN,Enabled,False,False,2025-04-06,2026-08-02
+A00858,U0218,Email,Enabled,False,False,2025-03-18,2026-07-28
+A00859,U0219,EHR,Enabled,False,False,2018-11-17,2026-08-23
+A00860,U0219,Active Directory,Enabled,False,False,2018-09-22,2026-08-01
+A00861,U0219,HR Portal,Enabled,False,False,2018-11-03,2026-09-19
+A00862,U0219,Radiology PACS,Enabled,False,False,2018-09-29,2026-09-18
+A00863,U0219,Email,Enabled,False,False,2018-11-12,2026-08-04
+A00864,U0220,EHR,Enabled,False,False,2021-02-23,2026-07-31
+A00865,U0220,Billing System,Enabled,False,False,2021-02-28,2026-09-15
+A00866,U0220,Active Directory,Enabled,False,False,2021-02-25,2026-09-12
+A00867,U0220,VPN,Enabled,False,False,2021-02-17,2026-09-14
+A00868,U0220,HR Portal,Enabled,False,False,2021-03-29,2026-08-14
+A00869,U0220,Email,Enabled,False,False,2021-02-24,2026-08-27
+A00870,U0221,EHR,Enabled,False,False,2016-02-06,2026-08-04
+A00871,U0221,Pharmacy System,Enabled,False,False,2016-01-10,2026-09-23
+A00872,U0221,Active Directory,Enabled,False,False,2016-01-03,2026-08-01
+A00873,U0221,Email,Enabled,False,False,2016-02-14,2026-08-24
+A00874,U0222,EHR,Enabled,False,False,2023-11-23,2026-08-02
+A00875,U0222,Pharmacy System,Enabled,False,False,2023-11-11,2026-08-20
+A00876,U0222,Active Directory,Enabled,False,False,2023-11-25,2026-07-31
+A00877,U0222,Email,Enabled,False,False,2023-12-02,2026-08-30
+A00878,U0223,EHR,Enabled,False,False,2019-01-05,2026-09-20
+A00879,U0223,Active Directory,Enabled,False,False,2018-12-17,2026-08-31
+A00880,U0223,VPN,Enabled,False,False,2018-12-22,2026-08-26
+A00881,U0223,Email,Enabled,False,False,2019-01-20,2026-08-12
+A00882,U0224,EHR,Enabled,False,False,2016-10-15,2026-09-17
+A00883,U0224,Billing System,Enabled,False,False,2016-10-07,2026-09-21
+A00884,U0224,Active Directory,Enabled,False,False,2016-10-03,2026-09-16
+A00885,U0224,Email,Enabled,False,False,2016-10-17,2026-08-21
+A00886,U0225,EHR,Enabled,False,False,2020-04-23,2026-08-04
+A00887,U0225,Active Directory,Enabled,False,False,2020-04-01,2026-09-05
+A00888,U0225,HR Portal,Enabled,False,False,2020-03-16,2026-09-09
+A00889,U0225,Email,Enabled,False,False,2020-04-26,2026-09-14
+A00890,U0226,Billing System,Enabled,False,False,2016-01-23,2026-09-02
+A00891,U0226,Active Directory,Enabled,False,False,2016-03-20,2026-09-24
+A00892,U0226,VPN,Disabled,False,False,2016-02-28,2022-02-21
+A00893,U0226,HR Portal,Enabled,False,False,2016-01-25,2026-08-11
+A00894,U0226,Email,Enabled,False,False,2016-02-22,2026-09-18
+A00895,U0227,EHR,Enabled,False,False,2018-11-16,2026-08-26
+A00896,U0227,Active Directory,Enabled,False,False,2018-10-31,2025-09-07
+A00897,U0227,VPN,Enabled,False,False,2018-09-26,2025-11-02
+A00898,U0227,HR Portal,Enabled,False,False,2018-11-08,2026-08-27
+A00899,U0227,Radiology PACS,Enabled,False,False,2018-09-27,2026-08-26
+A00900,U0227,Email,Enabled,False,False,2018-11-23,2026-08-08
+A00901,U0228,EHR,Enabled,False,False,2020-11-02,2026-09-24
+A00902,U0228,Billing System,Enabled,False,False,2020-11-24,2026-08-23
+A00903,U0228,Active Directory,Enabled,False,False,2020-10-09,2026-08-11
+A00904,U0228,HR Portal,Enabled,False,False,2020-11-24,2026-08-01
+A00905,U0228,Email,Enabled,False,False,2020-11-28,2026-08-25
+A00906,U0229,Billing System,Enabled,False,False,2019-09-29,2026-07-29
+A00907,U0229,Active Directory,Enabled,False,False,2019-09-19,2026-08-14
+A00908,U0229,VPN,Enabled,False,False,2019-10-06,2025-10-28
+A00909,U0229,Email,Enabled,False,False,2019-10-04,2026-08-01
+A00910,U0230,EHR,Enabled,False,False,2017-06-26,2026-08-10
+A00911,U0230,VPN,Enabled,False,False,2017-07-04,2026-08-11
+A00912,U0230,Email,Enabled,False,False,2017-07-07,2026-08-08
+A00913,U0231,EHR,Enabled,False,False,2018-11-22,2026-09-07
+A00914,U0231,Active Directory,Enabled,False,False,2018-12-10,2026-08-13
+A00915,U0231,VPN,Enabled,False,False,2018-11-26,2026-09-14
+A00916,U0231,HR Portal,Enabled,False,False,2018-12-10,2026-06-08
+A00917,U0231,Email,Enabled,False,False,2018-12-14,2026-08-29
+A00918,U0232,EHR,Enabled,False,False,2017-02-05,2026-08-31
+A00919,U0232,Active Directory,Enabled,False,False,2017-02-23,2026-09-03
+A00920,U0232,HR Portal,Enabled,False,False,2017-01-01,2026-09-13
+A00921,U0232,Email,Enabled,False,False,2017-01-28,2026-09-21
+A00922,U0233,EHR,Enabled,False,False,2024-10-06,2026-08-29
+A00923,U0233,Billing System,Enabled,False,False,2024-10-07,2026-09-01
+A00924,U0233,Active Directory,Enabled,False,False,2024-10-24,2026-08-29
+A00925,U0233,Email,Enabled,False,False,2024-11-11,2026-09-15
+A00926,U0234,Active Directory,Enabled,False,False,2022-07-21,2026-09-24
+A00927,U0234,Email,Enabled,False,False,2022-07-22,2026-08-25
+A00928,U0235,EHR,Enabled,False,False,2025-12-18,2026-08-05
+A00929,U0235,Active Directory,Enabled,False,False,2025-12-30,2026-09-23
+A00930,U0235,VPN,Enabled,False,False,2026-01-10,2026-08-18
+A00931,U0235,HR Portal,Enabled,False,False,2025-12-07,2026-09-03
+A00932,U0235,Email,Enabled,False,False,2025-12-05,2026-09-06
+A00933,U0236,EHR,Enabled,False,False,2025-01-19,2026-09-01
+A00934,U0236,Active Directory,Enabled,False,False,2024-12-24,2026-09-17
+A00935,U0236,Email,Enabled,False,False,2024-12-17,2026-08-30
+A00936,U0237,Active Directory,Enabled,False,False,2025-11-20,2026-09-18
+A00937,U0237,VPN,Enabled,False,False,2025-12-02,2026-08-05
+A00938,U0237,HR Portal,Enabled,False,False,2025-11-21,2026-09-09
+A00939,U0237,Email,Enabled,False,False,2025-10-22,2026-08-01
+A00940,U0238,EHR,Enabled,False,False,2023-06-04,2026-08-31
+A00941,U0238,Active Directory,Enabled,False,False,2023-07-07,2026-08-02
+A00942,U0238,Email,Enabled,False,False,2023-06-08,2026-09-23
+A00943,U0239,EHR,Enabled,False,False,2019-05-02,2026-08-17
+A00944,U0239,Pharmacy System,Enabled,False,False,2019-05-02,2026-09-18
+A00945,U0239,Active Directory,Enabled,True,False,2019-05-08,2026-09-20
+A00946,U0239,HR Portal,Enabled,False,False,2019-04-28,2026-08-17
+A00947,U0239,Email,Enabled,False,False,2019-05-20,2026-05-17
+A00948,U0240,EHR,Enabled,False,False,2015-05-05,2026-08-17
+A00949,U0240,Active Directory,Enabled,False,False,2015-05-30,2026-09-11
+A00950,U0240,Radiology PACS,Enabled,False,False,2015-04-28,2026-08-07
+A00951,U0240,Email,Enabled,False,False,2015-05-13,2026-08-28
+A00952,U0241,Pharmacy System,Enabled,False,False,2022-03-04,2026-08-08
+A00953,U0241,Active Directory,Enabled,False,False,2022-02-21,2026-08-16
+A00954,U0241,VPN,Enabled,False,False,2022-02-25,2026-08-06
+A00955,U0241,Email,Enabled,False,False,2022-02-17,2026-08-31
+A00956,U0242,Active Directory,Enabled,False,False,2019-10-22,2025-12-06
+A00957,U0242,Email,Enabled,False,False,2019-11-04,2026-08-31
+A00958,U0243,Active Directory,Enabled,False,False,2016-10-31,2026-09-23
+A00959,U0243,Email,Enabled,False,False,2016-11-17,2026-09-08
+A00960,U0244,EHR,Enabled,False,False,2018-03-06,2026-08-15
+A00961,U0244,Billing System,Enabled,False,False,2018-02-09,2026-09-06
+A00962,U0244,Active Directory,Enabled,False,False,2018-03-08,2026-07-28
+A00963,U0244,Email,Enabled,False,False,2018-02-18,2026-06-08
+A00964,U0245,Active Directory,Enabled,False,False,2022-04-29,2026-07-31
+A00965,U0245,VPN,Enabled,False,False,2022-06-07,2026-08-21
+A00966,U0245,Email,Enabled,False,False,2022-05-14,2025-12-23
+A00967,U0246,Pharmacy System,Enabled,False,False,2015-10-10,2026-09-19
+A00968,U0246,Active Directory,Enabled,False,False,2015-10-18,2026-09-18
+A00969,U0246,Email,Enabled,False,False,2015-11-23,2026-08-06
+A00970,U0247,EHR,Enabled,False,False,2023-11-18,2026-09-13
+A00971,U0247,Active Directory,Enabled,False,False,2023-10-30,2026-09-13
+A00972,U0247,VPN,Enabled,False,False,2023-12-14,2026-09-02
+A00973,U0247,Email,Enabled,False,False,2023-12-08,2026-08-08
+A00974,U0248,EHR,Enabled,False,False,2016-02-06,2026-08-03
+A00975,U0248,Active Directory,Disabled,False,False,2016-02-17,2021-10-24
+A00976,U0248,Email,Enabled,False,False,2016-02-10,2026-09-17
+A00977,U0249,EHR,Enabled,False,False,2020-06-01,2026-08-24
+A00978,U0249,Billing System,Disabled,False,False,2020-06-22,2022-11-14
+A00979,U0249,Active Directory,Enabled,False,False,2020-07-23,2026-09-08
+A00980,U0249,Email,Enabled,False,False,2020-06-03,2026-09-03
+A00981,U0250,EHR,Enabled,False,False,2020-05-05,2026-08-13
+A00982,U0250,Active Directory,Enabled,True,False,2020-05-19,2026-08-06
+A00983,U0250,Radiology PACS,Enabled,False,False,2020-05-21,2026-09-21
+A00984,U0250,Email,Enabled,False,False,2020-06-02,2026-08-17
+A00985,U0251,EHR,Enabled,False,False,2022-10-24,2026-07-29
+A00986,U0251,Active Directory,Enabled,False,False,2022-10-31,2026-07-28
+A00987,U0251,VPN,Enabled,False,False,2022-11-05,2026-09-15
+A00988,U0251,HR Portal,Disabled,False,False,2022-10-04,2023-06-26
+A00989,U0251,Email,Enabled,False,False,2022-11-28,2026-09-05
+A00990,U0252,EHR,Enabled,False,False,2016-04-25,2026-08-24
+A00991,U0252,Active Directory,Enabled,False,False,2016-03-13,2026-09-03
+A00992,U0252,Email,Enabled,False,False,2016-04-25,2026-02-17
+A00993,U0253,EHR,Enabled,False,False,2017-02-14,2026-08-24
+A00994,U0253,Pharmacy System,Enabled,False,False,2017-02-13,2026-07-29
+A00995,U0253,Active Directory,Enabled,False,False,2017-01-31,2026-08-30
+A00996,U0253,HR Portal,Enabled,False,False,2017-02-19,2025-08-24
+A00997,U0253,Radiology PACS,Enabled,False,False,2017-01-27,2026-09-01
+A00998,U0253,Email,Enabled,False,False,2017-02-03,2026-08-23
+A00999,U0254,EHR,Enabled,False,False,2019-01-29,2026-08-24
+A01000,U0254,Active Directory,Enabled,False,False,2019-01-06,2025-10-02
+A01001,U0254,VPN,Enabled,False,False,2019-01-26,2026-09-17
+A01002,U0254,HR Portal,Enabled,False,False,2019-01-28,2026-08-11
+A01003,U0254,Email,Enabled,False,False,2019-01-26,2026-08-01
+A01004,U0255,Billing System,Enabled,False,False,2015-09-05,2026-08-20
+A01005,U0255,Active Directory,Enabled,False,False,2015-10-16,2026-07-27
+A01006,U0255,HR Portal,Disabled,False,False,2015-08-19,2024-08-17
+A01007,U0255,Email,Enabled,False,False,2015-09-10,2026-08-20
+A01008,U0256,EHR,Enabled,False,False,2019-11-14,2026-09-09
+A01009,U0256,Active Directory,Enabled,False,False,2019-11-18,2026-08-09
+A01010,U0256,VPN,Enabled,False,False,2019-11-17,2026-08-20
+A01011,U0256,Email,Enabled,False,False,2019-11-16,2026-07-27
+A01012,U0257,Billing System,Enabled,False,False,2025-04-20,2026-09-11
+A01013,U0257,Active Directory,Disabled,False,False,2025-04-14,2025-10-21
+A01014,U0257,HR Portal,Disabled,False,False,2025-03-16,2025-06-20
+A01015,U0257,Email,Disabled,False,False,2025-04-04,2025-11-21
+A01016,U0258,EHR,Enabled,False,False,2016-03-29,2025-08-05
+A01017,U0258,Pharmacy System,Enabled,False,False,2016-05-18,2026-08-30
+A01018,U0258,Active Directory,Enabled,False,False,2016-05-04,2026-09-07
+A01019,U0258,Email,Enabled,False,False,2016-03-23,2026-09-01
+A01020,U0259,EHR,Enabled,False,False,2017-05-22,2025-10-12
+A01021,U0259,Active Directory,Enabled,False,False,2017-05-03,2026-09-23
+A01022,U0259,Email,Enabled,False,False,2017-04-12,2026-08-06
+A01023,U0260,EHR,Enabled,False,False,2023-10-09,2026-09-01
+A01024,U0260,Active Directory,Enabled,False,False,2023-09-07,2026-08-11
+A01025,U0260,Email,Enabled,False,False,2023-08-21,2026-08-27
+A01026,U0261,Active Directory,Disabled,False,False,2020-03-18,2024-09-06
+A01027,U0261,Email,Enabled,False,False,2020-03-10,2026-09-22
+A01028,U0262,EHR,Enabled,False,False,2019-08-13,2026-09-05
+A01029,U0262,Billing System,Enabled,False,False,2019-09-18,2026-07-29
+A01030,U0262,Active Directory,Enabled,False,False,2019-08-31,2026-08-07
+A01031,U0262,Email,Enabled,False,False,2019-08-10,2026-08-08
+A01032,U0263,EHR,Enabled,False,False,2025-06-30,2026-09-10
+A01033,U0263,Active Directory,Enabled,False,False,2025-07-30,2026-09-12
+A01034,U0263,VPN,Enabled,False,False,2025-08-04,2026-08-17
+A01035,U0263,Email,Enabled,False,False,2025-06-23,2026-08-27
+A01036,U0264,EHR,Enabled,False,False,2017-01-03,2025-06-15
+A01037,U0264,Active Directory,Enabled,False,False,2017-01-06,2026-09-06
+A01038,U0264,HR Portal,Enabled,False,False,2017-01-14,2026-09-12
+A01039,U0264,Email,Enabled,False,False,2016-12-27,2026-08-31
+A01040,U0265,EHR,Enabled,False,False,2018-04-30,2026-09-15
+A01041,U0265,Active Directory,Enabled,False,False,2018-05-14,2026-04-23
+A01042,U0265,Radiology PACS,Enabled,False,False,2018-06-05,2026-02-20
+A01043,U0265,Email,Enabled,False,False,2018-06-19,2026-08-21
+A01044,U0266,EHR,Enabled,False,False,2019-06-28,2026-08-08
+A01045,U0266,Active Directory,Enabled,False,False,2019-05-24,2026-09-20
+A01046,U0266,VPN,Enabled,False,False,2019-06-26,2026-09-16
+A01047,U0266,Email,Enabled,False,False,2019-05-17,2026-07-29
+A01048,U0267,EHR,Enabled,False,False,2022-07-13,2026-09-17
+A01049,U0267,Active Directory,Enabled,True,False,2022-07-12,2026-08-13
+A01050,U0267,VPN,Enabled,False,False,2022-08-16,2026-09-01
+A01051,U0267,Email,Enabled,False,False,2022-07-06,2026-09-05
+A01052,U0268,EHR,Enabled,False,False,2017-04-12,2026-08-21
+A01053,U0268,Active Directory,Enabled,False,False,2017-03-31,2026-08-30
+A01054,U0268,HR Portal,Enabled,False,False,2017-03-27,2026-08-22
+A01055,U0268,Email,Enabled,False,False,2017-04-05,2026-09-20
+A01056,U0269,EHR,Enabled,False,False,2021-09-25,2026-09-05
+A01057,U0269,Active Directory,Enabled,False,False,2021-08-10,2026-08-11
+A01058,U0269,Email,Enabled,False,False,2021-09-05,2026-09-09
+A01059,U0270,EHR,Enabled,False,False,2019-10-20,2026-02-28
+A01060,U0270,Active Directory,Disabled,False,False,2019-09-07,2026-01-03
+A01061,U0270,HR Portal,Enabled,False,False,2019-09-11,2026-09-15
+A01062,U0270,Email,Enabled,False,False,2019-09-05,2026-07-29
+A01063,U0271,Pharmacy System,Enabled,False,False,2024-04-24,2026-09-09
+A01064,U0271,Active Directory,Enabled,False,False,2024-04-08,2026-09-12
+A01065,U0271,Email,Enabled,False,False,2024-03-14,2026-09-06
+A01066,U0272,EHR,Enabled,False,False,2018-02-11,2026-08-06
+A01067,U0272,Active Directory,Enabled,False,False,2018-02-07,2026-08-19
+A01068,U0272,VPN,Enabled,False,False,2018-03-14,2026-07-28
+A01069,U0272,Email,Enabled,False,False,2018-03-05,2026-09-20
+A01070,U0273,Pharmacy System,Enabled,False,False,2021-08-18,2026-08-30
+A01071,U0273,Active Directory,Enabled,False,False,2021-08-03,2026-07-31
+A01072,U0273,VPN,Enabled,False,False,2021-08-14,2025-08-24
+A01073,U0273,HR Portal,Enabled,False,False,2021-08-05,2026-04-07
+A01074,U0273,Email,Enabled,False,False,2021-07-05,2026-07-29
+A01075,U0274,EHR,Enabled,False,False,2019-04-03,2026-07-31
+A01076,U0274,Active Directory,Enabled,False,False,2019-05-02,2026-09-17
+A01077,U0274,Email,Enabled,False,False,2019-04-08,2026-08-18
+A01078,U0275,EHR,Enabled,False,False,2019-01-02,2026-09-07
+A01079,U0275,Active Directory,Enabled,False,False,2018-12-20,2026-09-05
+A01080,U0275,VPN,Enabled,False,False,2019-01-11,2026-08-08
+A01081,U0275,Radiology PACS,Enabled,False,False,2018-12-21,2026-09-13
+A01082,U0275,Email,Enabled,False,False,2019-01-31,2026-09-06
+A01083,U0276,Active Directory,Enabled,False,False,2020-10-11,2026-09-04
+A01084,U0276,Email,Enabled,False,False,2020-11-13,2025-07-17
+A01085,U0277,EHR,Enabled,False,False,2019-07-01,2026-09-04
+A01086,U0277,Active Directory,Disabled,False,False,2019-08-07,2025-03-31
+A01087,U0277,Email,Enabled,False,False,2019-07-27,2026-08-01
+A01088,U0278,EHR,Disabled,False,False,2021-03-09,2024-05-22
+A01089,U0278,Active Directory,Enabled,False,False,2021-02-11,2026-08-30
+A01090,U0278,HR Portal,Enabled,False,False,2021-02-12,2026-09-18
+A01091,U0278,Email,Enabled,False,False,2021-03-12,2026-08-04
+A01092,U0279,EHR,Enabled,False,False,2024-07-11,2026-09-07
+A01093,U0279,Active Directory,Disabled,False,False,2024-07-29,2025-10-02
+A01094,U0279,Email,Disabled,False,False,2024-06-18,2024-12-21
+A01095,U0280,EHR,Enabled,False,False,2022-10-17,2026-08-19
+A01096,U0280,Active Directory,Enabled,False,False,2022-10-04,2026-08-19
+A01097,U0280,Email,Enabled,False,False,2022-09-07,2026-08-18
+A01098,U0281,EHR,Enabled,False,False,2016-03-18,2026-08-11
+A01099,U0281,Active Directory,Enabled,True,False,2016-05-06,2026-08-01
+A01100,U0281,VPN,Enabled,False,False,2016-04-07,2026-09-01
+A01101,U0281,Radiology PACS,Enabled,False,False,2016-03-21,2026-08-28
+A01102,U0281,Email,Enabled,False,False,2016-04-27,2026-08-10
+A01103,U0282,EHR,Enabled,False,False,2021-08-16,2026-09-17
+A01104,U0282,Billing System,Enabled,False,False,2021-10-08,2026-04-22
+A01105,U0282,Active Directory,Enabled,False,False,2021-09-10,2026-08-23
+A01106,U0282,HR Portal,Enabled,False,False,2021-09-23,2026-08-07
+A01107,U0282,Email,Enabled,False,False,2021-09-15,2026-08-05
+A01108,U0283,EHR,Enabled,False,False,2025-07-18,2026-09-12
+A01109,U0283,Active Directory,Enabled,False,False,2025-06-25,2026-09-18
+A01110,U0283,Email,Enabled,False,False,2025-06-16,2026-09-20
+A01111,U0284,Active Directory,Enabled,False,False,2015-06-14,2025-11-18
+A01112,U0284,VPN,Enabled,False,False,2015-06-06,2026-09-05
+A01113,U0284,Email,Enabled,False,False,2015-05-11,2026-09-18
+A01114,U0285,EHR,Enabled,False,False,2017-05-01,2026-08-27
+A01115,U0285,Active Directory,Enabled,False,False,2017-06-18,2026-08-11
+A01116,U0285,HR Portal,Enabled,False,False,2017-05-16,2026-08-20
+A01117,U0285,Email,Enabled,False,False,2017-06-05,2026-09-15
+A01118,U0286,EHR,Enabled,False,False,2015-03-21,2026-08-07
+A01119,U0286,Active Directory,Enabled,False,False,2015-01-27,2026-09-15
+A01120,U0286,HR Portal,Enabled,False,False,2015-02-07,2026-09-23
+A01121,U0286,Email,Enabled,False,False,2015-02-14,2026-09-23
+A01122,U0287,EHR,Enabled,False,False,2026-06-03,2026-08-04
+A01123,U0287,Active Directory,Enabled,False,False,2026-05-14,2025-07-30
+A01124,U0287,Email,Enabled,False,False,2026-06-10,2026-08-13
+A01125,U0288,EHR,Enabled,False,False,2021-08-09,2026-09-14
+A01126,U0288,Billing System,Enabled,False,False,2021-07-19,2026-08-05
+A01127,U0288,Active Directory,Enabled,False,False,2021-07-17,2026-08-16
+A01128,U0288,VPN,Enabled,False,False,2021-07-02,2026-08-05
+A01129,U0288,Email,Enabled,False,False,2021-06-22,2026-08-14
+A01130,U0289,Billing System,Enabled,False,False,2016-10-22,2026-08-30
+A01131,U0289,Active Directory,Enabled,False,False,2016-10-26,2026-08-13
+A01132,U0289,VPN,Enabled,False,False,2016-10-07,2025-12-12
+A01133,U0289,HR Portal,Enabled,False,False,2016-10-09,2026-09-13
+A01134,U0289,Email,Enabled,False,False,2016-10-29,2026-09-01
+A01135,U0290,Active Directory,Enabled,False,False,2021-02-28,2026-09-20
+A01136,U0290,HR Portal,Enabled,False,False,2021-03-25,2026-09-16
+A01137,U0290,Email,Enabled,False,False,2021-03-15,2026-09-04
+A01138,U0291,EHR,Enabled,False,False,2024-10-11,2026-09-12
+A01139,U0291,Active Directory,Enabled,False,False,2024-10-08,2026-09-03
+A01140,U0291,Email,Enabled,False,False,2024-09-29,2026-09-09
+A01141,U0292,EHR,Enabled,False,False,2021-10-13,2026-07-29
+A01142,U0292,Billing System,Enabled,False,False,2021-10-29,2026-08-04
+A01143,U0292,Active Directory,Enabled,False,False,2021-11-05,2026-08-23
+A01144,U0292,Email,Enabled,False,False,2021-11-23,2026-09-24
+A01145,U0293,EHR,Enabled,False,False,2019-06-25,2026-09-09
+A01146,U0293,Pharmacy System,Enabled,False,False,2019-07-01,2026-03-31
+A01147,U0293,Active Directory,Enabled,False,False,2019-08-08,2026-07-27
+A01148,U0293,HR Portal,Enabled,False,False,2019-07-17,2026-03-02
+A01149,U0293,Email,Enabled,False,False,2019-07-18,2026-08-01
+A01150,U0294,EHR,Enabled,False,False,2020-07-25,2026-08-16
+A01151,U0294,Active Directory,Enabled,True,False,2020-08-10,2026-08-07
+A01152,U0294,Email,Enabled,False,False,2020-07-02,2026-08-02
+A01153,U0295,EHR,Enabled,False,False,2025-07-01,2026-09-13
+A01154,U0295,Active Directory,Enabled,False,False,2025-06-01,2026-09-16
+A01155,U0295,VPN,Enabled,False,False,2025-05-29,2026-08-20
+A01156,U0295,HR Portal,Enabled,False,False,2025-06-23,2026-08-28
+A01157,U0295,Email,Enabled,False,False,2025-06-25,2026-09-04
+A01158,U0296,EHR,Enabled,False,False,2019-04-21,2026-08-31
+A01159,U0296,Active Directory,Enabled,False,False,2019-04-02,2026-07-31
+A01160,U0296,Radiology PACS,Enabled,False,False,2019-05-02,2026-09-08
+A01161,U0297,Active Directory,Enabled,False,False,2017-08-25,2026-09-23
+A01162,U0297,Email,Enabled,False,False,2017-08-29,2026-09-03
+A01163,U0298,EHR,Enabled,False,False,2018-04-17,2026-09-20
+A01164,U0298,Pharmacy System,Enabled,False,False,2018-05-21,2026-08-27
+A01165,U0298,Active Directory,Enabled,False,False,2018-05-09,2026-08-27
+A01166,U0298,Radiology PACS,Disabled,False,False,2018-05-17,2022-02-12
+A01167,U0298,Email,Enabled,False,False,2018-05-22,2026-08-12
+A01168,U0299,Active Directory,Enabled,False,False,2025-10-18,2026-08-23
+A01169,U0299,VPN,Enabled,False,False,2025-10-17,2026-08-13
+A01170,U0299,Email,Enabled,False,False,2025-09-29,2026-08-26
+A01171,U0300,EHR,Enabled,False,False,2020-04-28,2026-08-28
+A01172,U0300,Active Directory,Enabled,False,False,2020-05-26,2026-08-09
+A01173,U0300,Email,Enabled,False,False,2020-05-26,2026-09-13
+A01174,U0301,EHR,Enabled,False,False,2016-05-12,2026-08-26
+A01175,U0301,Active Directory,Disabled,False,False,2016-06-04,2024-12-02
+A01176,U0301,Email,Enabled,False,False,2016-04-28,2026-08-02
+A01177,U0302,EHR,Enabled,False,False,2022-03-06,2026-07-27
+A01178,U0302,Active Directory,Enabled,True,False,2022-03-17,2026-08-17
+A01179,U0302,HR Portal,Enabled,False,False,2022-01-23,2026-08-16
+A01180,U0302,Email,Enabled,False,False,2022-02-08,2026-08-15
+A01181,U0303,EHR,Enabled,False,False,2025-09-05,2026-08-30
+A01182,U0303,Active Directory,Enabled,False,False,2025-09-11,2026-08-24
+A01183,U0303,Email,Enabled,False,False,2025-09-25,2026-09-22
+A01184,U0304,EHR,Enabled,False,False,2016-09-18,2026-05-22
+A01185,U0304,Active Directory,Enabled,False,False,2016-08-16,2026-09-09
+A01186,U0304,VPN,Disabled,False,False,2016-08-11,2019-07-01
+A01187,U0304,Email,Enabled,False,False,2016-08-23,2026-09-20
+A01188,U0305,EHR,Enabled,False,False,2020-12-18,2026-08-11
+A01189,U0305,Active Directory,Enabled,False,False,2020-12-21,2026-08-24
+A01190,U0305,VPN,Enabled,False,False,2020-11-21,2026-08-06
+A01191,U0305,Email,Enabled,False,False,2020-11-18,2026-08-07
+A01192,U0306,EHR,Enabled,False,False,2019-10-02,2026-08-26
+A01193,U0306,Active Directory,Enabled,False,False,2019-09-09,2026-07-27
+A01194,U0306,Radiology PACS,Enabled,False,False,2019-08-25,2026-08-24
+A01195,U0306,Email,Enabled,False,False,2019-08-24,2026-07-28
+A01196,U0307,EHR,Enabled,False,False,2021-09-25,2026-08-09
+A01197,U0307,Active Directory,Enabled,True,False,2021-08-29,2026-09-16
+A01198,U0307,VPN,Enabled,False,False,2021-09-26,2026-09-03
+A01199,U0307,HR Portal,Enabled,False,False,2021-09-19,2026-09-17
+A01200,U0307,Email,Enabled,False,False,2021-09-03,2026-01-28
+A01201,U0308,EHR,Enabled,False,False,2024-12-17,2026-09-15
+A01202,U0308,Active Directory,Enabled,True,False,2024-12-21,2026-09-06
+A01203,U0308,VPN,Enabled,False,False,2024-12-31,2026-09-14
+A01204,U0308,Email,Enabled,False,False,2025-01-31,2026-07-31
+A01205,U0309,EHR,Enabled,False,False,2019-03-28,2026-08-06
+A01206,U0309,Active Directory,Enabled,False,False,2019-02-28,2026-09-23
+A01207,U0309,VPN,Enabled,False,False,2019-03-22,2026-08-14
+A01208,U0309,Email,Enabled,False,False,2019-03-19,2026-08-05
+A01209,U0310,EHR,Enabled,False,False,2021-02-17,2026-08-15
+A01210,U0310,Active Directory,Enabled,False,False,2021-02-22,2026-08-21
+A01211,U0310,Radiology PACS,Enabled,False,False,2021-03-05,2026-08-23
+A01212,U0310,Email,Enabled,False,False,2021-02-16,2026-08-09
+A01213,U0311,Pharmacy System,Enabled,False,False,2017-06-07,2026-08-14
+A01214,U0311,Active Directory,Enabled,True,False,2017-06-18,2026-09-11
+A01215,U0311,Email,Enabled,False,False,2017-05-13,2026-08-30
+A01216,U0312,EHR,Enabled,False,False,2018-07-11,2026-08-28
+A01217,U0312,Billing System,Enabled,False,False,2018-06-21,2026-08-09
+A01218,U0312,Active Directory,Enabled,False,False,2018-07-14,2026-08-04
+A01219,U0312,VPN,Enabled,False,False,2018-07-07,2026-08-06
+A01220,U0312,Email,Disabled,False,False,2018-07-03,2021-08-24
+A01221,U0313,EHR,Enabled,False,False,2025-09-06,2025-07-06
+A01222,U0313,Billing System,Enabled,False,False,2025-10-07,2026-09-15
+A01223,U0313,Active Directory,Enabled,False,False,2025-10-19,2026-09-05
+A01224,U0313,HR Portal,Enabled,False,False,2025-09-27,2026-09-09
+A01225,U0313,Email,Enabled,False,False,2025-10-04,2026-07-29
+A01226,U0314,EHR,Disabled,False,False,2015-03-08,2023-07-12
+A01227,U0314,Billing System,Enabled,False,False,2015-02-28,2026-09-08
+A01228,U0314,Active Directory,Enabled,False,False,2015-02-13,2026-08-27
+A01229,U0314,Email,Enabled,False,False,2015-03-04,2026-08-05
+A01230,U0315,EHR,Enabled,False,False,2016-11-03,2026-09-13
+A01231,U0315,Active Directory,Enabled,False,False,2016-10-27,2026-08-02
+A01232,U0315,VPN,Enabled,False,False,2016-11-13,2026-08-25
+A01233,U0315,Email,Enabled,False,False,2016-11-25,2026-07-27
+A01234,U0316,EHR,Enabled,False,False,2023-02-13,2026-08-04
+A01235,U0316,Active Directory,Enabled,False,False,2023-02-14,2026-09-16
+A01236,U0316,Email,Enabled,False,False,2023-03-20,2026-08-31
+A01237,U0317,EHR,Enabled,False,False,2020-03-06,2026-09-22
+A01238,U0317,Billing System,Enabled,False,False,2020-02-15,2026-08-08
+A01239,U0317,Pharmacy System,Enabled,False,False,2020-03-02,2026-09-20
+A01240,U0317,Active Directory,Enabled,False,False,2020-03-22,2026-07-27
+A01241,U0317,VPN,Enabled,False,False,2020-03-27,2026-08-08
+A01242,U0317,Email,Enabled,False,False,2020-03-16,2026-09-24
+A01243,U0318,Active Directory,Enabled,False,False,2024-03-04,2026-02-13
+A01244,U0318,Radiology PACS,Enabled,False,False,2024-02-14,2026-09-21
+A01245,U0318,Email,Enabled,False,False,2024-01-22,2026-08-17
+A01246,U0319,EHR,Enabled,False,False,2018-04-15,2026-09-06
+A01247,U0319,Active Directory,Enabled,False,False,2018-05-25,2026-08-11
+A01248,U0319,HR Portal,Enabled,False,False,2018-04-15,2026-09-22
+A01249,U0319,Email,Enabled,False,False,2018-04-22,2026-08-20
+A01250,U0320,EHR,Enabled,False,False,2016-07-20,2026-04-24
+A01251,U0320,Active Directory,Enabled,True,False,2016-07-09,2025-06-16
+A01252,U0320,VPN,Enabled,False,False,2016-07-31,2026-09-01
+A01253,U0320,Email,Enabled,False,False,2016-06-25,2025-07-27
+A01254,U0321,EHR,Enabled,False,False,2024-07-21,2026-09-14
+A01255,U0321,Billing System,Enabled,False,False,2024-08-07,2026-09-07
+A01256,U0321,Active Directory,Enabled,False,False,2024-08-06,2026-08-29
+A01257,U0321,VPN,Enabled,False,False,2024-07-10,2026-08-06
+A01258,U0321,Email,Enabled,False,False,2024-08-08,2026-09-17
+A01259,U0322,EHR,Enabled,False,False,2022-03-22,2026-08-12
+A01260,U0322,Active Directory,Enabled,False,False,2022-03-26,2026-09-07
+A01261,U0322,Email,Enabled,False,False,2022-03-28,2026-07-31
+A01262,U0323,EHR,Enabled,False,False,2019-06-26,2026-09-08
+A01263,U0323,Active Directory,Enabled,False,False,2019-08-02,2026-08-27
+A01264,U0323,HR Portal,Disabled,False,False,2019-08-02,2023-10-09
+A01265,U0323,Email,Enabled,False,False,2019-07-02,2025-09-12
+A01266,U0324,Pharmacy System,Enabled,False,False,2025-05-20,2026-08-22
+A01267,U0324,Active Directory,Enabled,False,False,2025-04-14,2026-08-06
+A01268,U0324,Email,Enabled,False,False,2025-06-02,2026-09-23
+A01269,U0325,EHR,Enabled,False,False,2020-04-09,2026-08-05
+A01270,U0325,Active Directory,Enabled,False,False,2020-03-28,2026-09-16
+A01271,U0325,VPN,Enabled,False,False,2020-04-10,2025-07-03
+A01272,U0325,Email,Enabled,False,False,2020-03-19,2026-08-15
+A01273,U0326,Active Directory,Enabled,False,False,2019-07-07,2025-07-15
+A01274,U0326,VPN,Enabled,False,False,2019-06-22,2026-07-29
+A01275,U0326,Email,Enabled,False,False,2019-06-24,2026-09-08
+A01276,U0327,EHR,Enabled,False,False,2023-05-28,2026-02-14
+A01277,U0327,Pharmacy System,Enabled,False,False,2023-04-06,2026-09-04
+A01278,U0327,Active Directory,Enabled,False,False,2023-04-07,2026-07-30
+A01279,U0327,Email,Enabled,False,False,2023-04-23,2026-08-11
+A01280,U0328,Active Directory,Enabled,False,False,2024-01-24,2026-09-20
+A01281,U0328,VPN,Enabled,False,False,2023-11-27,2026-08-01
+A01282,U0328,Email,Enabled,False,False,2024-01-18,2026-08-13
+A01283,U0329,EHR,Enabled,False,False,2015-12-30,2026-09-07
+A01284,U0329,Pharmacy System,Enabled,False,False,2016-02-02,2026-08-23
+A01285,U0329,Active Directory,Enabled,False,False,2016-02-25,2026-07-28
+A01286,U0330,EHR,Enabled,False,False,2016-12-12,2026-08-29
+A01287,U0330,Active Directory,Enabled,False,False,2016-12-12,2026-08-15
+A01288,U0330,VPN,Enabled,False,False,2016-11-22,2026-09-05
+A01289,U0330,Email,Enabled,False,False,2016-11-26,2026-09-09
+A01290,U0331,EHR,Enabled,False,False,2019-05-19,2026-09-16
+A01291,U0331,Billing System,Disabled,False,False,2019-05-25,2019-06-30
+A01292,U0331,Active Directory,Enabled,False,False,2019-05-23,2026-09-20
+A01293,U0331,VPN,Enabled,False,False,2019-06-26,2026-09-14
+A01294,U0331,Email,Enabled,False,False,2019-06-22,2026-09-24
+A01295,U0332,EHR,Enabled,False,False,2025-10-08,2026-09-21
+A01296,U0332,Billing System,Enabled,False,False,2025-10-20,2026-09-19
+A01297,U0332,Active Directory,Enabled,False,False,2025-09-29,2026-07-30
+A01298,U0332,VPN,Enabled,False,False,2025-10-03,2026-09-13
+A01299,U0332,Email,Enabled,False,False,2025-10-28,2026-08-24
+A01300,U0333,EHR,Enabled,False,False,2019-03-19,2026-08-08
+A01301,U0333,Billing System,Enabled,False,False,2019-02-28,2026-08-03
+A01302,U0333,Pharmacy System,Enabled,False,False,2019-02-25,2026-09-13
+A01303,U0333,Active Directory,Enabled,False,False,2019-02-27,2026-07-28
+A01304,U0333,HR Portal,Enabled,False,False,2019-03-18,2026-08-12
+A01305,U0333,Email,Enabled,False,False,2019-02-17,2026-09-06
+A01306,U0334,Active Directory,Enabled,False,False,2015-10-23,2026-08-08
+A01307,U0334,Email,Enabled,False,False,2015-10-16,2026-08-21
+A01308,U0335,EHR,Enabled,False,False,2017-12-30,2026-08-12
+A01309,U0335,Pharmacy System,Enabled,False,False,2018-01-02,2026-08-20
+A01310,U0335,Email,Enabled,False,False,2018-02-15,2026-09-02
+A01311,U0336,EHR,Enabled,False,False,2020-10-21,2026-08-03
+A01312,U0336,Active Directory,Enabled,False,False,2020-12-14,2026-08-03
+A01313,U0336,VPN,Enabled,False,False,2020-11-02,2026-08-19
+A01314,U0336,HR Portal,Enabled,False,False,2020-11-18,2026-08-24
+A01315,U0336,Email,Enabled,False,False,2020-10-25,2026-03-30
+A01316,U0337,EHR,Enabled,False,False,2022-03-10,2026-08-10
+A01317,U0337,Active Directory,Enabled,False,False,2022-03-04,2026-04-07
+A01318,U0337,Email,Enabled,False,False,2022-03-04,2026-07-27
+A01319,U0338,EHR,Enabled,False,False,2016-05-23,2026-07-27
+A01320,U0338,Active Directory,Enabled,False,False,2016-05-28,2026-09-11
+A01321,U0338,VPN,Enabled,False,False,2016-06-05,2026-08-02
+A01322,U0338,Email,Disabled,False,False,2016-05-29,2024-03-19
+A01323,U0339,EHR,Enabled,False,False,2017-08-14,2026-09-21
+A01324,U0339,Active Directory,Enabled,False,False,2017-08-20,2026-09-18
+A01325,U0339,VPN,Enabled,False,False,2017-09-14,2026-08-12
+A01326,U0339,Email,Enabled,False,False,2017-08-22,2026-08-19
+A01327,U0340,EHR,Enabled,False,False,2018-09-28,2026-08-25
+A01328,U0340,Pharmacy System,Enabled,False,False,2018-11-12,2026-08-02
+A01329,U0340,Active Directory,Enabled,False,False,2018-10-26,2026-08-06
+A01330,U0340,Email,Enabled,False,False,2018-09-21,2026-08-07
+A01331,U0341,Active Directory,Enabled,False,False,2021-03-09,2026-09-13
+A01332,U0341,VPN,Enabled,False,False,2021-04-14,2026-09-08
+A01333,U0341,Radiology PACS,Enabled,False,False,2021-04-28,2026-08-02
+A01334,U0341,Email,Disabled,False,False,2021-03-17,2025-06-20
+A01335,U0342,Active Directory,Enabled,False,False,2017-01-23,2026-08-02
+A01336,U0342,VPN,Enabled,False,False,2017-01-11,2026-09-13
+A01337,U0342,Radiology PACS,Enabled,False,False,2017-01-16,2026-08-22
+A01338,U0342,Email,Enabled,False,False,2017-01-04,2026-08-23
+A01339,U0343,EHR,Enabled,False,False,2020-01-18,2026-07-29
+A01340,U0343,Billing System,Enabled,False,False,2020-01-24,2026-08-18
+A01341,U0343,Active Directory,Enabled,True,False,2020-01-26,2026-09-03
+A01342,U0343,VPN,Enabled,False,False,2020-01-05,2026-09-07
+A01343,U0343,Email,Enabled,False,False,2020-01-24,2025-06-25
+A01344,U0344,EHR,Enabled,False,False,2023-04-16,2026-08-10
+A01345,U0344,Active Directory,Enabled,False,False,2023-04-11,2026-03-16
+A01346,U0344,Email,Enabled,False,False,2023-03-17,2026-09-21
+A01347,U0345,Pharmacy System,Enabled,False,False,2017-04-08,2026-08-28
+A01348,U0345,Active Directory,Enabled,False,False,2017-03-28,2026-08-04
+A01349,U0345,Email,Enabled,False,False,2017-03-14,2026-09-17
+A01350,U0346,Billing System,Disabled,False,False,2015-07-04,2019-06-10
+A01351,U0346,Active Directory,Enabled,False,False,2015-06-18,2026-08-08
+A01352,U0346,Email,Enabled,False,False,2015-06-21,2026-09-04
+A01353,U0347,EHR,Enabled,False,False,2020-01-22,2026-09-07
+A01354,U0347,Active Directory,Enabled,False,False,2020-01-02,2026-09-01
+A01355,U0347,Email,Enabled,False,False,2020-02-21,2025-12-04
+A01356,U0348,EHR,Enabled,False,False,2025-07-11,2026-09-22
+A01357,U0348,Billing System,Enabled,False,False,2025-08-24,2026-08-17
+A01358,U0348,Active Directory,Enabled,False,False,2025-08-28,2026-09-21
+A01359,U0348,VPN,Enabled,False,False,2025-08-24,2026-08-29
+A01360,U0348,Email,Enabled,False,False,2025-07-19,2026-08-19
+A01361,U0349,EHR,Enabled,False,False,2015-10-22,2026-08-18
+A01362,U0349,Active Directory,Enabled,False,False,2015-10-26,2026-07-30
+A01363,U0349,VPN,Enabled,False,False,2015-10-14,2026-08-19
+A01364,U0349,HR Portal,Enabled,False,False,2015-11-27,2026-08-19
+A01365,U0349,Email,Enabled,False,False,2015-12-03,2026-08-31
+A01366,U0350,EHR,Enabled,False,False,2022-01-04,2026-04-05
+A01367,U0350,Active Directory,Enabled,False,False,2021-12-26,2026-09-24
+A01368,U0350,Email,Enabled,False,False,2022-02-03,2026-07-31
+A01369,U0351,Active Directory,Enabled,False,False,2026-04-14,2026-09-05
+A01370,U0351,VPN,Enabled,False,False,2026-03-19,2026-08-20
+A01371,U0351,Email,Enabled,False,False,2026-03-27,2026-09-16
+A01372,U0352,EHR,Enabled,False,False,2023-04-15,2026-08-01
+A01373,U0352,Active Directory,Enabled,False,False,2023-03-13,2026-08-27
+A01374,U0352,Email,Enabled,False,False,2023-05-03,2026-04-15
+A01375,U0353,EHR,Enabled,False,False,2024-06-19,2026-07-29
+A01376,U0353,Active Directory,Enabled,False,False,2024-05-24,2026-08-14
+A01377,U0353,Email,Enabled,False,False,2024-06-18,2026-09-17
+A01378,U0354,EHR,Enabled,False,False,2020-05-12,2026-07-29
+A01379,U0354,Active Directory,Enabled,False,False,2020-04-01,2026-08-10
+A01380,U0354,VPN,Enabled,False,False,2020-03-22,2026-03-03
+A01381,U0354,Email,Enabled,False,False,2020-04-06,2026-08-28
+A01382,U0355,EHR,Enabled,False,False,2024-10-12,2026-08-22
+A01383,U0355,Pharmacy System,Enabled,False,False,2024-10-23,2026-07-28
+A01384,U0355,Active Directory,Enabled,False,False,2024-11-17,2025-07-05
+A01385,U0355,HR Portal,Enabled,False,False,2024-11-11,2026-08-09
+A01386,U0355,Email,Enabled,False,False,2024-10-12,2026-07-27
+A01387,U0356,EHR,Enabled,False,False,2023-12-07,2026-09-10
+A01388,U0356,Billing System,Enabled,False,False,2023-12-31,2026-09-21
+A01389,U0356,Active Directory,Enabled,False,False,2023-12-17,2026-08-28
+A01390,U0356,VPN,Enabled,False,False,2023-12-20,2026-09-14
+A01391,U0356,Email,Enabled,False,False,2023-11-28,2026-09-03
+A01392,U0357,EHR,Enabled,False,False,2026-02-12,2026-08-13
+A01393,U0357,Pharmacy System,Enabled,False,False,2025-12-21,2026-09-20
+A01394,U0357,Active Directory,Enabled,False,False,2026-01-30,2026-09-18
+A01395,U0357,HR Portal,Enabled,False,False,2026-01-31,2026-08-22
+A01396,U0357,Email,Enabled,False,False,2026-01-26,2026-08-15
+A01397,U0358,EHR,Enabled,False,False,2019-04-27,2026-09-03
+A01398,U0358,Active Directory,Enabled,False,False,2019-04-25,2026-09-18
+A01399,U0358,Email,Enabled,False,False,2019-05-10,2026-08-14
+A01400,U0359,EHR,Enabled,False,False,2023-06-07,2026-07-31
+A01401,U0359,Billing System,Enabled,False,False,2023-06-23,2026-09-03
+A01402,U0359,Active Directory,Enabled,False,False,2023-06-19,2026-05-01
+A01403,U0359,Email,Enabled,False,False,2023-07-12,2026-08-29
+A01404,U0360,EHR,Enabled,False,False,2019-01-29,2026-08-10
+A01405,U0360,Active Directory,Disabled,False,False,2019-02-08,2026-02-27
+A01406,U0360,VPN,Disabled,False,False,2019-02-23,2022-09-05
+A01407,U0360,Radiology PACS,Enabled,False,False,2019-02-17,2026-07-30
+A01408,U0360,Email,Enabled,False,False,2019-01-08,2026-08-16
+A01409,U0361,EHR,Enabled,False,False,2017-04-29,2026-08-14
+A01410,U0361,Billing System,Enabled,False,False,2017-04-20,2026-07-27
+A01411,U0361,Active Directory,Enabled,False,False,2017-04-23,2026-09-06
+A01412,U0361,Email,Disabled,False,False,2017-05-24,2023-06-04
+A01413,U0362,EHR,Enabled,False,False,2023-06-10,2026-09-01
+A01414,U0362,Billing System,Disabled,False,False,2023-07-01,2026-03-03
+A01415,U0362,Active Directory,Enabled,False,False,2023-07-10,2026-09-19
+A01416,U0362,VPN,Enabled,False,False,2023-06-29,2026-09-09
+A01417,U0362,HR Portal,Enabled,False,False,2023-07-07,2026-09-12
+A01418,U0362,Email,Enabled,False,False,2023-07-10,2026-09-03
+A01419,U0363,EHR,Enabled,False,False,2024-02-29,2026-08-13
+A01420,U0363,Active Directory,Enabled,False,False,2024-03-29,2026-08-10
+A01421,U0363,HR Portal,Enabled,False,False,2024-04-07,2026-08-19
+A01422,U0363,Radiology PACS,Enabled,False,False,2024-03-18,2026-09-23
+A01423,U0363,Email,Enabled,False,False,2024-04-12,2026-08-26
+A01424,U0364,EHR,Enabled,False,False,2017-05-26,2026-09-21
+A01425,U0364,Active Directory,Enabled,False,False,2017-05-01,2026-05-06
+A01426,U0364,Email,Enabled,False,False,2017-04-26,2026-09-14
+A01427,U0365,Billing System,Enabled,False,False,2023-06-02,2026-08-18
+A01428,U0365,Active Directory,Disabled,False,False,2023-05-31,2024-11-01
+A01429,U0365,VPN,Disabled,False,False,2023-05-04,2025-05-21
+A01430,U0365,HR Portal,Enabled,False,False,2023-05-06,2026-09-15
+A01431,U0365,Email,Enabled,False,False,2023-04-24,2026-08-05
+A01432,U0366,EHR,Enabled,False,False,2023-08-16,2025-12-28
+A01433,U0366,Active Directory,Enabled,False,False,2023-09-04,2026-08-08
+A01434,U0366,Email,Enabled,False,False,2023-08-02,2026-08-16
+A01435,U0367,EHR,Disabled,False,False,2020-06-27,2024-02-28
+A01436,U0367,Active Directory,Enabled,True,False,2020-07-10,2026-08-06
+A01437,U0367,Email,Enabled,False,False,2020-07-10,2026-09-06
+A01438,U0368,EHR,Enabled,False,False,2019-06-25,2026-01-12
+A01439,U0368,Active Directory,Enabled,False,False,2019-05-24,2026-09-19
+A01440,U0368,VPN,Enabled,False,False,2019-05-25,2026-08-24
+A01441,U0368,Radiology PACS,Enabled,False,False,2019-06-06,2026-09-01
+A01442,U0368,Email,Enabled,False,False,2019-06-04,2026-06-03
+A01443,U0369,EHR,Enabled,False,False,2021-05-21,2026-08-02
+A01444,U0369,Pharmacy System,Enabled,False,False,2021-04-21,2026-06-01
+A01445,U0369,Active Directory,Enabled,True,False,2021-05-07,2026-08-01
+A01446,U0369,Email,Enabled,False,False,2021-06-06,2026-09-05
+A01447,U0370,EHR,Enabled,False,False,2017-11-18,2026-09-06
+A01448,U0370,Active Directory,Enabled,True,False,2017-10-05,2026-08-29
+A01449,U0370,Email,Enabled,False,False,2017-11-13,2026-09-21
+A01450,U0371,EHR,Enabled,False,False,2023-09-03,2026-08-15
+A01451,U0371,Billing System,Enabled,False,False,2023-09-09,2026-09-18
+A01452,U0371,Active Directory,Enabled,False,False,2023-08-15,2026-08-26
+A01453,U0371,VPN,Enabled,False,False,2023-08-04,2026-08-09
+A01454,U0371,Email,Enabled,False,False,2023-07-31,2026-09-12
+A01455,U0372,EHR,Enabled,False,False,2018-04-22,2026-09-08
+A01456,U0372,Billing System,Enabled,False,False,2018-03-02,2026-09-06
+A01457,U0372,Active Directory,Enabled,False,False,2018-03-02,2026-08-20
+A01458,U0372,HR Portal,Enabled,False,False,2018-03-29,2026-09-08
+A01459,U0372,Email,Enabled,False,False,2018-04-15,2026-08-14
+A01460,U0373,EHR,Enabled,False,False,2019-03-19,2026-09-04
+A01461,U0373,Active Directory,Enabled,False,False,2019-02-27,2026-09-14
+A01462,U0373,Email,Enabled,False,False,2019-03-14,2026-09-11
+A01463,U0374,EHR,Enabled,False,False,2023-04-13,2026-01-07
+A01464,U0374,Active Directory,Enabled,False,False,2023-03-17,2026-09-05
+A01465,U0374,VPN,Enabled,False,False,2023-03-22,2026-08-26
+A01466,U0374,Radiology PACS,Enabled,False,False,2023-04-28,2026-09-06
+A01467,U0375,EHR,Enabled,False,False,2023-08-01,2026-09-02
+A01468,U0375,Active Directory,Enabled,False,False,2023-09-19,2026-09-02
+A01469,U0375,Email,Enabled,False,False,2023-08-23,2026-07-29
+A01470,U0376,EHR,Enabled,False,False,2015-04-14,2026-03-01
+A01471,U0376,Billing System,Enabled,False,False,2015-03-20,2026-08-12
+A01472,U0376,Active Directory,Enabled,False,False,2015-03-12,2025-07-07
+A01473,U0376,VPN,Enabled,False,False,2015-03-11,2026-08-25
+A01474,U0376,Email,Enabled,False,False,2015-03-17,2026-08-31
+A01475,U0377,EHR,Enabled,False,False,2018-06-29,2026-09-15
+A01476,U0377,Active Directory,Enabled,False,False,2018-08-08,2026-09-04
+A01477,U0377,Email,Disabled,False,False,2018-08-15,2020-04-07
+A01478,U0378,EHR,Enabled,False,False,2015-10-03,2026-09-06
+A01479,U0378,Active Directory,Enabled,False,False,2015-10-02,2026-02-03
+A01480,U0378,Email,Enabled,False,False,2015-09-05,2026-08-24
+A01481,U0379,Active Directory,Enabled,False,False,2020-11-03,2026-08-01
+A01482,U0379,VPN,Enabled,False,False,2020-09-29,2026-08-29
+A01483,U0379,Email,Enabled,False,False,2020-10-30,2026-08-29
+A01484,U0380,EHR,Enabled,False,False,2020-05-29,2026-09-23
+A01485,U0380,Billing System,Enabled,False,False,2020-06-01,2026-08-26
+A01486,U0380,Active Directory,Enabled,False,False,2020-07-06,2026-09-04
+A01487,U0380,VPN,Enabled,False,False,2020-06-28,2026-08-14
+A01488,U0380,HR Portal,Enabled,False,False,2020-06-27,2026-08-19
+A01489,U0380,Email,Enabled,False,False,2020-06-01,2026-09-13
+A01490,U0381,EHR,Enabled,False,False,2025-04-06,2026-08-06
+A01491,U0381,Active Directory,Enabled,False,False,2025-04-23,2026-09-13
+A01492,U0381,VPN,Enabled,False,False,2025-03-17,2026-09-03
+A01493,U0381,Email,Enabled,False,False,2025-04-23,2026-08-27
+A01494,U0382,EHR,Enabled,False,False,2020-04-18,2026-08-09
+A01495,U0382,Billing System,Enabled,False,False,2020-04-23,2026-08-13
+A01496,U0382,Active Directory,Enabled,False,False,2020-04-27,2026-08-15
+A01497,U0382,Email,Disabled,False,False,2020-05-08,2022-10-04
+A01498,U0383,EHR,Enabled,False,False,2020-06-25,2026-08-08
+A01499,U0383,Billing System,Enabled,False,False,2020-07-01,2026-09-08
+A01500,U0383,Active Directory,Enabled,False,False,2020-06-16,2026-08-22
+A01501,U0383,Email,Enabled,False,False,2020-05-28,2026-08-17
+A01502,U0384,EHR,Enabled,False,False,2019-09-17,2026-09-15
+A01503,U0384,Active Directory,Enabled,False,False,2019-10-19,2026-09-14
+A01504,U0384,VPN,Enabled,False,False,2019-10-18,2025-12-21
+A01505,U0384,HR Portal,Enabled,False,False,2019-10-08,2026-08-14
+A01506,U0384,Email,Enabled,False,False,2019-10-01,2026-02-26
+A01507,U0385,EHR,Enabled,False,False,2026-05-22,2026-08-02
+A01508,U0385,Billing System,Enabled,False,False,2026-06-13,2026-09-12
+A01509,U0385,Active Directory,Enabled,False,False,2026-04-18,2026-07-30
+A01510,U0385,Email,Enabled,False,False,2026-06-05,2026-08-21
+A01511,U0386,EHR,Enabled,False,False,2017-08-08,2025-12-10
+A01512,U0386,Billing System,Enabled,False,False,2017-08-21,2026-08-12
+A01513,U0386,Active Directory,Enabled,False,False,2017-08-29,2026-08-21
+A01514,U0386,Email,Enabled,False,False,2017-09-13,2025-11-18
+A01515,U0387,EHR,Enabled,False,False,2022-08-19,2026-08-21
+A01516,U0387,Active Directory,Enabled,False,False,2022-09-05,2026-08-26
+A01517,U0387,VPN,Disabled,False,False,2022-09-06,2023-08-30
+A01518,U0387,Email,Enabled,False,False,2022-08-30,2026-09-13
+A01519,U0388,Active Directory,Enabled,False,False,2025-02-28,2026-08-06
+A01520,U0388,Email,Enabled,False,False,2025-03-16,2025-06-09
+A01521,U0389,EHR,Enabled,False,False,2024-06-03,2026-08-09
+A01522,U0389,Active Directory,Enabled,False,False,2024-06-06,2026-08-13
+A01523,U0389,VPN,Enabled,False,False,2024-06-10,2026-08-21
+A01524,U0389,Email,Enabled,False,False,2024-05-22,2026-09-01
+A01525,U0390,EHR,Enabled,False,False,2025-09-29,2026-08-13
+A01526,U0390,Billing System,Enabled,False,False,2025-10-17,2026-08-28
+A01527,U0390,Active Directory,Enabled,False,False,2025-11-07,2026-09-16
+A01528,U0390,HR Portal,Enabled,False,False,2025-10-13,2026-09-20
+A01529,U0390,Email,Enabled,False,False,2025-10-20,2026-08-08
+A01530,U0391,EHR,Disabled,False,False,2017-07-29,2021-07-08
+A01531,U0391,Active Directory,Enabled,False,False,2017-07-16,2026-08-04
+A01532,U0391,Email,Enabled,False,False,2017-07-17,2026-08-27
+A01533,U0392,EHR,Enabled,False,False,2017-03-24,2026-08-07
+A01534,U0392,Active Directory,Disabled,False,False,2017-05-16,2021-10-07
+A01535,U0392,Email,Enabled,False,False,2017-04-04,2026-09-11
+A01536,U0393,Active Directory,Enabled,False,False,2015-09-06,2026-08-14
+A01537,U0393,Email,Enabled,False,False,2015-10-24,2026-08-14
+A01538,U0394,EHR,Enabled,False,False,2022-11-19,2026-08-27
+A01539,U0394,Billing System,Enabled,False,False,2022-11-12,2026-03-26
+A01540,U0394,Active Directory,Enabled,True,False,2022-10-24,2026-09-03
+A01541,U0394,VPN,Enabled,False,False,2022-10-25,2026-09-18
+A01542,U0394,Email,Disabled,False,False,2022-11-26,2024-08-13
+A01543,U0395,EHR,Disabled,False,False,2026-04-14,2026-08-13
+A01544,U0395,Active Directory,Enabled,False,False,2026-04-23,2026-09-21
+A01545,U0395,Email,Enabled,False,False,2026-03-16,2025-11-12
+A01546,U0396,Active Directory,Enabled,False,False,2025-06-27,2026-07-27
+A01547,U0396,Email,Enabled,False,False,2025-06-16,2025-08-03
+A01548,U0397,EHR,Enabled,False,False,2019-10-26,2026-09-24
+A01549,U0397,Billing System,Disabled,False,False,2019-11-16,2022-03-12
+A01550,U0397,Active Directory,Enabled,False,False,2019-12-01,2026-09-23
+A01551,U0397,VPN,Enabled,False,False,2019-11-24,2026-09-19
+A01552,U0397,HR Portal,Enabled,False,False,2019-11-24,2026-08-07
+A01553,U0398,EHR,Enabled,False,False,2018-03-26,2026-09-21
+A01554,U0398,Radiology PACS,Enabled,False,False,2018-03-22,2025-08-29
+A01555,U0398,Email,Enabled,False,False,2018-02-27,2026-08-15
+A01556,U0399,EHR,Enabled,False,False,2026-05-20,2026-09-15
+A01557,U0399,Billing System,Enabled,False,False,2026-05-04,2026-09-20
+A01558,U0399,Active Directory,Enabled,False,False,2026-05-31,2026-08-26
+A01559,U0399,VPN,Enabled,False,False,2026-05-24,2026-09-12
+A01560,U0399,Email,Enabled,False,False,2026-04-17,2025-12-09
+A01561,U0400,EHR,Enabled,False,False,2017-12-19,2026-08-06
+A01562,U0400,Billing System,Enabled,False,False,2018-01-17,2026-09-13
+A01563,U0400,Active Directory,Enabled,False,False,2017-12-05,2026-08-10
+A01564,U0400,Email,Enabled,False,False,2017-12-28,2026-08-09
+A01565,U0401,EHR,Enabled,False,False,2023-07-15,2026-09-07
+A01566,U0401,Billing System,Enabled,False,False,2023-06-07,2026-08-26
+A01567,U0401,Active Directory,Disabled,False,False,2023-07-19,2025-03-15
+A01568,U0401,HR Portal,Enabled,False,False,2023-07-20,2026-08-23
+A01569,U0401,Radiology PACS,Enabled,False,False,2023-06-14,2026-08-23
+A01570,U0401,Email,Enabled,False,False,2023-07-31,2026-03-12
+A01571,U0402,Active Directory,Enabled,False,False,2017-07-05,2026-08-03
+A01572,U0402,VPN,Enabled,False,False,2017-07-18,2026-09-22
+A01573,U0402,Email,Enabled,False,False,2017-06-27,2026-08-10
+A01574,U0403,EHR,Enabled,False,False,2025-02-26,2026-09-14
+A01575,U0403,Active Directory,Enabled,False,False,2025-03-20,2026-08-07
+A01576,U0403,VPN,Enabled,False,False,2025-02-10,2026-08-08
+A01577,U0403,HR Portal,Enabled,False,False,2025-02-21,2026-08-22
+A01578,U0403,Email,Enabled,False,False,2025-02-18,2026-08-12
+A01579,U0404,EHR,Enabled,False,False,2017-06-11,2026-08-11
+A01580,U0404,Active Directory,Enabled,False,False,2017-07-12,2026-08-29
+A01581,U0404,HR Portal,Enabled,False,False,2017-06-26,2026-09-17
+A01582,U0404,Email,Enabled,False,False,2017-06-10,2026-08-04
+A01583,U0405,Billing System,Enabled,False,False,2016-09-13,2025-08-13
+A01584,U0405,Active Directory,Enabled,False,False,2016-09-25,2026-09-16
+A01585,U0405,VPN,Enabled,False,False,2016-08-21,2026-08-21
+A01586,U0405,Email,Enabled,False,False,2016-09-22,2026-09-22
+A01587,U0406,Active Directory,Enabled,False,False,2023-09-06,2026-08-26
+A01588,U0406,VPN,Enabled,False,False,2023-08-16,2026-07-27
+A01589,U0406,Email,Enabled,False,False,2023-08-27,2026-08-06
+A01590,U0407,EHR,Enabled,False,False,2021-07-20,2026-09-02
+A01591,U0407,Billing System,Enabled,False,False,2021-07-16,2026-08-10
+A01592,U0407,Active Directory,Enabled,False,False,2021-07-18,2026-09-15
+A01593,U0407,Email,Enabled,False,False,2021-07-12,2026-09-19
+A01594,U0408,Active Directory,Enabled,False,False,2020-07-20,2026-08-27
+A01595,U0408,VPN,Enabled,False,False,2020-06-29,2026-09-08
+A01596,U0408,Email,Enabled,False,False,2020-07-18,2026-08-21
+A01597,U0409,EHR,Enabled,False,False,2016-07-26,2025-07-15
+A01598,U0409,Billing System,Enabled,False,False,2016-07-23,2026-09-17
+A01599,U0409,Active Directory,Enabled,False,False,2016-07-30,2026-07-27
+A01600,U0409,Email,Enabled,False,False,2016-08-27,2026-08-29
+A01601,U0410,Radiology PACS,Enabled,False,False,2019-10-14,2026-09-02
+A01602,U0410,Email,Enabled,False,False,2019-09-19,2026-08-02
+A01603,U0411,Pharmacy System,Enabled,False,False,2026-06-21,2026-07-27
+A01604,U0411,Email,Enabled,False,False,2026-06-04,2026-09-14
+A01605,U0412,EHR,Enabled,False,False,2023-08-22,2026-09-03
+A01606,U0412,Billing System,Enabled,False,False,2023-09-26,2026-08-21
+A01607,U0412,Pharmacy System,Enabled,False,False,2023-08-28,2026-09-04
+A01608,U0412,Active Directory,Enabled,False,False,2023-10-10,2026-08-03
+A01609,U0412,VPN,Enabled,False,False,2023-10-04,2026-08-28
+A01610,U0412,Email,Enabled,False,False,2023-08-27,2026-09-02
+A01611,U0413,Billing System,Enabled,False,False,2017-02-19,2026-09-24
+A01612,U0413,Active Directory,Enabled,False,False,2017-01-24,2026-07-29
+A01613,U0413,HR Portal,Enabled,False,False,2017-01-12,2026-08-29
+A01614,U0413,Email,Enabled,False,False,2017-02-13,2026-09-23
+A01615,U0414,EHR,Enabled,False,False,2020-05-28,2026-08-02
+A01616,U0414,Billing System,Enabled,False,False,2020-05-04,2026-08-05
+A01617,U0414,Pharmacy System,Enabled,False,False,2020-06-03,2026-09-17
+A01618,U0414,Active Directory,Enabled,False,False,2020-05-22,2026-08-02
+A01619,U0414,Email,Enabled,False,False,2020-05-15,2026-08-26
+A01620,U0415,EHR,Enabled,False,False,2021-04-17,2026-07-31
+A01621,U0415,Billing System,Disabled,False,False,2021-02-25,2022-09-07
+A01622,U0415,Active Directory,Enabled,False,False,2021-04-13,2026-08-18
+A01623,U0415,VPN,Disabled,False,False,2021-03-29,2023-05-20
+A01624,U0415,HR Portal,Enabled,False,False,2021-04-17,2026-07-31
+A01625,U0415,Radiology PACS,Enabled,False,False,2021-03-31,2026-08-27
+A01626,U0415,Email,Enabled,False,False,2021-03-31,2026-08-29
+A01627,U0416,Active Directory,Enabled,False,False,2016-05-22,2026-09-02
+A01628,U0416,HR Portal,Enabled,False,False,2016-05-13,2026-09-24
+A01629,U0416,Email,Enabled,False,False,2016-05-15,2026-09-02
+A01630,U0417,EHR,Enabled,False,False,2016-08-26,2026-09-20
+A01631,U0417,Pharmacy System,Enabled,False,False,2016-08-11,2026-08-07
+A01632,U0417,Active Directory,Enabled,False,False,2016-08-26,2026-09-21
+A01633,U0417,VPN,Disabled,False,False,2016-08-05,2019-02-16
+A01634,U0417,Email,Enabled,False,False,2016-08-31,2026-09-01
+A01635,U0418,EHR,Enabled,False,False,2017-09-17,2026-08-22
+A01636,U0418,Active Directory,Enabled,False,False,2017-08-24,2026-08-09
+A01637,U0418,Email,Enabled,False,False,2017-08-10,2026-08-15
+A01638,U0419,EHR,Enabled,False,False,2016-01-02,2025-07-07
+A01639,U0419,Active Directory,Enabled,False,False,2015-12-24,2026-08-26
+A01640,U0419,HR Portal,Enabled,False,False,2016-01-05,2026-08-03
+A01641,U0419,Radiology PACS,Enabled,False,False,2016-02-05,2026-09-07
+A01642,U0419,Email,Enabled,False,False,2016-02-10,2026-09-10
+A01643,U0420,EHR,Enabled,False,False,2022-06-08,2026-07-28
+A01644,U0420,Active Directory,Enabled,True,False,2022-05-03,2026-08-14
+A01645,U0420,VPN,Enabled,False,False,2022-06-03,2026-09-06
+A01646,U0420,Email,Enabled,False,False,2022-05-13,2026-04-05
+A01647,U0421,Active Directory,Disabled,False,False,2022-02-21,2026-04-17
+A01648,U0421,Email,Enabled,False,False,2022-02-28,2026-09-15
+A01649,U0422,EHR,Enabled,False,False,2021-01-28,2026-09-02
+A01650,U0422,Active Directory,Enabled,False,False,2020-12-30,2026-09-04
+A01651,U0422,Email,Enabled,False,False,2021-02-05,2026-08-05
+A01652,U0423,EHR,Enabled,False,False,2025-01-19,2026-08-27
+A01653,U0423,Active Directory,Enabled,False,False,2024-12-22,2026-08-11
+A01654,U0423,Email,Enabled,False,False,2024-12-07,2026-09-01
+A01655,U0424,EHR,Enabled,False,False,2021-12-19,2026-09-21
+A01656,U0424,Active Directory,Enabled,False,False,2021-11-27,2026-08-29
+A01657,U0424,Email,Enabled,False,False,2022-01-11,2026-08-21
+A01658,U0425,EHR,Enabled,False,False,2023-12-16,2026-08-22
+A01659,U0425,Active Directory,Enabled,False,False,2023-12-31,2026-09-08
+A01660,U0425,VPN,Enabled,False,False,2023-12-08,2026-08-22
+A01661,U0425,HR Portal,Disabled,False,False,2024-01-28,2025-06-25
+A01662,U0425,Email,Enabled,False,False,2024-01-05,2026-08-20
+A01663,U0426,Active Directory,Enabled,False,False,2020-03-04,2026-08-30
+A01664,U0426,Radiology PACS,Enabled,False,False,2020-01-16,2026-09-11
+A01665,U0426,Email,Enabled,False,False,2020-02-03,2026-09-11
+A01666,U0427,EHR,Enabled,False,False,2015-08-22,2026-09-05
+A01667,U0427,Pharmacy System,Enabled,False,False,2015-08-13,2026-08-20
+A01668,U0427,Active Directory,Enabled,True,False,2015-09-07,2026-09-04
+A01669,U0427,Email,Enabled,False,False,2015-08-24,2026-09-16
+A01670,U0428,Active Directory,Enabled,False,False,2023-08-22,2026-08-24
+A01671,U0428,HR Portal,Enabled,False,False,2023-09-17,2026-09-11
+A01672,U0428,Email,Enabled,False,False,2023-09-13,2026-07-30
+A01673,U0429,Active Directory,Enabled,False,False,2018-07-31,2026-09-04
+A01674,U0429,Email,Enabled,False,False,2018-09-04,2026-08-15
+A01675,U0430,EHR,Enabled,False,False,2020-11-29,2026-09-10
+A01676,U0430,Billing System,Enabled,False,False,2020-12-03,2026-09-02
+A01677,U0430,Active Directory,Enabled,False,False,2020-12-03,2026-09-05
+A01678,U0430,HR Portal,Enabled,False,False,2020-11-21,2026-09-17
+A01679,U0430,Email,Enabled,False,False,2020-12-05,2026-09-05
+A01680,U0431,EHR,Enabled,False,False,2026-01-22,2026-08-24
+A01681,U0431,Pharmacy System,Enabled,False,False,2025-12-22,2026-09-20
+A01682,U0431,Active Directory,Enabled,False,False,2026-01-14,2026-09-18
+A01683,U0431,VPN,Enabled,False,False,2026-01-25,2026-09-12
+A01684,U0431,Email,Enabled,False,False,2026-01-14,2026-08-13
+A01685,U0432,EHR,Enabled,False,False,2017-12-03,2026-07-29
+A01686,U0432,Active Directory,Enabled,False,False,2017-11-20,2025-08-01
+A01687,U0432,HR Portal,Enabled,False,False,2017-12-21,2026-09-21
+A01688,U0432,Email,Enabled,False,False,2017-11-08,2026-08-09
+A01689,U0433,Active Directory,Enabled,True,False,2024-03-30,2026-08-17
+A01690,U0433,VPN,Enabled,False,False,2024-03-18,2026-09-08
+A01691,U0433,HR Portal,Enabled,False,False,2024-02-06,2026-08-16
+A01692,U0433,Email,Enabled,False,False,2024-02-12,2026-04-25
+A01693,U0434,Billing System,Enabled,False,False,2024-03-23,2026-08-06
+A01694,U0434,Active Directory,Enabled,False,False,2024-03-12,2026-09-14
+A01695,U0434,Radiology PACS,Enabled,False,False,2024-01-29,2026-09-18
+A01696,U0434,Email,Enabled,False,False,2024-03-26,2026-09-14
+A01697,U0435,Active Directory,Enabled,False,False,2016-11-26,2026-08-09
+A01698,U0435,Email,Enabled,False,False,2016-12-05,2026-07-27
+A01699,U0436,EHR,Enabled,False,False,2022-08-04,2026-08-14
+A01700,U0436,Pharmacy System,Enabled,False,False,2022-08-18,2026-08-10
+A01701,U0436,Active Directory,Enabled,False,False,2022-07-16,2026-09-18
+A01702,U0436,VPN,Enabled,False,False,2022-07-21,2026-09-10
+A01703,U0436,HR Portal,Enabled,False,False,2022-08-28,2026-09-08
+A01704,U0436,Radiology PACS,Enabled,False,False,2022-07-29,2025-10-20
+A01705,U0436,Email,Enabled,False,False,2022-09-02,2026-08-27
+A01706,U0437,EHR,Enabled,False,False,2026-04-28,2026-08-04
+A01707,U0437,Billing System,Enabled,False,False,2026-04-11,2026-08-08
+A01708,U0437,Active Directory,Enabled,False,False,2026-05-16,2026-06-16
+A01709,U0437,Email,Enabled,False,False,2026-05-25,2026-09-16
+A01710,U0438,EHR,Enabled,False,False,2016-02-14,2026-08-05
+A01711,U0438,Billing System,Enabled,False,False,2016-03-08,2026-09-20
+A01712,U0438,Active Directory,Enabled,True,False,2016-03-12,2026-09-05
+A01713,U0438,VPN,Enabled,False,False,2016-03-09,2026-07-30
+A01714,U0438,Email,Enabled,False,False,2016-02-26,2025-10-19
+A01715,U0439,EHR,Enabled,False,False,2024-01-06,2025-11-03
+A01716,U0439,Active Directory,Enabled,False,False,2024-01-09,2026-05-17
+A01717,U0439,VPN,Enabled,False,False,2024-01-19,2026-09-10
+A01718,U0439,Email,Enabled,False,False,2024-01-03,2026-08-17
+A01719,U0440,Active Directory,Enabled,False,False,2024-01-22,2026-09-16
+A01720,U0440,Email,Disabled,False,False,2023-12-05,2024-09-20
+A01721,U0441,EHR,Enabled,False,False,2017-10-16,2026-09-13
+A01722,U0441,Active Directory,Enabled,False,False,2017-10-28,2025-08-11
+A01723,U0441,Email,Enabled,False,False,2017-09-21,2026-07-27
+A01724,U0442,EHR,Enabled,False,False,2022-07-08,2026-08-21
+A01725,U0442,Active Directory,Enabled,False,False,2022-07-28,2026-08-25
+A01726,U0442,Email,Enabled,False,False,2022-07-10,2026-08-30
+A01727,U0443,EHR,Enabled,False,False,2025-06-25,2026-09-24
+A01728,U0443,Active Directory,Enabled,False,False,2025-07-06,2026-09-14
+A01729,U0443,VPN,Enabled,False,False,2025-07-23,2026-08-01
+A01730,U0443,Radiology PACS,Enabled,False,False,2025-06-26,2026-09-09
+A01731,U0443,Email,Enabled,False,False,2025-07-02,2026-09-12
+A01732,U0444,Active Directory,Enabled,False,False,2021-06-13,2026-08-25
+A01733,U0444,Email,Enabled,False,False,2021-06-17,2026-09-15
+A01734,U0445,EHR,Enabled,False,False,2024-05-07,2026-08-04
+A01735,U0445,Active Directory,Enabled,False,False,2024-06-08,2026-08-15
+A01736,U0445,VPN,Enabled,False,False,2024-05-24,2026-08-23
+A01737,U0445,Email,Enabled,False,False,2024-05-21,2026-08-27
+A01738,U0446,Pharmacy System,Enabled,False,False,2015-06-18,2026-09-24
+A01739,U0446,Active Directory,Enabled,False,False,2015-06-12,2026-09-20
+A01740,U0446,Email,Enabled,False,False,2015-06-02,2026-08-06
+A01741,U0447,Active Directory,Enabled,False,False,2019-03-14,2026-09-24
+A01742,U0447,HR Portal,Enabled,False,False,2019-03-24,2026-08-13
+A01743,U0447,Email,Enabled,False,False,2019-03-31,2026-08-06
+A01744,U0448,EHR,Enabled,False,False,2017-12-11,2026-09-05
+A01745,U0448,Active Directory,Enabled,False,False,2018-01-10,2026-07-30
+A01746,U0448,VPN,Enabled,False,False,2017-12-25,2025-11-11
+A01747,U0448,HR Portal,Enabled,False,False,2018-01-25,2026-08-16
+A01748,U0448,Email,Enabled,False,False,2018-01-28,2026-08-17
+A01749,U0449,EHR,Enabled,False,False,2018-05-28,2026-07-30
+A01750,U0449,Billing System,Enabled,False,False,2018-07-19,2026-09-05
+A01751,U0449,Active Directory,Disabled,False,False,2018-06-21,2018-11-14
+A01752,U0449,Email,Enabled,False,False,2018-07-10,2026-09-13
+A01753,U0450,EHR,Enabled,False,False,2024-02-16,2026-03-22
+A01754,U0450,Active Directory,Enabled,False,False,2024-02-23,2026-08-18
+A01755,U0450,VPN,Enabled,False,False,2024-02-21,2026-09-24
+A01756,U0450,HR Portal,Enabled,False,False,2024-04-06,2026-09-06
+A01757,U0450,Radiology PACS,Enabled,False,False,2024-02-15,2026-09-15
+A01758,U0450,Email,Enabled,False,False,2024-03-06,2026-08-22
+A01759,U0451,EHR,Enabled,False,False,2017-09-11,2026-09-12
+A01760,U0451,Active Directory,Disabled,False,False,2017-09-24,2025-09-19
+A01761,U0451,VPN,Enabled,False,False,2017-10-09,2026-08-06
+A01762,U0451,HR Portal,Enabled,False,False,2017-08-26,2026-08-31
+A01763,U0451,Email,Enabled,False,False,2017-09-13,2026-06-16
+A01764,U0452,EHR,Enabled,False,False,2016-05-15,2026-09-15
+A01765,U0452,Active Directory,Enabled,False,False,2016-03-29,2025-08-21
+A01766,U0452,VPN,Enabled,False,False,2016-03-28,2026-08-17
+A01767,U0452,Email,Enabled,False,False,2016-04-03,2026-09-07
+A01768,U0453,EHR,Enabled,False,False,2023-08-18,2026-09-03
+A01769,U0453,Active Directory,Enabled,False,False,2023-07-19,2026-09-19
+A01770,U0453,HR Portal,Enabled,False,False,2023-07-05,2026-09-20
+A01771,U0453,Email,Enabled,False,False,2023-08-03,2026-08-20
+A01772,U0454,EHR,Enabled,False,False,2015-09-21,2026-08-05
+A01773,U0454,VPN,Enabled,False,False,2015-10-08,2026-09-14
+A01774,U0454,Email,Enabled,False,False,2015-09-16,2026-09-22
+A01775,U0455,EHR,Enabled,False,False,2017-06-04,2026-09-21
+A01776,U0455,Active Directory,Enabled,False,False,2017-06-10,2026-09-13
+A01777,U0455,VPN,Disabled,False,False,2017-05-02,2024-07-02
+A01778,U0455,Email,Enabled,False,False,2017-05-30,2026-09-09
+A01779,U0456,EHR,Enabled,False,False,2019-02-08,2026-09-19
+A01780,U0456,Active Directory,Enabled,True,False,2019-01-12,2026-09-12
+A01781,U0456,VPN,Enabled,False,False,2019-01-02,2026-09-15
+A01782,U0456,Email,Enabled,False,False,2019-02-12,2026-08-31
+A01783,U0457,Active Directory,Enabled,False,False,2016-12-22,2026-08-22
+A01784,U0457,VPN,Enabled,False,False,2016-12-20,2026-07-28
+A01785,U0457,HR Portal,Enabled,False,False,2017-01-07,2026-09-09
+A01786,U0457,Email,Enabled,False,False,2017-01-07,2026-08-18
+A01787,U0458,EHR,Enabled,False,False,2025-08-22,2026-08-04
+A01788,U0458,Billing System,Enabled,False,False,2025-08-14,2026-08-16
+A01789,U0458,Active Directory,Enabled,False,False,2025-07-30,2026-08-08
+A01790,U0458,Email,Enabled,False,False,2025-08-12,2026-07-28
+A01791,U0459,EHR,Enabled,False,False,2016-08-03,2026-09-10
+A01792,U0459,Active Directory,Enabled,False,False,2016-08-17,2026-08-05
+A01793,U0459,HR Portal,Enabled,False,False,2016-08-16,2026-08-05
+A01794,U0459,Email,Enabled,False,False,2016-09-03,2026-07-27
+A01795,U0460,Active Directory,Enabled,False,False,2016-07-06,2026-08-20
+A01796,U0460,HR Portal,Enabled,False,False,2016-06-23,2026-08-27
+A01797,U0460,Email,Enabled,False,False,2016-07-04,2026-09-24
+A01798,U0461,Billing System,Enabled,False,False,2015-05-29,2026-09-08
+A01799,U0461,Active Directory,Enabled,True,False,2015-05-31,2026-08-01
+A01800,U0461,VPN,Enabled,False,False,2015-06-11,2026-09-16
+A01801,U0461,Email,Enabled,False,False,2015-06-27,2025-06-12
+A01802,U0462,EHR,Enabled,False,False,2024-07-12,2026-03-21
+A01803,U0462,Active Directory,Enabled,False,False,2024-06-13,2026-09-14
+A01804,U0462,VPN,Enabled,False,False,2024-07-02,2026-07-27
+A01805,U0462,Email,Enabled,False,False,2024-07-29,2026-09-14
+A01806,U0463,EHR,Enabled,False,False,2019-11-01,2026-09-24
+A01807,U0463,Billing System,Enabled,False,False,2019-09-20,2026-07-27
+A01808,U0463,Pharmacy System,Enabled,False,False,2019-10-24,2026-08-21
+A01809,U0463,Active Directory,Enabled,False,False,2019-10-13,2026-08-12
+A01810,U0463,Radiology PACS,Enabled,False,False,2019-09-20,2026-08-27
+A01811,U0463,Email,Enabled,False,False,2019-09-07,2026-01-28
+A01812,U0464,EHR,Enabled,False,False,2022-04-28,2026-09-17
+A01813,U0464,Billing System,Disabled,False,False,2022-05-23,2026-02-27
+A01814,U0464,Active Directory,Enabled,False,False,2022-04-15,2025-06-13
+A01815,U0464,Radiology PACS,Enabled,False,False,2022-05-16,2026-07-31
+A01816,U0464,Email,Enabled,False,False,2022-05-31,2026-09-22
+A01817,U0465,EHR,Enabled,False,False,2023-02-24,2026-08-16
+A01818,U0465,Active Directory,Enabled,False,False,2023-02-14,2026-09-14
+A01819,U0465,Email,Enabled,False,False,2023-02-27,2026-08-28
+A01820,U0466,EHR,Enabled,False,False,2020-06-29,2026-07-27
+A01821,U0466,Active Directory,Enabled,False,False,2020-06-01,2026-07-30
+A01822,U0466,Email,Enabled,False,False,2020-06-19,2026-09-20
+A01823,U0467,EHR,Enabled,False,False,2019-11-09,2026-09-17
+A01824,U0467,Active Directory,Enabled,True,False,2019-11-29,2026-08-01
+A01825,U0467,Email,Enabled,False,False,2019-12-03,2026-09-14
+A01826,U0468,EHR,Enabled,False,False,2017-12-09,2026-04-30
+A01827,U0468,Active Directory,Enabled,False,False,2017-10-31,2026-09-12
+A01828,U0469,Active Directory,Enabled,False,False,2022-05-29,2026-09-15
+A01829,U0469,VPN,Enabled,False,False,2022-05-26,2026-08-20
+A01830,U0469,Email,Enabled,False,False,2022-05-16,2026-03-04
+A01831,U0470,EHR,Enabled,False,False,2015-12-28,2026-08-30
+A01832,U0470,Active Directory,Enabled,False,False,2016-01-16,2026-08-03
+A01833,U0470,VPN,Enabled,False,False,2015-11-21,2026-09-23
+A01834,U0470,HR Portal,Enabled,False,False,2015-11-22,2026-09-18
+A01835,U0470,Email,Enabled,False,False,2015-12-13,2026-08-13
+A01836,U0471,EHR,Enabled,False,False,2020-03-17,2026-09-18
+A01837,U0471,Active Directory,Enabled,False,False,2020-04-18,2026-08-07
+A01838,U0472,EHR,Enabled,False,False,2025-06-05,2026-09-22
+A01839,U0472,Active Directory,Enabled,False,False,2025-07-02,2026-08-28
+A01840,U0472,Email,Enabled,False,False,2025-07-01,2026-08-06
+A01841,U0473,Active Directory,Enabled,False,False,2019-01-07,2026-08-20
+A01842,U0473,HR Portal,Enabled,False,False,2018-11-29,2026-08-26
+A01843,U0473,Email,Enabled,False,False,2018-12-11,2026-08-11
+A01844,U0474,EHR,Enabled,False,False,2022-03-27,2026-08-07
+A01845,U0474,Billing System,Enabled,False,False,2022-03-22,2026-07-28
+A01846,U0474,Active Directory,Enabled,False,False,2022-03-22,2026-09-19
+A01847,U0474,VPN,Enabled,False,False,2022-02-22,2026-09-03
+A01848,U0474,Radiology PACS,Enabled,False,False,2022-04-02,2026-06-18
+A01849,U0474,Email,Enabled,False,False,2022-03-05,2026-08-08
+A01850,U0475,EHR,Enabled,False,False,2018-10-11,2026-08-29
+A01851,U0475,Billing System,Enabled,False,False,2018-10-15,2026-09-19
+A01852,U0475,Active Directory,Enabled,False,False,2018-11-06,2026-08-06
+A01853,U0475,VPN,Enabled,False,False,2018-10-05,2026-08-18
+A01854,U0475,Email,Enabled,False,False,2018-11-03,2026-08-20
+A01855,U0476,EHR,Enabled,False,False,2022-09-29,2026-07-31
+A01856,U0476,Pharmacy System,Enabled,False,False,2022-10-11,2025-12-13
+A01857,U0476,Active Directory,Enabled,False,False,2022-10-07,2026-08-27
+A01858,U0476,VPN,Enabled,False,False,2022-10-19,2026-09-12
+A01859,U0476,Email,Enabled,False,False,2022-09-15,2026-09-23
+A01860,U0477,EHR,Enabled,False,False,2015-09-02,2026-08-04
+A01861,U0477,Active Directory,Enabled,False,False,2015-08-12,2026-09-23
+A01862,U0477,Radiology PACS,Enabled,False,False,2015-09-06,2026-08-22
+A01863,U0477,Email,Enabled,False,False,2015-09-08,2026-08-18
+A01864,U0478,EHR,Enabled,False,False,2016-01-27,2026-09-21
+A01865,U0478,Active Directory,Enabled,False,False,2016-02-21,2026-07-30
+A01866,U0478,Email,Enabled,False,False,2016-01-03,2026-07-29
+A01867,U0479,EHR,Enabled,False,False,2023-10-25,2026-08-26
+A01868,U0479,Billing System,Enabled,False,False,2023-11-10,2026-08-31
+A01869,U0479,Active Directory,Enabled,False,False,2023-11-14,2026-08-12
+A01870,U0479,Email,Enabled,False,False,2023-12-11,2026-03-04
+A01871,U0480,EHR,Enabled,False,False,2024-07-27,2026-08-11
+A01872,U0480,Active Directory,Enabled,False,False,2024-07-14,2026-08-23
+A01873,U0480,Email,Enabled,False,False,2024-07-27,2026-07-29
+A01874,U0481,EHR,Disabled,False,False,2021-03-09,2025-07-01
+A01875,U0481,Active Directory,Enabled,False,False,2021-03-30,2026-08-02
+A01876,U0481,VPN,Enabled,False,False,2021-03-25,2026-08-28
+A01877,U0481,HR Portal,Enabled,False,False,2021-04-14,2026-08-07
+A01878,U0481,Email,Enabled,False,False,2021-04-21,2026-07-28
+A01879,U0482,EHR,Enabled,False,False,2022-02-26,2026-08-01
+A01880,U0482,Active Directory,Disabled,False,False,2022-03-16,2022-04-04
+A01881,U0482,Email,Enabled,False,False,2022-03-17,2026-08-30
+A01882,U0483,EHR,Enabled,False,False,2021-01-15,2026-08-08
+A01883,U0483,Billing System,Enabled,False,False,2021-02-13,2026-08-22
+A01884,U0483,Active Directory,Enabled,False,False,2021-02-12,2026-08-27
+A01885,U0483,VPN,Enabled,False,False,2021-01-19,2026-09-12
+A01886,U0483,HR Portal,Enabled,False,False,2021-02-24,2026-09-13
+A01887,U0483,Email,Enabled,False,False,2021-03-12,2026-07-30
+A01888,U0484,EHR,Enabled,False,False,2019-09-22,2026-08-20
+A01889,U0484,Active Directory,Enabled,False,False,2019-10-01,2026-09-04
+A01890,U0484,Radiology PACS,Enabled,False,False,2019-10-30,2026-08-12
+A01891,U0484,Email,Enabled,False,False,2019-09-11,2026-03-15
+A01892,U0485,EHR,Enabled,False,False,2020-07-22,2026-08-29
+A01893,U0485,Active Directory,Disabled,False,False,2020-07-08,2022-02-08
+A01894,U0485,Email,Enabled,False,False,2020-08-14,2026-08-25
+A01895,U0486,EHR,Enabled,False,False,2020-05-25,2025-06-25
+A01896,U0486,Active Directory,Enabled,False,False,2020-06-15,2026-08-14
+A01897,U0486,Email,Enabled,False,False,2020-07-04,2026-08-24
+A01898,U0487,EHR,Enabled,False,False,2019-11-11,2026-08-04
+A01899,U0487,Active Directory,Enabled,False,False,2019-12-11,2026-08-17
+A01900,U0487,Email,Enabled,False,False,2019-12-21,2026-08-12
+A01901,U0488,EHR,Enabled,False,False,2016-03-23,2026-08-24
+A01902,U0488,Pharmacy System,Enabled,False,False,2016-03-03,2026-09-21
+A01903,U0488,Active Directory,Enabled,False,False,2016-02-02,2026-09-15
+A01904,U0488,Email,Enabled,False,False,2016-02-01,2026-09-17
+A01905,U0489,EHR,Enabled,False,False,2021-03-02,2025-06-21
+A01906,U0489,Active Directory,Enabled,False,False,2021-03-04,2026-08-19
+A01907,U0489,Email,Enabled,False,False,2021-03-22,2026-08-30
+A01908,U0490,EHR,Enabled,False,False,2015-05-31,2026-08-04
+A01909,U0490,Active Directory,Enabled,False,False,2015-06-30,2026-09-18
+A01910,U0490,Radiology PACS,Enabled,False,False,2015-06-21,2026-08-28
+A01911,U0490,Email,Enabled,False,False,2015-05-24,2026-09-07
+A01912,U0491,EHR,Enabled,False,False,2026-02-22,2026-07-27
+A01913,U0491,Active Directory,Enabled,False,False,2026-03-04,2026-08-14
+A01914,U0491,Email,Enabled,False,False,2026-01-24,2026-09-02
+A01915,U0492,EHR,Enabled,False,False,2019-08-26,2026-09-10
+A01916,U0492,Active Directory,Enabled,False,False,2019-07-27,2026-09-09
+A01917,U0492,Email,Enabled,False,False,2019-08-08,2026-05-09
+A01918,U0493,EHR,Enabled,False,False,2019-10-15,2026-09-16
+A01919,U0493,Billing System,Enabled,False,False,2019-11-10,2026-08-28
+A01920,U0493,Active Directory,Enabled,False,False,2019-10-10,2026-09-08
+A01921,U0493,Email,Enabled,False,False,2019-11-06,2026-09-20
+A01922,U0494,Billing System,Enabled,False,False,2025-12-06,2026-07-27
+A01923,U0494,Email,Enabled,False,False,2025-10-22,2026-08-11
+A01924,U0495,EHR,Enabled,False,False,2019-04-03,2026-02-09
+A01925,U0495,Billing System,Enabled,False,False,2019-02-19,2026-08-14
+A01926,U0495,Active Directory,Enabled,False,False,2019-03-27,2026-09-24
+A01927,U0495,HR Portal,Enabled,False,False,2019-02-28,2026-08-26
+A01928,U0495,Email,Enabled,False,False,2019-03-26,2025-12-09
+A01929,U0496,EHR,Enabled,False,False,2017-07-26,2026-09-18
+A01930,U0496,Active Directory,Enabled,False,False,2017-07-27,2026-09-07
+A01931,U0496,HR Portal,Enabled,False,False,2017-09-16,2026-09-13
+A01932,U0496,Email,Enabled,False,False,2017-08-31,2026-09-21
+A01933,U0497,Billing System,Enabled,False,False,2022-06-13,2026-09-20
+A01934,U0497,Active Directory,Disabled,True,False,2022-05-04,2026-07-25
+A01935,U0497,Email,Enabled,False,False,2022-05-01,2026-08-02
+A01936,U0498,Active Directory,Disabled,False,False,2026-05-10,2026-08-04
+A01937,U0498,Email,Enabled,False,False,2026-06-05,2026-08-16
+A01938,U0499,EHR,Enabled,False,False,2023-05-07,2026-08-21
+A01939,U0499,Active Directory,Enabled,False,False,2023-04-13,2026-08-05
+A01940,U0499,HR Portal,Enabled,False,False,2023-04-10,2026-09-16
+A01941,U0499,Radiology PACS,Enabled,False,False,2023-04-04,2026-08-16
+A01942,U0499,Email,Enabled,False,False,2023-04-14,2026-08-05
+A01943,U0500,EHR,Enabled,False,False,2025-10-07,2026-01-17
+A01944,U0500,Active Directory,Enabled,False,False,2025-09-29,2026-08-24
+A01945,U0500,VPN,Enabled,False,False,2025-10-15,2026-09-18
+A01946,U0500,HR Portal,Enabled,False,False,2025-10-03,2026-09-15
+A01947,U0500,Radiology PACS,Enabled,False,False,2025-09-06,2026-09-19
+A01948,U0500,Email,Enabled,False,False,2025-10-13,2026-08-18
+A01949,U0501,EHR,Enabled,False,False,2017-08-18,2026-08-20
+A01950,U0501,Billing System,Enabled,False,False,2017-07-30,2026-08-16
+A01951,U0501,Active Directory,Enabled,False,False,2017-07-28,2026-09-21
+A01952,U0501,VPN,Enabled,False,False,2017-07-26,2026-08-25
+A01953,U0501,Email,Enabled,False,False,2017-09-08,2026-09-17
+A01954,U0502,Billing System,Enabled,False,False,2020-02-10,2026-07-31
+A01955,U0502,Pharmacy System,Enabled,False,False,2020-02-19,2026-09-17
+A01956,U0502,Active Directory,Enabled,False,False,2020-01-18,2026-09-05
+A01957,U0502,VPN,Enabled,False,False,2020-01-26,2026-08-13
+A01958,U0502,Email,Enabled,False,False,2020-02-16,2026-08-20
+A01959,U0503,Billing System,Enabled,False,False,2021-10-06,2026-09-05
+A01960,U0503,Active Directory,Disabled,False,False,2021-09-14,2024-07-17
+A01961,U0503,HR Portal,Enabled,False,False,2021-09-21,2026-09-06
+A01962,U0503,Email,Enabled,False,False,2021-09-27,2026-09-18
+A01963,U0504,Active Directory,Enabled,False,False,2022-05-23,2026-09-24
+A01964,U0504,Email,Enabled,False,False,2022-05-06,2026-08-05
+A01965,U0505,EHR,Enabled,False,False,2021-07-23,2026-08-10
+A01966,U0505,Active Directory,Enabled,False,False,2021-06-05,2025-11-11
+A01967,U0505,Email,Enabled,False,False,2021-06-23,2026-09-10
+A01968,U0506,Active Directory,Enabled,False,False,2022-11-12,2026-08-04
+A01969,U0506,VPN,Enabled,False,False,2022-11-23,2026-08-20
+A01970,U0506,Email,Enabled,False,False,2022-11-22,2026-09-10
+A01971,U0507,EHR,Enabled,False,False,2018-12-03,2026-09-14
+A01972,U0507,Active Directory,Enabled,False,False,2018-11-19,2026-08-15
+A01973,U0507,Email,Enabled,False,False,2018-11-26,2026-09-03
+A01974,U0508,Pharmacy System,Enabled,False,False,2021-03-12,2026-03-01
+A01975,U0508,Active Directory,Enabled,False,False,2021-03-16,2026-08-30
+A01976,U0508,VPN,Enabled,False,False,2021-02-27,2026-09-02
+A01977,U0508,Email,Enabled,False,False,2021-02-05,2026-08-17
+A01978,U0509,EHR,Enabled,False,False,2020-02-10,2026-08-06
+A01979,U0509,Active Directory,Enabled,False,False,2020-02-15,2026-09-04
+A01980,U0509,VPN,Enabled,False,False,2020-03-08,2026-01-18
+A01981,U0509,Email,Enabled,False,False,2020-03-16,2026-08-13
+A01982,U0510,EHR,Enabled,False,False,2017-02-12,2025-06-14
+A01983,U0510,Billing System,Enabled,False,False,2017-02-15,2026-09-18
+A01984,U0510,Pharmacy System,Enabled,False,False,2017-01-25,2026-08-03
+A01985,U0510,Active Directory,Enabled,False,False,2017-02-03,2026-09-09
+A01986,U0510,Email,Enabled,False,False,2017-02-14,2026-08-16
+A01987,U0511,Active Directory,Enabled,False,False,2018-09-25,2026-08-21
+A01988,U0511,VPN,Enabled,False,False,2018-09-02,2026-08-10
+A01989,U0511,Email,Enabled,False,False,2018-08-26,2026-09-13
+A01990,U0512,EHR,Enabled,False,False,2022-11-20,2026-08-31
+A01991,U0512,Pharmacy System,Disabled,False,False,2022-11-18,2025-12-01
+A01992,U0512,Active Directory,Enabled,False,False,2023-01-02,2026-08-04
+A01993,U0512,Radiology PACS,Enabled,False,False,2022-12-14,2026-07-29
+A01994,U0513,EHR,Enabled,False,False,2015-10-03,2026-09-09
+A01995,U0513,Active Directory,Enabled,False,False,2015-09-29,2026-09-13
+A01996,U0513,VPN,Enabled,False,False,2015-08-22,2026-08-11
+A01997,U0513,HR Portal,Enabled,False,False,2015-10-11,2026-08-25
+A01998,U0513,Email,Enabled,False,False,2015-10-12,2026-09-01
+A01999,U0514,Active Directory,Enabled,False,False,2016-03-27,2026-08-02
+A02000,U0514,HR Portal,Enabled,False,False,2016-03-09,2026-08-10
+A02001,U0514,Radiology PACS,Enabled,False,False,2016-04-13,2026-05-10
+A02002,U0514,Email,Enabled,False,False,2016-03-22,2026-08-27
+A02003,U0515,EHR,Enabled,False,False,2021-12-09,2026-09-24
+A02004,U0515,Active Directory,Enabled,False,False,2022-01-07,2026-08-10
+A02005,U0515,HR Portal,Enabled,False,False,2022-01-11,2026-09-08
+A02006,U0515,Radiology PACS,Enabled,False,False,2022-01-24,2026-08-11
+A02007,U0515,Email,Enabled,False,False,2022-01-27,2026-08-28
+A02008,U0516,EHR,Enabled,False,False,2020-04-05,2026-08-28
+A02009,U0516,Active Directory,Enabled,False,False,2020-04-23,2026-09-17
+A02010,U0516,Email,Enabled,False,False,2020-03-10,2026-09-04
+A02011,U0517,EHR,Enabled,False,False,2025-03-15,2026-08-22
+A02012,U0517,Billing System,Enabled,False,False,2025-05-03,2026-08-24
+A02013,U0517,Active Directory,Enabled,False,False,2025-04-03,2026-09-03
+A02014,U0517,VPN,Enabled,False,False,2025-03-19,2026-09-21
+A02015,U0517,Email,Enabled,False,False,2025-04-14,2026-08-26
+A02016,U0518,Billing System,Enabled,False,False,2018-12-01,2026-09-06
+A02017,U0518,Active Directory,Enabled,False,False,2018-12-18,2026-09-22
+A02018,U0518,VPN,Enabled,False,False,2018-12-31,2026-09-15
+A02019,U0518,Email,Enabled,False,False,2018-12-23,2026-08-07
+A02020,U0519,EHR,Enabled,False,False,2024-04-01,2026-09-08
+A02021,U0519,Billing System,Enabled,False,False,2024-05-02,2026-08-07
+A02022,U0519,Pharmacy System,Enabled,False,False,2024-03-30,2026-08-19
+A02023,U0519,Active Directory,Enabled,False,False,2024-04-15,2026-09-08
+A02024,U0519,Email,Enabled,False,False,2024-04-10,2026-08-21
+A02025,U0520,Active Directory,Enabled,False,False,2023-04-24,2026-08-07
+A02026,U0520,VPN,Enabled,False,False,2023-05-17,2026-08-20
+A02027,U0520,HR Portal,Enabled,False,False,2023-05-01,2026-08-29
+A02028,U0520,Email,Enabled,False,False,2023-06-06,2026-08-12
+A02029,U0521,EHR,Enabled,False,False,2021-06-08,2026-09-24
+A02030,U0521,Active Directory,Enabled,False,False,2021-06-07,2026-09-18
+A02031,U0521,Email,Enabled,False,False,2021-06-07,2026-05-13
+A02032,U0522,EHR,Enabled,False,False,2020-07-20,2026-08-26
+A02033,U0522,Active Directory,Enabled,False,False,2020-07-15,2026-08-16
+A02034,U0522,Email,Enabled,False,False,2020-07-01,2026-08-12
+A02035,U0523,EHR,Enabled,False,False,2016-04-11,2026-08-08
+A02036,U0523,Active Directory,Enabled,False,False,2016-03-27,2026-08-09
+A02037,U0523,VPN,Enabled,False,False,2016-05-05,2026-09-09
+A02038,U0523,HR Portal,Enabled,False,False,2016-05-01,2026-08-06
+A02039,U0523,Email,Enabled,False,False,2016-04-27,2026-08-17
+A02040,U0524,EHR,Enabled,False,False,2023-02-16,2026-08-01
+A02041,U0524,Pharmacy System,Enabled,False,False,2023-04-03,2026-09-14
+A02042,U0524,Active Directory,Enabled,False,False,2023-03-14,2026-08-03
+A02043,U0524,Email,Enabled,False,False,2023-02-17,2026-09-09
+A02044,U0525,EHR,Enabled,False,False,2017-11-11,2026-08-05
+A02045,U0525,Active Directory,Enabled,False,False,2017-11-09,2026-09-05
+A02046,U0525,Email,Enabled,False,False,2017-11-30,2026-08-09
+A02047,U0526,Active Directory,Enabled,False,False,2023-12-07,2026-09-15
+A02048,U0526,Email,Enabled,False,False,2023-11-25,2026-09-14
+A02049,U0527,EHR,Enabled,False,False,2024-12-20,2025-12-18
+A02050,U0527,Active Directory,Disabled,False,False,2024-12-06,2025-06-12
+A02051,U0527,VPN,Disabled,False,False,2024-12-05,2026-05-04
+A02052,U0527,Email,Enabled,False,False,2024-12-25,2026-08-26
+A02053,U0528,EHR,Enabled,False,False,2021-12-18,2026-08-07
+A02054,U0528,Active Directory,Enabled,False,False,2022-01-05,2026-08-13
+A02055,U0528,HR Portal,Enabled,False,False,2022-01-08,2025-08-18
+A02056,U0528,Email,Enabled,False,False,2021-12-23,2026-08-11
+A02057,U0529,Pharmacy System,Enabled,False,False,2021-08-29,2026-08-04
+A02058,U0529,Active Directory,Enabled,False,False,2021-07-28,2026-09-09
+A02059,U0529,VPN,Enabled,False,False,2021-08-27,2026-09-08
+A02060,U0529,Email,Enabled,False,False,2021-09-09,2026-09-10
+A02061,U0530,EHR,Enabled,False,False,2019-10-29,2026-07-30
+A02062,U0530,Active Directory,Enabled,False,False,2019-09-29,2026-08-16
+A02063,U0530,HR Portal,Enabled,False,False,2019-11-06,2026-08-08
+A02064,U0530,Radiology PACS,Enabled,False,False,2019-10-14,2026-07-27
+A02065,U0530,Email,Enabled,False,False,2019-11-04,2026-08-24
+A02066,U0531,Billing System,Enabled,False,False,2020-01-12,2026-08-16
+A02067,U0531,Pharmacy System,Enabled,False,False,2019-12-28,2026-08-26
+A02068,U0531,Active Directory,Enabled,False,False,2019-12-29,2026-08-03
+A02069,U0531,HR Portal,Enabled,False,False,2020-02-17,2026-08-06
+A02070,U0531,Email,Enabled,False,False,2020-01-15,2026-09-16
+A02071,U0532,EHR,Enabled,False,False,2018-07-26,2026-08-26
+A02072,U0532,Active Directory,Enabled,False,False,2018-07-28,2026-07-29
+A02073,U0532,VPN,Enabled,False,False,2018-06-25,2026-09-14
+A02074,U0532,HR Portal,Enabled,False,False,2018-06-19,2026-09-04
+A02075,U0532,Email,Enabled,False,False,2018-06-20,2026-08-06
+A02076,U0533,Active Directory,Enabled,False,False,2025-12-26,2026-08-23
+A02077,U0533,VPN,Disabled,False,False,2025-12-08,2026-06-06
+A02078,U0533,Email,Enabled,False,False,2025-11-24,2026-08-27
+A02079,U0534,EHR,Enabled,False,False,2017-04-15,2026-07-30
+A02080,U0534,Active Directory,Enabled,False,False,2017-04-06,2026-09-21
+A02081,U0534,Email,Enabled,False,False,2017-04-18,2026-07-28
+A02082,U0535,EHR,Enabled,False,False,2026-02-14,2026-03-13
+A02083,U0535,Active Directory,Enabled,False,False,2026-03-15,2026-09-13
+A02084,U0535,HR Portal,Enabled,False,False,2026-02-28,2026-08-04
+A02085,U0535,Email,Enabled,False,False,2026-01-29,2026-09-21
+A02086,U0536,Active Directory,Enabled,False,False,2015-10-02,2026-09-04
+A02087,U0536,VPN,Enabled,False,False,2015-10-02,2026-08-17
+A02088,U0536,Email,Enabled,False,False,2015-10-15,2026-09-14
+A02089,U0537,EHR,Enabled,False,False,2022-02-09,2026-07-29
+A02090,U0537,Active Directory,Enabled,False,False,2022-01-16,2026-08-15
+A02091,U0537,VPN,Enabled,False,False,2022-02-19,2026-08-19
+A02092,U0537,HR Portal,Enabled,False,False,2022-01-12,2026-07-31
+A02093,U0537,Email,Enabled,False,False,2022-01-15,2026-08-26
+A02094,U0538,EHR,Enabled,False,False,2022-09-15,2025-12-13
+A02095,U0538,Billing System,Enabled,False,False,2022-08-18,2025-10-13
+A02096,U0538,Active Directory,Enabled,False,False,2022-08-21,2026-09-02
+A02097,U0538,VPN,Enabled,False,False,2022-08-03,2026-09-16
+A02098,U0538,Email,Enabled,False,False,2022-08-31,2026-09-04
+A02099,U0539,EHR,Enabled,False,False,2016-01-01,2026-09-01
+A02100,U0539,Active Directory,Enabled,False,False,2015-12-10,2025-11-23
+A02101,U0539,Email,Enabled,False,False,2016-01-07,2026-08-30
+A02102,U0540,EHR,Enabled,False,False,2023-05-18,2026-08-12
+A02103,U0540,Active Directory,Enabled,False,False,2023-04-02,2026-09-13
+A02104,U0540,Email,Enabled,False,False,2023-05-11,2026-09-01
+A02105,U0541,EHR,Enabled,False,False,2018-08-03,2026-08-24
+A02106,U0541,Active Directory,Enabled,True,False,2018-07-25,2026-08-21
+A02107,U0541,VPN,Disabled,False,False,2018-09-08,2019-04-04
+A02108,U0541,Email,Enabled,False,False,2018-09-09,2026-09-24
+A02109,U0542,EHR,Enabled,False,False,2026-01-29,2026-08-21
+A02110,U0542,Active Directory,Enabled,True,False,2026-02-22,2026-07-28
+A02111,U0542,VPN,Enabled,False,False,2026-03-09,2026-04-25
+A02112,U0542,HR Portal,Enabled,False,False,2026-01-29,2026-08-13
+A02113,U0542,Email,Enabled,False,False,2026-03-13,2026-09-09
+A02114,U0543,EHR,Enabled,False,False,2017-08-16,2026-08-16
+A02115,U0543,Billing System,Enabled,False,False,2017-07-16,2026-01-23
+A02116,U0543,Pharmacy System,Enabled,False,False,2017-07-14,2026-08-27
+A02117,U0543,Active Directory,Enabled,False,False,2017-07-26,2026-07-27
+A02118,U0543,VPN,Enabled,False,False,2017-08-13,2026-03-24
+A02119,U0543,Email,Enabled,False,False,2017-08-13,2026-08-21
+A02120,U0544,EHR,Enabled,False,False,2016-04-04,2026-09-07
+A02121,U0544,Active Directory,Enabled,False,False,2016-02-14,2026-08-16
+A02122,U0544,Radiology PACS,Enabled,False,False,2016-04-12,2026-07-28
+A02123,U0544,Email,Enabled,False,False,2016-02-21,2026-07-27
+A02124,U0545,EHR,Enabled,False,False,2024-11-05,2026-08-24
+A02125,U0545,Active Directory,Enabled,False,False,2024-10-27,2026-09-20
+A02126,U0545,HR Portal,Enabled,False,False,2024-12-10,2026-08-01
+A02127,U0545,Email,Enabled,False,False,2024-12-14,2026-09-12
+A02128,U0546,Active Directory,Enabled,False,False,2021-11-11,2026-08-08
+A02129,U0546,Email,Enabled,False,False,2021-10-05,2026-09-04
+A02130,U0547,EHR,Enabled,False,False,2025-08-18,2026-08-04
+A02131,U0547,Billing System,Enabled,False,False,2025-09-14,2026-08-03
+A02132,U0547,Active Directory,Enabled,False,False,2025-08-23,2026-08-20
+A02133,U0547,Email,Enabled,False,False,2025-08-02,2026-07-31
+A02134,U0548,EHR,Enabled,False,False,2021-04-26,2025-07-26
+A02135,U0548,Active Directory,Enabled,False,False,2021-04-08,2026-08-03
+A02136,U0548,VPN,Enabled,False,False,2021-04-23,2026-09-07
+A02137,U0548,HR Portal,Enabled,False,False,2021-03-13,2026-07-30
+A02138,U0548,Email,Enabled,False,False,2021-04-06,2026-08-28
+A02139,U0549,EHR,Enabled,False,False,2016-01-13,2026-09-01
+A02140,U0549,Pharmacy System,Enabled,False,False,2016-02-25,2026-09-19
+A02141,U0549,Active Directory,Enabled,False,False,2016-01-15,2026-08-11
+A02142,U0549,VPN,Enabled,False,False,2016-02-10,2026-05-10
+A02143,U0549,Email,Enabled,False,False,2016-02-15,2026-08-06
+A02144,U0550,EHR,Enabled,False,False,2019-11-05,2026-08-13
+A02145,U0550,Active Directory,Enabled,False,False,2019-11-15,2026-08-03
+A02146,U0550,VPN,Enabled,False,False,2019-11-17,2026-08-30
+A02147,U0550,Email,Enabled,False,False,2019-11-02,2026-09-01
+A02148,U0551,EHR,Enabled,False,False,2023-09-22,2026-08-02
+A02149,U0551,Billing System,Enabled,False,False,2023-09-25,2026-08-02
+A02150,U0551,Active Directory,Enabled,False,False,2023-09-12,2026-09-18
+A02151,U0551,HR Portal,Enabled,False,False,2023-10-02,2026-02-06
+A02152,U0551,Email,Enabled,False,False,2023-09-26,2026-09-20
+A02153,U0552,Billing System,Enabled,False,False,2023-05-16,2026-09-16
+A02154,U0552,Radiology PACS,Enabled,False,False,2023-05-14,2026-08-25
+A02155,U0552,Email,Enabled,False,False,2023-05-29,2026-08-02
+A02156,U0553,EHR,Enabled,False,False,2024-08-22,2026-07-30
+A02157,U0553,Active Directory,Enabled,False,False,2024-08-17,2026-07-29
+A02158,U0553,VPN,Enabled,False,False,2024-10-12,2026-09-22
+A02159,U0553,Email,Enabled,False,False,2024-09-22,2026-09-20
+A02160,U0554,EHR,Enabled,False,False,2017-04-09,2026-08-28
+A02161,U0554,Billing System,Enabled,False,False,2017-04-08,2026-09-24
+A02162,U0554,Active Directory,Enabled,False,False,2017-03-20,2026-08-07
+A02163,U0554,VPN,Enabled,False,False,2017-03-04,2026-08-31
+A02164,U0554,Email,Enabled,False,False,2017-03-01,2026-08-10
+A02165,U0555,EHR,Enabled,False,False,2025-03-14,2026-09-13
+A02166,U0555,Pharmacy System,Enabled,False,False,2025-02-10,2026-09-01
+A02167,U0555,Active Directory,Enabled,False,False,2025-03-11,2025-09-24
+A02168,U0555,VPN,Enabled,False,False,2025-03-14,2026-09-23
+A02169,U0555,Email,Enabled,False,False,2025-02-15,2026-07-29
+A02170,U0556,EHR,Enabled,False,False,2017-02-18,2026-07-31
+A02171,U0556,Active Directory,Enabled,False,False,2017-02-25,2026-09-20
+A02172,U0556,VPN,Enabled,False,False,2017-03-27,2026-08-25
+A02173,U0556,HR Portal,Enabled,False,False,2017-03-05,2026-08-31
+A02174,U0556,Email,Enabled,False,False,2017-03-01,2026-09-21
+A02175,U0557,EHR,Enabled,False,False,2015-08-22,2026-09-24
+A02176,U0557,Active Directory,Enabled,False,False,2015-09-01,2026-08-28
+A02177,U0557,VPN,Enabled,False,False,2015-09-07,2026-09-17
+A02178,U0557,Email,Enabled,False,False,2015-09-14,2026-08-08
+A02179,U0558,EHR,Enabled,False,False,2022-11-24,2026-09-23
+A02180,U0558,Active Directory,Enabled,False,False,2022-11-26,2026-01-10
+A02181,U0558,VPN,Enabled,False,False,2022-12-27,2026-08-15
+A02182,U0558,Email,Enabled,False,False,2022-11-25,2026-08-30
+A02183,U0559,EHR,Enabled,False,False,2020-12-20,2026-08-18
+A02184,U0559,Active Directory,Enabled,False,False,2020-12-18,2026-08-17
+A02185,U0559,HR Portal,Enabled,False,False,2021-02-11,2026-08-09
+A02186,U0559,Radiology PACS,Enabled,False,False,2021-01-20,2026-08-07
+A02187,U0559,Email,Enabled,False,False,2021-01-24,2026-09-17
+A02188,U0560,EHR,Disabled,False,False,2018-07-27,2019-03-31
+A02189,U0560,Active Directory,Enabled,False,False,2018-08-23,2026-08-01
+A02190,U0560,Email,Enabled,False,False,2018-08-17,2026-09-19
+A02191,U0561,EHR,Enabled,False,False,2022-07-20,2026-09-06
+A02192,U0561,Billing System,Enabled,False,False,2022-07-04,2026-08-27
+A02193,U0561,Active Directory,Enabled,False,False,2022-07-09,2026-09-16
+A02194,U0561,VPN,Enabled,False,False,2022-08-03,2026-08-08
+A02195,U0561,HR Portal,Enabled,False,False,2022-07-09,2026-08-18
+A02196,U0561,Email,Enabled,False,False,2022-07-15,2026-09-19
+A02197,U0562,EHR,Enabled,False,False,2018-12-27,2026-09-09
+A02198,U0562,Active Directory,Enabled,False,False,2018-12-22,2026-08-09
+A02199,U0562,HR Portal,Enabled,False,False,2018-11-23,2026-09-10
+A02200,U0562,Email,Enabled,False,False,2018-12-03,2026-09-01
+A02201,U0563,EHR,Enabled,False,False,2019-08-21,2026-08-31
+A02202,U0563,Billing System,Enabled,False,False,2019-08-08,2026-08-14
+A02203,U0563,Active Directory,Enabled,True,False,2019-08-06,2026-09-06
+A02204,U0563,VPN,Enabled,False,False,2019-08-05,2026-08-18
+A02205,U0563,HR Portal,Enabled,False,False,2019-08-27,2026-08-17
+A02206,U0563,Email,Enabled,False,False,2019-08-10,2026-09-17
+A02207,U0564,Active Directory,Enabled,False,False,2017-05-20,2026-04-05
+A02208,U0564,Radiology PACS,Enabled,False,False,2017-06-14,2026-06-22
+A02209,U0564,Email,Enabled,False,False,2017-05-30,2026-09-22
+A02210,U0565,EHR,Enabled,False,False,2015-05-20,2026-09-17
+A02211,U0565,Active Directory,Enabled,False,False,2015-04-08,2026-08-19
+A02212,U0565,HR Portal,Enabled,False,False,2015-05-17,2026-09-01
+A02213,U0565,Email,Enabled,False,False,2015-04-18,2026-09-22
+A02214,U0566,EHR,Enabled,False,False,2023-06-22,2026-08-07
+A02215,U0566,Active Directory,Enabled,False,False,2023-07-23,2026-08-18
+A02216,U0566,Email,Enabled,False,False,2023-07-23,2026-08-02
+A02217,U0567,EHR,Enabled,False,False,2023-12-24,2026-08-05
+A02218,U0567,Active Directory,Enabled,False,False,2024-01-23,2026-09-06
+A02219,U0567,Email,Enabled,False,False,2023-12-29,2026-08-30
+A02220,U0568,Active Directory,Enabled,False,False,2022-01-06,2026-08-24
+A02221,U0568,Email,Enabled,False,False,2021-12-02,2025-07-06
+A02222,U0569,EHR,Enabled,False,False,2020-11-17,2026-09-10
+A02223,U0569,Pharmacy System,Enabled,False,False,2020-10-13,2026-09-21
+A02224,U0569,Active Directory,Enabled,False,False,2020-11-20,2026-08-28
+A02225,U0570,EHR,Enabled,False,False,2025-08-28,2026-08-28
+A02226,U0570,Active Directory,Enabled,False,False,2025-08-28,2026-09-18
+A02227,U0570,Email,Enabled,False,False,2025-09-06,2026-08-22
+A02228,U0571,EHR,Enabled,False,False,2026-01-04,2025-11-14
+A02229,U0571,Pharmacy System,Enabled,False,False,2026-01-31,2026-08-08
+A02230,U0571,Active Directory,Enabled,False,False,2026-02-07,2026-09-14
+A02231,U0571,VPN,Enabled,False,False,2026-02-11,2026-09-21
+A02232,U0571,Email,Enabled,False,False,2025-12-24,2026-08-29
+A02233,U0572,EHR,Enabled,False,False,2016-10-30,2026-08-10
+A02234,U0572,Active Directory,Enabled,False,False,2016-10-21,2026-09-16
+A02235,U0572,Email,Enabled,False,False,2016-10-22,2026-08-14
+A02236,U0573,Pharmacy System,Enabled,False,False,2016-01-02,2026-09-03
+A02237,U0573,Active Directory,Disabled,False,False,2015-12-04,2016-03-01
+A02238,U0573,HR Portal,Enabled,False,False,2015-12-24,2026-07-29
+A02239,U0573,Email,Enabled,False,False,2015-12-05,2026-09-23
+A02240,U0574,EHR,Enabled,False,False,2024-08-28,2026-09-04
+A02241,U0574,Active Directory,Enabled,False,False,2024-10-11,2026-09-08
+A02242,U0574,Email,Enabled,False,False,2024-10-10,2026-07-31
+A02243,U0575,EHR,Enabled,False,False,2018-05-12,2026-09-24
+A02244,U0575,Active Directory,Enabled,False,False,2018-05-20,2026-08-16
+A02245,U0575,Email,Enabled,False,False,2018-06-08,2026-08-18
+A02246,U0576,EHR,Enabled,False,False,2016-07-17,2026-08-28
+A02247,U0576,Radiology PACS,Enabled,False,False,2016-08-19,2026-08-24
+A02248,U0576,Email,Enabled,False,False,2016-08-25,2026-06-22
+A02249,U0577,EHR,Enabled,False,False,2024-02-02,2026-08-19
+A02250,U0577,Billing System,Enabled,False,False,2024-01-11,2026-08-29
+A02251,U0577,Active Directory,Enabled,False,False,2024-01-28,2026-08-29
+A02252,U0577,Email,Enabled,False,False,2024-02-15,2026-08-27
+A02253,U0578,EHR,Enabled,False,False,2016-02-04,2026-08-11
+A02254,U0578,Active Directory,Enabled,False,False,2016-01-20,2025-06-23
+A02255,U0578,VPN,Enabled,False,False,2016-01-19,2026-08-18
+A02256,U0578,Radiology PACS,Enabled,False,False,2016-03-10,2026-07-29
+A02257,U0578,Email,Enabled,False,False,2016-01-29,2025-12-05
+A02258,U0579,Active Directory,Enabled,False,False,2026-04-21,2026-08-06
+A02259,U0579,Email,Enabled,False,False,2026-04-30,2025-12-22
+A02260,U0580,EHR,Enabled,False,False,2018-02-04,2026-09-18
+A02261,U0580,Active Directory,Enabled,False,False,2018-01-12,2026-09-14
+A02262,U0580,HR Portal,Enabled,False,False,2018-01-03,2026-08-10
+A02263,U0580,Email,Enabled,False,False,2018-02-03,2026-08-24
+A02264,U0581,EHR,Enabled,False,False,2016-08-18,2026-07-28
+A02265,U0581,Active Directory,Enabled,False,False,2016-07-01,2026-08-12
+A02266,U0581,HR Portal,Enabled,False,False,2016-08-14,2026-09-20
+A02267,U0581,Email,Enabled,False,False,2016-06-24,2026-08-21
+A02268,U0582,Active Directory,Enabled,False,False,2024-11-19,2026-09-03
+A02269,U0582,Email,Enabled,False,False,2024-10-28,2026-08-28
+A02270,U0583,EHR,Enabled,False,False,2017-09-05,2026-09-08
+A02271,U0583,Pharmacy System,Enabled,False,False,2017-09-21,2026-08-20
+A02272,U0583,Active Directory,Enabled,False,False,2017-09-06,2026-08-11
+A02273,U0583,Radiology PACS,Enabled,False,False,2017-08-22,2026-08-23
+A02274,U0583,Email,Enabled,False,False,2017-09-25,2026-08-10
+A02275,U0584,Active Directory,Enabled,False,False,2018-06-28,2026-08-07
+A02276,U0584,Radiology PACS,Enabled,False,False,2018-08-01,2026-09-01
+A02277,U0584,Email,Enabled,False,False,2018-07-11,2026-08-13
+A02278,U0585,Active Directory,Enabled,False,False,2023-03-17,2026-08-11
+A02279,U0585,Radiology PACS,Enabled,False,False,2023-04-18,2026-08-07
+A02280,U0585,Email,Enabled,False,False,2023-03-19,2026-08-31
+A02281,U0586,EHR,Enabled,False,False,2017-02-06,2026-09-04
+A02282,U0586,Pharmacy System,Enabled,False,False,2017-03-01,2026-01-18
+A02283,U0586,Active Directory,Enabled,False,False,2017-03-15,2026-09-05
+A02284,U0586,VPN,Enabled,False,False,2017-03-01,2026-07-30
+A02285,U0586,Radiology PACS,Enabled,False,False,2017-02-08,2026-09-13
+A02286,U0586,Email,Enabled,False,False,2017-01-25,2026-09-23
+A02287,U0587,EHR,Enabled,False,False,2019-08-29,2025-11-05
+A02288,U0587,Active Directory,Enabled,False,False,2019-09-07,2026-09-05
+A02289,U0587,Email,Enabled,False,False,2019-09-20,2026-09-24
+A02290,U0588,EHR,Enabled,False,False,2023-04-15,2026-09-06
+A02291,U0588,Active Directory,Enabled,False,False,2023-04-21,2026-08-23
+A02292,U0588,Email,Enabled,False,False,2023-03-28,2026-08-24
+A02293,U0589,EHR,Enabled,False,False,2015-08-29,2026-08-25
+A02294,U0589,Active Directory,Enabled,False,False,2015-10-17,2026-09-12
+A02295,U0589,Radiology PACS,Enabled,False,False,2015-09-06,2026-08-08
+A02296,U0589,Email,Enabled,False,False,2015-09-18,2026-08-16
+A02297,U0590,EHR,Enabled,False,False,2017-07-23,2026-08-07
+A02298,U0590,Active Directory,Enabled,False,False,2017-07-14,2026-09-09
+A02299,U0590,VPN,Disabled,False,False,2017-07-18,2026-05-05
+A02300,U0590,HR Portal,Enabled,False,False,2017-06-21,2026-09-16
+A02301,U0590,Radiology PACS,Enabled,False,False,2017-06-14,2026-08-22
+A02302,U0590,Email,Disabled,False,False,2017-06-17,2026-08-14
+A02303,U0591,EHR,Enabled,False,False,2015-07-02,2026-08-31
+A02304,U0591,Active Directory,Disabled,False,False,2015-07-07,2019-01-01
+A02305,U0591,HR Portal,Enabled,False,False,2015-08-04,2026-09-17
+A02306,U0591,Email,Enabled,False,False,2015-06-17,2026-08-03
+A02307,U0592,EHR,Enabled,False,False,2022-10-06,2026-08-08
+A02308,U0592,Active Directory,Enabled,False,False,2022-11-26,2026-09-22
+A02309,U0592,Email,Enabled,False,False,2022-11-23,2026-09-14
+A02310,U0593,EHR,Enabled,False,False,2016-07-16,2026-09-21
+A02311,U0593,Active Directory,Enabled,False,False,2016-08-01,2026-09-11
+A02312,U0593,VPN,Enabled,False,False,2016-07-31,2026-09-05
+A02313,U0593,Email,Enabled,False,False,2016-07-24,2026-09-06
+A02314,U0594,EHR,Enabled,False,False,2016-09-28,2026-09-05
+A02315,U0594,Active Directory,Enabled,False,False,2016-10-07,2026-09-14
+A02316,U0594,Radiology PACS,Enabled,False,False,2016-10-28,2026-09-24
+A02317,U0594,Email,Enabled,False,False,2016-09-26,2026-09-03
+A02318,U0595,EHR,Enabled,False,False,2023-03-18,2026-09-06
+A02319,U0595,Active Directory,Enabled,False,False,2023-03-18,2026-09-13
+A02320,U0595,VPN,Enabled,False,False,2023-03-17,2026-08-03
+A02321,U0595,HR Portal,Enabled,False,False,2023-04-15,2026-09-10
+A02322,U0595,Email,Enabled,False,False,2023-04-04,2026-08-03
+A02323,U0596,EHR,Enabled,False,False,2016-04-17,2026-09-04
+A02324,U0596,Active Directory,Enabled,False,False,2016-05-22,2026-08-22
+A02325,U0596,HR Portal,Enabled,False,False,2016-04-14,2026-09-19
+A02326,U0596,Email,Enabled,False,False,2016-05-14,2026-08-20
+A02327,U0597,Pharmacy System,Enabled,False,False,2021-02-16,2026-09-16
+A02328,U0597,Active Directory,Disabled,True,False,2021-03-29,2024-01-13
+A02329,U0597,Email,Enabled,False,False,2021-02-09,2026-09-11
+A02330,U0598,EHR,Enabled,False,False,2015-12-20,2026-08-09
+A02331,U0598,Active Directory,Enabled,False,False,2015-12-03,2026-06-19
+A02332,U0598,Email,Enabled,False,False,2015-12-18,2026-08-26
+A02333,U0599,Billing System,Enabled,False,False,2018-02-05,2026-09-19
+A02334,U0599,Active Directory,Enabled,False,False,2018-03-02,2026-02-05
+A02335,U0599,Email,Enabled,False,False,2018-02-14,2026-08-13
+A02336,U0600,EHR,Enabled,False,False,2018-12-06,2026-09-17
+A02337,U0600,Active Directory,Enabled,False,False,2018-11-18,2026-09-02
+A02338,U0600,VPN,Enabled,False,False,2018-12-26,2026-08-12
+A02339,U0600,Email,Enabled,False,False,2018-11-05,2026-08-31
+A02340,,Active Directory,Disabled,True,True,2023-02-06,2026-07-27
+A02341,,Active Directory,Disabled,True,True,2022-12-16,2026-09-03
+A02342,,Billing System,Disabled,True,True,2019-10-06,2026-01-18
+A02343,,Active Directory,Enabled,True,True,2021-10-08,2026-05-19
+A02344,,EHR,Enabled,True,True,2021-02-28,2026-01-06
+A02345,,Active Directory,Enabled,True,True,2020-06-20,2026-01-09
+A02346,,Billing System,Disabled,True,True,2021-09-21,2026-06-13
+A02347,,Active Directory,Enabled,True,True,2022-05-15,2026-04-25
+A02348,,Active Directory,Enabled,True,True,2022-04-29,2026-03-22
+A02349,,Billing System,Disabled,True,True,2021-08-01,2026-07-05
+A02350,,Active Directory,Enabled,True,True,2021-01-31,2026-07-14
+A02351,,EHR,Enabled,True,True,2021-08-21,2026-02-27

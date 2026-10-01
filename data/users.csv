@@ -1,0 +1,601 @@
+user_id,full_name,department,job_title,is_manager,employment_status,hire_date,termination_date,manager_id
+U0001,Lucia Chen,HR,HR Generalist,False,Active,2026-03-29,,U0046
+U0002,Priya Baker,Billing,Claims Analyst,False,Active,2025-04-23,,U0584
+U0003,Diana Khan,Patient Services,Scheduler,False,Active,2020-04-04,,U0224
+U0004,Grace Ali,IT,Help Desk Analyst,False,Active,2016-04-20,,U0031
+U0005,Carlos Anderson,Nursing,RN - Staff Nurse,False,Active,2025-12-22,,U0444
+U0006,Linda Patel,Facilities,Maintenance Tech,False,On Leave,2026-01-26,,U0528
+U0007,Lucia Lee,IT,Security Analyst,False,Active,2026-01-28,,U0518
+U0008,Priya Smith,HR,HR Generalist,False,Active,2018-12-15,,U0298
+U0009,Nancy Hill,Nursing,RN - Staff Nurse,False,Active,2025-12-29,,U0112
+U0010,Jose Carter,Pharmacy,Pharmacist,False,Active,2026-04-01,,U0121
+U0011,Peter Chen,Billing,Billing Specialist,False,Active,2015-11-05,,U0220
+U0012,Rosa Torres,Patient Services,Registration Clerk,False,Active,2015-12-20,,U0388
+U0013,David Smith,Radiology,Radiology Tech,False,Terminated,2020-01-28,2026-03-12,
+U0014,James Wilson,HR,Payroll Specialist,False,Active,2025-11-17,,U0236
+U0015,Lucia Rivera,Billing,Claims Analyst,False,Active,2016-03-31,,U0047
+U0016,Omar Kim,Nursing,CNA,False,Active,2015-02-03,,U0589
+U0017,Daniel Smith,Pharmacy,Pharmacy Tech,False,Active,2023-06-10,,U0114
+U0018,Mei Martinez,Nursing,RN - Staff Nurse,False,Active,2016-02-29,,U0199
+U0019,Hannah Thomas,Patient Services,Scheduler,False,Active,2024-10-17,,U0527
+U0020,Maria Walker,Radiology,Radiology Tech,False,Active,2021-01-21,,
+U0021,Anna Davis,IT,Security Analyst,False,Terminated,2019-08-01,2025-08-17,U0031
+U0022,Kevin Hernandez,Billing,Billing Specialist,False,Active,2017-09-17,,U0547
+U0023,Priya Rivera,Facilities,Maintenance Tech,False,Active,2025-04-20,,U0410
+U0024,Robert Davis,Patient Services,Registration Clerk,False,Active,2021-09-27,,U0170
+U0025,Anna Khan,HR,HR Generalist,False,Terminated,2024-11-20,2025-08-15,U0236
+U0026,George Anderson,Nursing,Nurse Manager,True,Active,2020-02-19,,
+U0027,Carlos Patel,Pharmacy,Pharmacist,False,On Leave,2024-03-20,,U0114
+U0028,Linda Johnson,Nursing,RN - Staff Nurse,False,Active,2021-02-04,,U0444
+U0029,Omar Rivera,Nursing,RN - Staff Nurse,False,On Leave,2021-07-24,,U0213
+U0030,Daniel Taylor,IT,Help Desk Analyst,False,Active,2015-09-09,,U0256
+U0031,Emily Johnson,IT,IT Manager,True,Active,2025-06-12,,
+U0032,Aisha Hernandez,Facilities,Maintenance Tech,False,Active,2015-12-10,,U0410
+U0033,Jose Ali,Billing,Billing Specialist,False,Active,2017-04-22,,U0047
+U0034,Emily Ali,Billing,Billing Specialist,False,Active,2025-01-19,,U0547
+U0035,Hannah Walker,Pharmacy,Pharmacist,False,On Leave,2019-10-19,,U0114
+U0036,Priya Hernandez,Nursing,Nurse Manager,True,Active,2026-03-11,,
+U0037,Rosa Hernandez,Nursing,RN - Staff Nurse,False,Active,2025-03-28,,U0213
+U0038,Samuel Kim,Pharmacy,Pharmacist,False,Terminated,2018-06-29,2025-05-30,U0133
+U0039,Carlos Garcia,Nursing,CNA,False,Active,2022-01-28,,U0112
+U0040,Priya Hernandez,Radiology,Radiologist,False,Active,2018-06-02,,
+U0041,Diana Garcia,Billing,Claims Analyst,False,Active,2018-12-17,,U0547
+U0042,David Torres,Patient Services,Scheduler,False,Active,2018-03-26,,U0463
+U0043,Chris Hill,IT,Help Desk Analyst,False,Active,2022-03-31,,U0518
+U0044,Brian Chen,Billing,Billing Specialist,False,On Leave,2020-06-08,,U0584
+U0045,Victor Davis,Patient Services,Scheduler,False,Active,2022-08-31,,U0347
+U0046,Michael Moore,HR,HR Manager,True,Active,2023-12-28,,
+U0047,Carlos Patel,Billing,Billing Supervisor,True,Active,2019-11-16,,
+U0048,Hannah Ali,Billing,Billing Specialist,False,Active,2025-11-26,,U0276
+U0049,Hannah Kim,IT,Help Desk Analyst,False,Active,2025-09-15,,U0256
+U0050,James Martinez,Nursing,RN - Staff Nurse,False,Active,2016-03-05,,U0444
+U0051,Chris Davis,Nursing,Nurse Manager,True,Active,2026-03-28,,
+U0052,James Smith,Nursing,RN - Staff Nurse,False,Active,2020-11-21,,U0026
+U0053,Daniel Walker,HR,HR Generalist,False,Active,2022-04-03,,U0214
+U0054,Chris Brown,Radiology,Radiologist,False,Active,2015-09-10,,
+U0055,Daniel Martinez,IT,Help Desk Analyst,False,Active,2020-08-06,,U0518
+U0056,Priya Johnson,HR,HR Generalist,False,Active,2019-10-03,,U0506
+U0057,Maria Johnson,Pharmacy,Pharmacist,False,Active,2016-11-08,,U0133
+U0058,Maria Hernandez,Pharmacy,Pharmacy Tech,False,Active,2020-10-19,,U0133
+U0059,Peter Taylor,Nursing,RN - Staff Nurse,False,Active,2021-04-16,,U0213
+U0060,Sofia Hernandez,Nursing,RN - Staff Nurse,False,Active,2024-08-07,,U0199
+U0061,Nancy Hill,Radiology,Radiologist,False,Active,2025-06-08,,
+U0062,Lucia Hernandez,Pharmacy,Pharmacist,False,Active,2022-10-19,,U0465
+U0063,Nancy Ali,Pharmacy,Pharmacy Tech,False,Terminated,2020-07-05,2024-02-17,U0133
+U0064,Linda Jackson,IT,Security Analyst,False,Active,2017-03-08,,U0189
+U0065,Maria Adams,Radiology,Radiology Tech,False,Active,2015-07-17,,
+U0066,Michael Torres,Pharmacy,Pharmacy Tech,False,Active,2025-08-25,,U0114
+U0067,George Lee,Pharmacy,Pharmacy Tech,False,Active,2015-05-11,,U0121
+U0068,Brian Martinez,Billing,Billing Specialist,False,Active,2016-01-06,,U0584
+U0069,Nancy Garcia,Nursing,RN - Staff Nurse,False,Active,2021-09-26,,U0213
+U0070,Mei Ali,Billing,Claims Analyst,False,Active,2021-02-01,,U0220
+U0071,Samuel Nguyen,Nursing,CNA,False,Active,2016-11-09,,U0051
+U0072,Victor Moore,Billing,Claims Analyst,False,Active,2017-11-01,,U0276
+U0073,Victor Carter,Patient Services,Scheduler,False,Active,2020-03-09,,U0527
+U0074,Grace Lopez,Nursing,CNA,False,Active,2023-05-19,,U0419
+U0075,Robert Jackson,Nursing,RN - Staff Nurse,False,Active,2018-08-20,,U0199
+U0076,Fatima Lee,Nursing,CNA,False,Active,2020-11-18,,U0051
+U0077,Omar Garcia,Billing,Billing Specialist,False,Active,2018-08-17,,U0047
+U0078,Maria Rivera,Radiology,Radiologist,False,Active,2019-05-18,,
+U0079,Omar Rivera,Pharmacy,Pharmacy Tech,False,Active,2016-11-20,,U0121
+U0080,Jose Johnson,HR,HR Generalist,False,Active,2024-06-05,,U0298
+U0081,David Johnson,Radiology,Radiologist,False,Active,2025-02-27,,
+U0082,Anna Smith,Billing,Claims Analyst,False,Active,2022-08-26,,U0547
+U0083,Robert Carter,HR,Payroll Specialist,False,Active,2016-12-22,,U0327
+U0084,Maria Moore,Nursing,RN - Staff Nurse,False,Active,2025-07-19,,U0051
+U0085,Daniel Johnson,Nursing,RN - Staff Nurse,False,Active,2026-05-03,,U0419
+U0086,Fatima Moore,Nursing,RN - Staff Nurse,False,Terminated,2016-01-15,2026-05-07,U0051
+U0087,Priya Kim,IT,Systems Administrator,False,Active,2017-01-30,,U0180
+U0088,Robert Patel,Pharmacy,Pharmacist,False,Active,2015-07-30,,U0465
+U0089,Omar Brown,Nursing,RN - Staff Nurse,False,Active,2026-02-23,,U0112
+U0090,Linda Martinez,Pharmacy,Pharmacist,False,Active,2015-03-17,,U0121
+U0091,David Lee,Nursing,RN - Staff Nurse,False,Active,2024-07-29,,U0332
+U0092,Kevin Anderson,IT,Help Desk Analyst,False,Active,2021-12-21,,U0180
+U0093,George Walker,Billing,Claims Analyst,False,Active,2021-01-29,,U0547
+U0094,George Carter,Billing,Billing Specialist,False,Active,2021-06-21,,U0547
+U0095,Kevin Baker,Billing,Billing Specialist,False,Active,2025-07-20,,U0547
+U0096,Emily Thomas,Radiology,Radiology Tech,False,Active,2015-02-21,,
+U0097,Aisha Walker,Billing,Billing Specialist,False,Active,2025-09-21,,U0220
+U0098,Linda Rivera,Nursing,RN - Staff Nurse,False,Active,2025-02-25,,U0112
+U0099,Hannah Davis,Nursing,RN - Staff Nurse,False,Active,2019-02-08,,U0199
+U0100,Victor Hill,Facilities,Maintenance Tech,False,Active,2017-01-13,,U0528
+U0101,Emily Taylor,Patient Services,Registration Clerk,False,Terminated,2017-10-13,2024-07-25,U0388
+U0102,Diana Chen,IT,Help Desk Analyst,False,Active,2022-05-10,,U0189
+U0103,Aisha Kim,Nursing,CNA,False,Active,2019-04-30,,U0051
+U0104,Peter Baker,Facilities,Maintenance Tech,False,Active,2021-02-04,,U0528
+U0105,Peter Adams,HR,HR Generalist,False,Active,2021-07-04,,U0298
+U0106,Peter Thomas,IT,Systems Administrator,False,Active,2024-10-30,,U0439
+U0107,Fatima Kim,Pharmacy,Pharmacist,False,Active,2016-02-21,,U0114
+U0108,Samuel Carter,Nursing,CNA,False,Active,2017-05-26,,U0112
+U0109,Victor Hill,Nursing,RN - Staff Nurse,False,Active,2019-04-22,,U0419
+U0110,Jose Hernandez,Patient Services,Registration Clerk,False,Active,2022-02-25,,U0463
+U0111,Daniel Anderson,Pharmacy,Pharmacist,False,Active,2021-12-12,,U0212
+U0112,Hannah Thomas,Nursing,Nurse Manager,True,Active,2021-07-28,,
+U0113,Emily Wilson,Billing,Billing Specialist,False,Active,2020-05-03,,U0047
+U0114,Robert Hernandez,Pharmacy,Pharmacy Manager,True,Active,2023-10-11,,
+U0115,James Hernandez,Nursing,RN - Staff Nurse,False,Active,2016-11-10,,U0213
+U0116,David Brown,Patient Services,Scheduler,False,On Leave,2023-04-20,,U0224
+U0117,Brian Hill,IT,Security Analyst,False,Active,2016-02-17,,U0189
+U0118,Sofia Carter,IT,Systems Administrator,False,Active,2020-06-15,,U0439
+U0119,James Taylor,Billing,Claims Analyst,False,Active,2017-02-13,,U0584
+U0120,James Garcia,Radiology,Radiology Tech,False,Active,2016-06-17,,
+U0121,David Chen,Pharmacy,Pharmacy Manager,True,On Leave,2020-06-30,,
+U0122,Robert Martinez,Radiology,Radiologist,False,Active,2025-01-31,,
+U0123,Jose Walker,Nursing,RN - Staff Nurse,False,Active,2017-11-18,,U0589
+U0124,Victor Khan,Billing,Claims Analyst,False,Active,2023-10-27,,U0276
+U0125,Emily Baker,Nursing,RN - Staff Nurse,False,On Leave,2026-03-28,,U0436
+U0126,Linda Baker,Pharmacy,Pharmacist,False,Active,2019-09-06,,U0133
+U0127,Fatima Khan,Billing,Billing Specialist,False,Active,2018-06-23,,U0047
+U0128,Mei Anderson,Nursing,RN - Staff Nurse,False,Active,2023-06-25,,U0026
+U0129,Aisha Davis,Nursing,RN - Staff Nurse,False,Active,2021-03-11,,U0199
+U0130,Omar Wilson,Radiology,Radiology Tech,False,Active,2016-03-20,,
+U0131,Lucia Patel,Nursing,RN - Staff Nurse,False,Active,2021-09-01,,U0112
+U0132,Fatima Johnson,Patient Services,Registration Clerk,False,Active,2024-07-13,,U0170
+U0133,James Brown,Pharmacy,Pharmacy Manager,True,Active,2023-09-04,,
+U0134,Sofia Adams,Billing,Billing Specialist,False,Terminated,2019-08-30,2024-04-27,U0584
+U0135,David Lopez,Radiology,Radiology Tech,False,Active,2019-05-24,,
+U0136,Carlos Anderson,Nursing,RN - Staff Nurse,False,Active,2024-08-29,,U0332
+U0137,David Hill,Facilities,Maintenance Tech,False,Active,2017-02-11,,U0405
+U0138,Brian Hill,Pharmacy,Pharmacist,False,Active,2023-02-09,,U0114
+U0139,Kevin Kim,HR,HR Generalist,False,Active,2021-02-07,,U0506
+U0140,Priya Lopez,Nursing,RN - Staff Nurse,False,Active,2017-11-01,,U0051
+U0141,Maria Walker,Pharmacy,Pharmacist,False,Terminated,2015-11-06,2026-05-14,U0212
+U0142,Nancy Ali,Pharmacy,Pharmacist,False,Active,2018-03-22,,U0121
+U0143,Grace Ali,Patient Services,Registration Clerk,False,Active,2021-01-17,,U0527
+U0144,Robert Brown,Pharmacy,Pharmacy Tech,False,Active,2019-02-08,,U0465
+U0145,Omar Baker,Pharmacy,Pharmacist,False,Active,2025-11-13,,U0465
+U0146,Rosa Baker,Nursing,CNA,False,Active,2019-04-03,,U0589
+U0147,Diana Garcia,Billing,Billing Specialist,False,Active,2017-05-15,,U0584
+U0148,Victor Garcia,Pharmacy,Pharmacy Tech,False,Active,2016-10-16,,U0121
+U0149,Aisha Taylor,Billing,Claims Analyst,False,Active,2018-09-02,,U0276
+U0150,Kevin Chen,Nursing,RN - Staff Nurse,False,Active,2021-01-12,,U0112
+U0151,Linda Torres,Patient Services,Scheduler,False,On Leave,2017-02-19,,U0347
+U0152,Nancy Nguyen,Patient Services,Registration Clerk,False,Active,2019-03-27,,U0347
+U0153,Emily Moore,Nursing,RN - Staff Nurse,False,Terminated,2016-09-29,2025-10-26,U0213
+U0154,James Torres,Pharmacy,Pharmacy Tech,False,Active,2015-07-28,,U0133
+U0155,Lucia Lee,Nursing,RN - Staff Nurse,False,Active,2015-08-14,,U0036
+U0156,Sofia Adams,Radiology,Radiologist,False,Active,2024-01-22,,
+U0157,Carlos Walker,Nursing,CNA,False,Active,2018-04-12,,U0589
+U0158,Priya Davis,Radiology,Radiologist,False,On Leave,2015-01-10,,
+U0159,Chris Torres,IT,Systems Administrator,False,Active,2019-07-16,,U0189
+U0160,Peter Lee,IT,Security Analyst,False,Active,2016-06-21,,U0180
+U0161,Victor Chen,Nursing,RN - Staff Nurse,False,Active,2016-09-30,,U0589
+U0162,George Ali,Patient Services,Registration Clerk,False,Active,2018-08-23,,U0224
+U0163,Brian Khan,Nursing,CNA,False,Active,2022-07-07,,U0436
+U0164,Kevin Hernandez,Nursing,RN - Staff Nurse,False,On Leave,2020-05-25,,U0112
+U0165,Anna Carter,Pharmacy,Pharmacy Tech,False,Active,2016-01-14,,U0133
+U0166,Samuel Ali,Billing,Billing Specialist,False,Active,2024-08-28,,U0547
+U0167,Priya Carter,Patient Services,Scheduler,False,Terminated,2023-07-09,2026-01-01,U0224
+U0168,Carlos Lopez,HR,Payroll Specialist,False,Active,2023-07-28,,U0298
+U0169,Emily Kim,Billing,Billing Specialist,False,Terminated,2018-06-15,2025-11-26,U0047
+U0170,Diana Moore,Patient Services,Patient Services Supervisor,True,Active,2023-06-06,,
+U0171,Kevin Kim,Billing,Billing Specialist,False,Active,2021-09-23,,U0047
+U0172,Michael Chen,Pharmacy,Pharmacy Tech,False,Active,2025-05-09,,U0212
+U0173,Fatima Taylor,Nursing,CNA,False,Active,2022-12-13,,U0026
+U0174,Grace Khan,Patient Services,Registration Clerk,False,Active,2020-01-09,,U0463
+U0175,Carlos Kim,Nursing,RN - Staff Nurse,False,Active,2016-07-01,,U0419
+U0176,Diana Hernandez,Nursing,RN - Staff Nurse,False,Active,2022-07-26,,U0199
+U0177,Peter Baker,Billing,Claims Analyst,False,Active,2016-11-08,,U0220
+U0178,Victor Chen,Facilities,Maintenance Tech,False,Active,2024-10-27,,U0528
+U0179,Priya Walker,Patient Services,Registration Clerk,False,Active,2024-12-10,,U0320
+U0180,Priya Chen,IT,IT Manager,True,Active,2016-08-01,,
+U0181,Hannah Moore,Patient Services,Registration Clerk,False,Terminated,2023-06-19,2024-07-16,U0388
+U0182,Hannah Jackson,Patient Services,Registration Clerk,False,Active,2023-10-12,,U0320
+U0183,Jose Lee,Pharmacy,Pharmacy Tech,False,Active,2021-12-18,,U0114
+U0184,Samuel Thomas,Billing,Billing Specialist,False,Active,2023-03-13,,U0533
+U0185,Rosa Garcia,HR,HR Generalist,False,Active,2019-07-25,,U0298
+U0186,Diana Baker,Radiology,Radiologist,False,Active,2022-12-31,,
+U0187,Michael Baker,Billing,Billing Specialist,False,Active,2021-12-19,,U0047
+U0188,Jose Nguyen,Nursing,RN - Staff Nurse,False,Active,2018-09-29,,U0589
+U0189,Chris Lee,IT,IT Manager,True,Active,2021-03-20,,
+U0190,David Anderson,Nursing,CNA,False,Active,2024-03-27,,U0419
+U0191,Omar Baker,Patient Services,Registration Clerk,False,Terminated,2025-06-01,2026-02-23,U0224
+U0192,Samuel Walker,Nursing,CNA,False,Active,2026-03-02,,U0213
+U0193,Nancy Lee,Nursing,RN - Staff Nurse,False,Active,2016-03-14,,U0589
+U0194,Mei Chen,Patient Services,Scheduler,False,Active,2020-03-17,,U0224
+U0195,David Ali,Nursing,RN - Staff Nurse,False,Active,2018-06-27,,U0436
+U0196,Priya Martinez,Nursing,RN - Staff Nurse,False,Active,2021-09-08,,U0213
+U0197,Omar Moore,Radiology,Radiology Tech,False,Active,2018-04-26,,
+U0198,James Hernandez,Patient Services,Scheduler,False,Active,2016-11-30,,U0527
+U0199,Omar Martinez,Nursing,Nurse Manager,True,Active,2016-07-13,,
+U0200,Mei Johnson,Billing,Billing Specialist,False,Active,2016-07-30,,U0047
+U0201,Samuel Patel,HR,HR Generalist,False,Active,2020-02-22,,U0298
+U0202,Maria Anderson,Facilities,Maintenance Tech,False,Active,2017-03-13,,U0405
+U0203,Victor Patel,Pharmacy,Pharmacist,False,Active,2025-01-07,,U0121
+U0204,Hannah Johnson,Nursing,RN - Staff Nurse,False,Active,2026-03-13,,U0026
+U0205,Priya Taylor,Nursing,RN - Staff Nurse,False,Active,2017-11-05,,U0036
+U0206,Chris Johnson,Nursing,CNA,False,Active,2025-02-05,,U0199
+U0207,Michael Lopez,Nursing,RN - Staff Nurse,False,Active,2021-07-27,,U0332
+U0208,David Thomas,IT,Help Desk Analyst,False,Active,2019-11-01,,U0180
+U0209,Carlos Garcia,Nursing,RN - Staff Nurse,False,Active,2024-02-03,,U0026
+U0210,Maria Thomas,Pharmacy,Pharmacy Tech,False,On Leave,2026-04-28,,U0114
+U0211,George Johnson,IT,Help Desk Analyst,False,Active,2022-10-20,,U0256
+U0212,Priya Ali,Pharmacy,Pharmacy Manager,True,Active,2026-02-23,,
+U0213,James Wilson,Nursing,Nurse Manager,True,Active,2017-05-25,,
+U0214,Jose Torres,HR,HR Manager,True,Active,2022-09-03,,
+U0215,Grace Baker,IT,Systems Administrator,False,Active,2025-05-05,,U0518
+U0216,David Kim,IT,Systems Administrator,False,Active,2019-10-04,,U0518
+U0217,Nancy Martinez,Nursing,RN - Staff Nurse,False,Active,2016-11-28,,U0036
+U0218,Brian Hill,Nursing,RN - Staff Nurse,False,Active,2025-03-12,,U0419
+U0219,Linda Patel,Patient Services,Registration Clerk,False,Active,2018-09-20,,U0527
+U0220,Kevin Smith,Billing,Billing Supervisor,True,Active,2021-02-03,,
+U0221,Chris Nguyen,Billing,Billing Specialist,False,Active,2015-12-28,,U0547
+U0222,Emily Chen,Pharmacy,Pharmacist,False,Active,2023-11-04,,U0212
+U0223,Michael Garcia,Radiology,Radiologist,False,Active,2018-11-27,,
+U0224,Priya Nguyen,Patient Services,Patient Services Supervisor,True,Active,2016-09-04,,
+U0225,Grace Smith,Billing,Billing Specialist,False,Active,2020-03-11,,U0547
+U0226,Rosa Kim,Patient Services,Registration Clerk,False,Active,2016-01-22,,U0170
+U0227,Lucia Brown,Nursing,RN - Staff Nurse,False,Active,2018-09-26,,U0436
+U0228,George Taylor,Pharmacy,Pharmacy Tech,False,Active,2020-10-02,,U0114
+U0229,Sofia Lee,Radiology,Radiology Tech,False,Active,2019-09-12,,
+U0230,Hannah Johnson,Nursing,RN - Staff Nurse,False,Active,2017-05-18,,U0026
+U0231,Michael Lopez,Nursing,RN - Staff Nurse,False,Active,2018-11-06,,U0213
+U0232,James Anderson,Billing,Claims Analyst,False,Active,2017-01-01,,U0547
+U0233,Linda Carter,Facilities,Maintenance Tech,False,On Leave,2024-09-29,,U0405
+U0234,Victor Anderson,Radiology,Radiology Tech,False,Active,2022-06-17,,
+U0235,Samuel Baker,Patient Services,Registration Clerk,False,Active,2025-11-16,,U0320
+U0236,Mei Martinez,HR,HR Manager,True,Active,2024-12-17,,
+U0237,Priya Davis,Pharmacy,Pharmacist,False,Active,2025-10-21,,U0133
+U0238,Lucia Moore,HR,HR Generalist,False,Active,2023-05-22,,U0298
+U0239,George Ali,Nursing,RN - Staff Nurse,False,Active,2019-03-27,,U0026
+U0240,Victor Jackson,Nursing,RN - Staff Nurse,False,Active,2015-04-21,,U0419
+U0241,David Patel,Patient Services,Scheduler,False,Active,2022-01-25,,U0347
+U0242,Robert Nguyen,HR,HR Generalist,False,Active,2019-10-12,,U0046
+U0243,Daniel Walker,Nursing,CNA,False,Active,2016-10-19,,U0444
+U0244,Linda Patel,Pharmacy,Pharmacy Tech,False,Active,2018-02-02,,U0212
+U0245,Anna Nguyen,Radiology,Radiology Tech,False,Active,2022-04-19,,
+U0246,Maria Brown,Patient Services,Scheduler,False,Active,2015-10-03,,U0320
+U0247,Peter Lopez,Radiology,Radiology Tech,False,Terminated,2023-10-30,2025-11-01,
+U0248,Grace Taylor,Billing,Claims Analyst,False,Terminated,2016-02-01,2025-04-02,U0547
+U0249,Emily Martinez,Billing,Billing Specialist,False,Terminated,2020-06-01,2024-02-27,U0547
+U0250,Michael Patel,Billing,Claims Analyst,False,Active,2020-04-17,,U0533
+U0251,Diana Khan,Radiology,Radiologist,False,Active,2022-10-03,,
+U0252,Fatima Thomas,Patient Services,Scheduler,False,Active,2016-03-12,,U0463
+U0253,Carlos Hill,Pharmacy,Pharmacist,False,Active,2017-01-04,,U0465
+U0254,Emily Martinez,Nursing,CNA,False,Active,2018-12-04,,U0444
+U0255,Emily Davis,Nursing,CNA,False,Active,2015-08-19,,U0332
+U0256,Sofia Torres,IT,IT Manager,True,Active,2019-10-12,,
+U0257,Aisha Walker,HR,Payroll Specialist,False,Terminated,2025-02-20,2026-05-10,U0358
+U0258,Chris Lee,Nursing,RN - Staff Nurse,False,Active,2016-03-23,,U0332
+U0259,Omar Baker,Nursing,RN - Staff Nurse,False,Active,2017-04-10,,U0589
+U0260,Anna Thomas,Radiology,Radiology Tech,False,Active,2023-08-11,,
+U0261,James Brown,Nursing,RN - Staff Nurse,False,On Leave,2020-01-20,,U0332
+U0262,Nancy Baker,HR,Payroll Specialist,False,Active,2019-07-31,,U0046
+U0263,Grace Adams,Billing,Billing Specialist,False,Active,2025-06-14,,U0533
+U0264,Jose Taylor,Nursing,RN - Staff Nurse,False,On Leave,2016-12-11,,U0199
+U0265,Samuel Baker,Patient Services,Registration Clerk,False,Active,2018-04-23,,U0224
+U0266,Peter Jackson,Nursing,RN - Staff Nurse,False,Active,2019-05-07,,U0436
+U0267,Jose Martinez,Nursing,CNA,False,Active,2022-06-21,,U0332
+U0268,Peter Hill,Nursing,RN - Staff Nurse,False,Active,2017-03-16,,U0444
+U0269,Emily Chen,Nursing,RN - Staff Nurse,False,Active,2021-08-04,,U0213
+U0270,Grace Lee,Nursing,RN - Staff Nurse,False,Active,2019-08-31,,U0444
+U0271,George Wilson,Nursing,RN - Staff Nurse,False,Terminated,2024-02-26,2026-07-13,U0026
+U0272,Chris Carter,Nursing,RN - Staff Nurse,False,Active,2018-02-03,,U0026
+U0273,Priya Chen,Nursing,RN - Staff Nurse,False,Active,2021-06-25,,U0036
+U0274,Jose Carter,Radiology,Radiology Tech,False,Active,2019-03-22,,
+U0275,Kevin Khan,IT,Help Desk Analyst,False,Active,2018-12-12,,U0180
+U0276,George Carter,Billing,Billing Supervisor,True,Active,2020-09-18,,
+U0277,Peter Moore,Billing,Billing Specialist,False,Active,2019-06-11,,U0584
+U0278,David Thomas,Pharmacy,Pharmacy Tech,False,Active,2021-01-28,,U0121
+U0279,Brian Khan,Patient Services,Scheduler,False,Terminated,2024-06-08,2025-03-30,U0170
+U0280,Carlos Baker,Patient Services,Scheduler,False,Active,2022-08-20,,U0320
+U0281,Victor Adams,Nursing,RN - Staff Nurse,False,Active,2016-03-09,,U0332
+U0282,Mei Smith,Nursing,RN - Staff Nurse,False,Active,2021-08-10,,U0419
+U0283,Rosa Khan,Nursing,CNA,False,Active,2025-06-05,,U0051
+U0284,Linda Nguyen,Nursing,CNA,False,Active,2015-04-21,,U0036
+U0285,Chris Ali,Pharmacy,Pharmacy Tech,False,Active,2017-04-26,,U0114
+U0286,Hannah Hernandez,Billing,Claims Analyst,False,Active,2015-01-23,,U0276
+U0287,Daniel Nguyen,Nursing,RN - Staff Nurse,False,Active,2026-04-13,,U0444
+U0288,Anna Lopez,Billing,Billing Specialist,False,Active,2021-06-13,,U0047
+U0289,Nancy Martinez,Pharmacy,Pharmacy Tech,False,Active,2016-09-16,,U0212
+U0290,Aisha Baker,Nursing,RN - Staff Nurse,False,On Leave,2021-02-14,,U0436
+U0291,Michael Baker,Patient Services,Scheduler,False,Active,2024-09-19,,U0388
+U0292,Brian Wilson,Nursing,RN - Staff Nurse,False,Active,2021-10-13,,U0419
+U0293,Grace Thomas,Patient Services,Registration Clerk,False,Active,2019-06-13,,U0224
+U0294,Carlos Carter,Nursing,RN - Staff Nurse,False,Active,2020-07-01,,U0213
+U0295,Fatima Baker,Patient Services,Scheduler,False,Active,2025-05-22,,U0463
+U0296,Robert Johnson,Patient Services,Registration Clerk,False,Active,2019-03-23,,U0170
+U0297,Omar Smith,Facilities,Maintenance Tech,False,Active,2017-07-11,,U0410
+U0298,George Hill,HR,HR Manager,True,Active,2018-03-31,,
+U0299,Kevin Thomas,HR,HR Generalist,False,Active,2025-09-23,,U0236
+U0300,Brian Lopez,Radiology,Radiology Tech,False,Active,2020-04-17,,
+U0301,Daniel Torres,HR,HR Generalist,False,Active,2016-04-18,,U0236
+U0302,Brian Ali,Nursing,RN - Staff Nurse,False,Active,2022-01-23,,U0199
+U0303,Sofia Ali,Pharmacy,Pharmacy Tech,False,Active,2025-08-19,,U0114
+U0304,Nancy Hernandez,Pharmacy,Pharmacy Tech,False,Active,2016-08-05,,U0114
+U0305,Hannah Brown,Patient Services,Scheduler,False,Active,2020-11-04,,U0170
+U0306,Fatima Carter,Pharmacy,Pharmacist,False,Active,2019-08-16,,U0465
+U0307,Carlos Carter,Billing,Billing Specialist,False,Active,2021-08-25,,U0547
+U0308,Emily Ali,Radiology,Radiology Tech,False,Active,2024-12-11,,
+U0309,James Brown,Nursing,CNA,False,Active,2019-02-28,,U0026
+U0310,Nancy Baker,Nursing,RN - Staff Nurse,False,On Leave,2021-02-06,,U0051
+U0311,George Moore,Pharmacy,Pharmacist,False,Active,2017-04-28,,U0465
+U0312,James Patel,Billing,Claims Analyst,False,Terminated,2018-06-12,2025-01-13,U0220
+U0313,Victor Johnson,Nursing,CNA,False,Active,2025-09-06,,U0444
+U0314,Omar Baker,Billing,Billing Specialist,False,Active,2015-01-20,,U0584
+U0315,Aisha Adams,Billing,Billing Specialist,False,Active,2016-10-11,,U0276
+U0316,Daniel Torres,Billing,Billing Specialist,False,Active,2023-01-30,,U0584
+U0317,Michael Carter,Billing,Billing Specialist,False,Active,2020-01-30,,U0047
+U0318,Michael Thomas,IT,Help Desk Analyst,False,Active,2024-01-12,,U0189
+U0319,Michael Khan,Billing,Billing Specialist,False,On Leave,2018-04-07,,U0533
+U0320,George Moore,Patient Services,Patient Services Supervisor,True,Active,2016-06-15,,
+U0321,Mei Nguyen,Patient Services,Registration Clerk,False,On Leave,2024-06-22,,U0347
+U0322,Victor Torres,Pharmacy,Pharmacist,False,Terminated,2022-02-24,2024-05-03,U0212
+U0323,Rosa Carter,Billing,Billing Specialist,False,Active,2019-06-06,,U0276
+U0324,Chris Rivera,Pharmacy,Pharmacy Tech,False,On Leave,2025-04-05,,U0465
+U0325,Chris Hill,Patient Services,Scheduler,False,Active,2020-03-18,,U0347
+U0326,Michael Wilson,Radiology,Radiologist,False,Active,2019-05-30,,
+U0327,Aisha Moore,HR,HR Manager,True,Active,2023-04-06,,
+U0328,Michael Baker,Pharmacy,Pharmacy Tech,False,Active,2023-11-26,,U0114
+U0329,James Patel,Radiology,Radiology Tech,False,Active,2015-12-28,,
+U0330,Priya Carter,Billing,Billing Specialist,False,Active,2016-10-18,,U0276
+U0331,Kevin Chen,IT,Systems Administrator,False,Active,2019-05-18,,U0439
+U0332,James Martinez,Nursing,Nurse Manager,True,On Leave,2025-09-07,,
+U0333,Linda Baker,IT,Help Desk Analyst,False,Active,2019-01-21,,U0256
+U0334,Linda Moore,Patient Services,Scheduler,False,Active,2015-09-22,,U0320
+U0335,Carlos Lee,Nursing,RN - Staff Nurse,False,Terminated,2017-12-23,2025-06-07,U0112
+U0336,Grace Hill,Radiology,Radiology Tech,False,Active,2020-10-16,,
+U0337,Mei Baker,Nursing,RN - Staff Nurse,False,Active,2022-01-19,,U0419
+U0338,Aisha Taylor,IT,Systems Administrator,False,Active,2016-04-12,,U0031
+U0339,Mei Baker,Nursing,RN - Staff Nurse,False,Active,2017-07-30,,U0419
+U0340,Peter Johnson,Patient Services,Registration Clerk,False,Active,2018-09-19,,U0224
+U0341,Mei Patel,Nursing,RN - Staff Nurse,False,Active,2021-03-03,,U0112
+U0342,Anna Lopez,Facilities,Maintenance Tech,False,Active,2016-12-27,,U0528
+U0343,Peter Kim,HR,HR Manager,True,Active,2019-12-18,,
+U0344,Hannah Walker,Radiology,Radiology Tech,False,Active,2023-03-01,,
+U0345,Brian Taylor,HR,HR Generalist,False,Active,2017-02-22,,U0236
+U0346,Kevin Baker,HR,HR Generalist,False,Active,2015-05-12,,U0426
+U0347,Aisha Taylor,Patient Services,Patient Services Supervisor,True,On Leave,2019-12-26,,
+U0348,Fatima Carter,Nursing,CNA,False,Active,2025-07-09,,U0051
+U0349,David Martinez,Radiology,Radiology Tech,False,Active,2015-10-06,,
+U0350,James Jackson,Nursing,RN - Staff Nurse,False,Active,2021-12-22,,U0419
+U0351,Nancy Adams,Radiology,Radiology Tech,False,Active,2026-03-15,,
+U0352,James Torres,Nursing,RN - Staff Nurse,False,Active,2023-03-09,,U0036
+U0353,Lucia Walker,Pharmacy,Pharmacy Tech,False,Active,2024-05-20,,U0114
+U0354,Carlos Brown,Pharmacy,Pharmacy Tech,False,Active,2020-03-16,,U0121
+U0355,Jose Hernandez,Pharmacy,Pharmacist,False,Active,2024-10-09,,U0114
+U0356,Anna Baker,Pharmacy,Pharmacy Tech,False,Active,2023-11-18,,U0465
+U0357,Brian Anderson,IT,Security Analyst,False,Active,2025-12-18,,U0256
+U0358,Kevin Smith,HR,HR Manager,True,Active,2019-03-20,,
+U0359,Kevin Martinez,Pharmacy,Pharmacist,False,Active,2023-05-29,,U0114
+U0360,Robert Wilson,Radiology,Radiology Tech,False,Active,2018-12-28,,
+U0361,Robert Kim,Patient Services,Registration Clerk,False,Active,2017-04-07,,U0170
+U0362,Rosa Johnson,Nursing,RN - Staff Nurse,False,Terminated,2023-05-12,2024-09-22,U0213
+U0363,Linda Davis,Nursing,RN - Staff Nurse,False,On Leave,2024-02-28,,U0444
+U0364,Jose Thomas,Nursing,RN - Staff Nurse,False,Active,2017-04-04,,U0419
+U0365,Michael Rivera,Radiology,Radiologist,False,Terminated,2023-04-22,2026-01-10,
+U0366,Emily Torres,Billing,Claims Analyst,False,Active,2023-07-30,,U0220
+U0367,Daniel Davis,HR,HR Generalist,False,Active,2020-06-17,,U0343
+U0368,Robert Rivera,Radiology,Radiologist,False,Active,2019-05-14,,
+U0369,Linda Smith,Billing,Billing Specialist,False,Active,2021-04-12,,U0584
+U0370,Peter Jackson,Patient Services,Registration Clerk,False,Active,2017-09-28,,U0388
+U0371,Sofia Ali,IT,Security Analyst,False,Active,2023-07-16,,U0031
+U0372,David Hernandez,Nursing,CNA,False,Active,2018-02-28,,U0436
+U0373,Sofia Taylor,Billing,Billing Specialist,False,Active,2019-02-13,,U0276
+U0374,David Adams,Billing,Billing Specialist,False,Active,2023-03-17,,U0584
+U0375,Michael Davis,Nursing,RN - Staff Nurse,False,Active,2023-08-01,,U0026
+U0376,Chris Rivera,Nursing,RN - Staff Nurse,False,Active,2015-03-02,,U0051
+U0377,Victor Martinez,Patient Services,Registration Clerk,False,Active,2018-06-17,,U0320
+U0378,Victor Wilson,Billing,Claims Analyst,False,Active,2015-09-04,,U0276
+U0379,Maria Hill,Billing,Billing Specialist,False,Active,2020-09-06,,U0047
+U0380,Mei Ali,IT,Systems Administrator,False,On Leave,2020-05-19,,U0031
+U0381,Peter Wilson,Pharmacy,Pharmacy Tech,False,Terminated,2025-02-26,2026-02-28,U0133
+U0382,George Garcia,Patient Services,Registration Clerk,False,Active,2020-04-05,,U0170
+U0383,Nancy Taylor,HR,HR Generalist,False,Active,2020-05-07,,U0506
+U0384,Lucia Moore,Pharmacy,Pharmacist,False,Active,2019-08-26,,U0465
+U0385,Robert Rivera,Billing,Billing Specialist,False,Active,2026-04-18,,U0584
+U0386,Aisha Nguyen,Facilities,Maintenance Tech,False,Active,2017-07-27,,U0405
+U0387,Diana Johnson,IT,Systems Administrator,False,On Leave,2022-08-16,,U0256
+U0388,Robert Anderson,Patient Services,Patient Services Supervisor,True,Active,2025-02-26,,
+U0389,Mei Lee,Nursing,RN - Staff Nurse,False,Active,2024-05-20,,U0112
+U0390,Samuel Moore,Patient Services,Scheduler,False,Active,2025-09-18,,U0320
+U0391,Michael Martinez,Radiology,Radiology Tech,False,Active,2017-06-17,,
+U0392,Mei Baker,Nursing,RN - Staff Nurse,False,Active,2017-03-24,,U0112
+U0393,Omar Garcia,Radiology,Radiology Tech,False,Active,2015-09-05,,
+U0394,Lucia Lopez,IT,Help Desk Analyst,False,Active,2022-10-11,,U0031
+U0395,David Adams,Nursing,RN - Staff Nurse,False,Active,2026-03-05,,U0051
+U0396,Priya Chen,Pharmacy,Pharmacist,False,Active,2025-06-04,,U0212
+U0397,David Baker,Patient Services,Scheduler,False,Active,2019-10-19,,U0527
+U0398,Rosa Davis,Billing,Billing Specialist,False,On Leave,2018-02-25,,U0220
+U0399,Fatima Rivera,Pharmacy,Pharmacist,False,Active,2026-04-03,,U0121
+U0400,Mei Walker,Billing,Claims Analyst,False,Active,2017-11-20,,U0220
+U0401,Omar Nguyen,Billing,Billing Specialist,False,Active,2023-06-04,,U0584
+U0402,Brian Moore,Patient Services,Registration Clerk,False,Active,2017-06-07,,U0224
+U0403,James Brown,HR,HR Generalist,False,On Leave,2025-01-29,,U0298
+U0404,George Torres,Nursing,RN - Staff Nurse,False,Active,2017-05-17,,U0589
+U0405,Daniel Hernandez,Facilities,Facilities Manager,True,Active,2016-08-08,,
+U0406,David Brown,Patient Services,Scheduler,False,Active,2023-07-12,,U0527
+U0407,Fatima Ali,Nursing,CNA,False,Active,2021-06-10,,U0036
+U0408,Kevin Lee,Patient Services,Scheduler,False,Active,2020-06-21,,U0224
+U0409,Samuel Lopez,Nursing,RN - Staff Nurse,False,Active,2016-07-13,,U0419
+U0410,David Adams,Facilities,Facilities Manager,True,Active,2019-09-13,,
+U0411,George Khan,Radiology,Radiologist,False,Active,2026-05-02,,
+U0412,Fatima Taylor,Radiology,Radiologist,False,Active,2023-08-12,,
+U0413,Michael Anderson,Nursing,RN - Staff Nurse,False,Active,2016-12-25,,U0332
+U0414,Michael Torres,Patient Services,Registration Clerk,False,Active,2020-04-17,,U0224
+U0415,Carlos Davis,Nursing,RN - Staff Nurse,False,Terminated,2021-02-24,2026-02-20,U0332
+U0416,David Davis,Nursing,CNA,False,Active,2016-05-09,,U0051
+U0417,Fatima Baker,Nursing,RN - Staff Nurse,False,Terminated,2016-07-16,2025-05-15,U0112
+U0418,Mei Anderson,HR,HR Generalist,False,Active,2017-07-25,,U0506
+U0419,Linda Torres,Nursing,Nurse Manager,True,Active,2015-12-21,,
+U0420,Linda Brown,Patient Services,Registration Clerk,False,Active,2022-04-19,,U0224
+U0421,David Nguyen,Radiology,Radiologist,False,Terminated,2022-01-04,2026-04-08,
+U0422,James Hill,Nursing,RN - Staff Nurse,False,Active,2020-12-20,,U0332
+U0423,Aisha Lee,Nursing,RN - Staff Nurse,False,Active,2024-11-25,,U0112
+U0424,Robert Johnson,Nursing,RN - Staff Nurse,False,Active,2021-11-16,,U0419
+U0425,George Carter,Radiology,Radiology Tech,False,Terminated,2023-11-30,2024-08-23,
+U0426,Michael Thomas,HR,HR Manager,True,Active,2020-01-14,,
+U0427,Grace Lopez,Nursing,CNA,False,Active,2015-07-13,,U0026
+U0428,Fatima Johnson,Patient Services,Scheduler,False,Active,2023-07-22,,U0320
+U0429,Kevin Chen,Nursing,RN - Staff Nurse,False,Active,2018-07-10,,U0026
+U0430,Omar Anderson,HR,HR Manager,True,Active,2020-10-07,,
+U0431,Victor Torres,Patient Services,Registration Clerk,False,Active,2025-12-20,,U0170
+U0432,Priya Chen,HR,HR Generalist,False,Active,2017-10-25,,U0046
+U0433,Michael Hernandez,IT,Help Desk Analyst,False,Active,2024-02-04,,U0189
+U0434,Maria Kim,Patient Services,Scheduler,False,On Leave,2024-01-29,,U0388
+U0435,Daniel Hernandez,Nursing,RN - Staff Nurse,False,Terminated,2016-10-15,2026-08-16,U0436
+U0436,Nancy Smith,Nursing,Nurse Manager,True,Active,2022-07-11,,
+U0437,Brian Anderson,Nursing,RN - Staff Nurse,False,Active,2026-04-06,,U0332
+U0438,Priya Thomas,Pharmacy,Pharmacy Tech,False,Active,2016-02-10,,U0133
+U0439,Mei Carter,IT,IT Manager,True,Active,2023-12-29,,
+U0440,David Walker,Radiology,Radiology Tech,False,Terminated,2023-11-26,2025-01-29,
+U0441,Mei Patel,Patient Services,Scheduler,False,Active,2017-09-08,,U0320
+U0442,Hannah Garcia,Nursing,RN - Staff Nurse,False,Active,2022-07-08,,U0026
+U0443,George Patel,IT,Systems Administrator,False,Active,2025-06-23,,U0256
+U0444,Nancy Smith,Nursing,Nurse Manager,True,Active,2021-06-07,,
+U0445,Omar Walker,Nursing,CNA,False,Active,2024-05-04,,U0444
+U0446,Fatima Baker,IT,Help Desk Analyst,False,Active,2015-05-09,,U0256
+U0447,Lucia Moore,Facilities,Maintenance Tech,False,Active,2019-02-09,,U0405
+U0448,Sofia Kim,Radiology,Radiology Tech,False,Active,2017-12-09,,
+U0449,Rosa Thomas,Nursing,RN - Staff Nurse,False,Terminated,2018-05-27,2024-07-29,U0026
+U0450,David Torres,Radiology,Radiology Tech,False,Active,2024-02-14,,
+U0451,Emily Baker,Nursing,RN - Staff Nurse,False,Active,2017-08-19,,U0589
+U0452,Carlos Wilson,Patient Services,Scheduler,False,Active,2016-03-25,,U0463
+U0453,Robert Taylor,IT,Help Desk Analyst,False,Active,2023-06-29,,U0189
+U0454,Carlos Patel,Nursing,RN - Staff Nurse,False,Active,2015-09-12,,U0436
+U0455,Grace Smith,Nursing,RN - Staff Nurse,False,Terminated,2017-04-20,2026-03-26,U0589
+U0456,Robert Johnson,Nursing,RN - Staff Nurse,False,Active,2018-12-28,,U0589
+U0457,Victor Chen,Facilities,Maintenance Tech,False,On Leave,2016-12-08,,U0405
+U0458,Grace Lopez,Pharmacy,Pharmacist,False,Active,2025-07-10,,U0133
+U0459,Aisha Brown,HR,HR Generalist,False,Active,2016-07-09,,U0343
+U0460,James Carter,Radiology,Radiology Tech,False,Active,2016-05-15,,
+U0461,Robert Thomas,Pharmacy,Pharmacy Tech,False,Active,2015-05-06,,U0212
+U0462,Aisha Walker,Nursing,RN - Staff Nurse,False,Active,2024-06-10,,U0112
+U0463,Diana Patel,Patient Services,Patient Services Supervisor,True,Active,2019-09-03,,
+U0464,Hannah Rivera,Billing,Billing Specialist,False,Active,2022-04-15,,U0584
+U0465,Emily Lopez,Pharmacy,Pharmacy Manager,True,Active,2023-01-16,,
+U0466,Fatima Torres,IT,Help Desk Analyst,False,Active,2020-05-03,,U0031
+U0467,Linda Walker,Radiology,Radiology Tech,False,Active,2019-10-26,,
+U0468,Anna Hernandez,Patient Services,Registration Clerk,False,Active,2017-10-24,,U0347
+U0469,Omar Hill,Nursing,RN - Staff Nurse,False,Active,2022-05-16,,U0436
+U0470,Sofia Patel,Pharmacy,Pharmacy Tech,False,Active,2015-11-21,,U0133
+U0471,Anna Chen,Billing,Claims Analyst,False,Active,2020-03-01,,U0584
+U0472,Samuel Moore,Pharmacy,Pharmacist,False,Active,2025-05-20,,U0121
+U0473,Rosa Davis,Nursing,RN - Staff Nurse,False,Active,2018-11-15,,U0051
+U0474,Linda Lee,Nursing,RN - Staff Nurse,False,Active,2022-02-05,,U0213
+U0475,Anna Lee,Nursing,CNA,False,Active,2018-09-27,,U0051
+U0476,Mei Khan,Billing,Billing Specialist,False,Active,2022-09-14,,U0276
+U0477,Fatima Ali,Billing,Claims Analyst,False,Active,2015-08-03,,U0547
+U0478,Jose Ali,Radiology,Radiology Tech,False,Active,2015-12-28,,
+U0479,David Nguyen,Radiology,Radiology Tech,False,Active,2023-10-20,,
+U0480,James Walker,Billing,Claims Analyst,False,Active,2024-06-21,,U0220
+U0481,Nancy Khan,Billing,Claims Analyst,False,Active,2021-03-03,,U0547
+U0482,Nancy Baker,Nursing,CNA,False,Terminated,2022-01-27,2026-06-24,U0213
+U0483,Samuel Kim,Radiology,Radiology Tech,False,Active,2021-01-12,,
+U0484,Kevin Chen,Billing,Billing Specialist,False,Active,2019-09-05,,U0533
+U0485,Nancy Moore,Nursing,RN - Staff Nurse,False,Terminated,2020-06-30,2024-11-22,U0444
+U0486,Kevin Ali,Billing,Claims Analyst,False,On Leave,2020-05-06,,U0047
+U0487,Sofia Lopez,Pharmacy,Pharmacist,False,Active,2019-11-11,,U0212
+U0488,Carlos Ali,Nursing,CNA,False,Active,2016-02-01,,U0199
+U0489,Lucia Rivera,Pharmacy,Pharmacy Tech,False,Active,2021-02-24,,U0465
+U0490,Samuel Lopez,Pharmacy,Pharmacy Tech,False,Active,2015-05-15,,U0133
+U0491,Fatima Lee,IT,Help Desk Analyst,False,Terminated,2026-01-13,2026-07-20,U0439
+U0492,Carlos Patel,Radiology,Radiology Tech,False,Active,2019-07-06,,
+U0493,Linda Martinez,Radiology,Radiologist,False,Active,2019-09-15,,
+U0494,Linda Walker,Billing,Billing Specialist,False,Terminated,2025-10-12,2026-06-21,U0276
+U0495,Samuel Torres,HR,HR Generalist,False,Active,2019-02-09,,U0426
+U0496,Emily Davis,Pharmacy,Pharmacy Tech,False,Active,2017-07-22,,U0114
+U0497,Brian Walker,Billing,Claims Analyst,False,Active,2022-04-17,,U0276
+U0498,Robert Thomas,Radiology,Radiology Tech,False,On Leave,2026-05-04,,
+U0499,Omar Anderson,Billing,Billing Specialist,False,Active,2023-03-28,,U0220
+U0500,Daniel Thomas,Pharmacy,Pharmacy Tech,False,Active,2025-08-25,,U0133
+U0501,Jose Baker,IT,Systems Administrator,False,Active,2017-07-26,,U0518
+U0502,Chris Carter,Patient Services,Scheduler,False,On Leave,2020-01-08,,U0347
+U0503,Hannah Davis,Patient Services,Registration Clerk,False,Terminated,2021-08-22,2026-02-16,U0347
+U0504,Rosa Khan,Pharmacy,Pharmacy Tech,False,Active,2022-04-09,,U0465
+U0505,Brian Lee,Pharmacy,Pharmacy Tech,False,Active,2021-05-26,,U0465
+U0506,Lucia Torres,HR,HR Manager,True,Active,2022-09-29,,
+U0507,Kevin Johnson,Billing,Billing Specialist,False,Active,2018-10-22,,U0276
+U0508,Omar Carter,Patient Services,Scheduler,False,Active,2021-01-28,,U0224
+U0509,Robert Walker,Pharmacy,Pharmacist,False,Active,2020-02-04,,U0133
+U0510,Maria Carter,Nursing,RN - Staff Nurse,False,Active,2017-01-07,,U0036
+U0511,David Chen,Nursing,RN - Staff Nurse,False,Active,2018-08-11,,U0112
+U0512,James Garcia,Patient Services,Scheduler,False,Active,2022-11-05,,U0388
+U0513,Grace Garcia,Nursing,RN - Staff Nurse,False,Active,2015-08-18,,U0436
+U0514,Linda Thomas,Nursing,CNA,False,Active,2016-03-03,,U0213
+U0515,Anna Ali,Billing,Billing Specialist,False,Active,2021-12-03,,U0533
+U0516,Grace Lee,Nursing,RN - Staff Nurse,False,Active,2020-02-27,,U0332
+U0517,Rosa Brown,Billing,Billing Specialist,False,Active,2025-03-12,,U0047
+U0518,Anna Lopez,IT,IT Manager,True,Terminated,2018-11-06,2025-06-19,
+U0519,Carlos Johnson,Nursing,RN - Staff Nurse,False,Active,2024-03-23,,U0199
+U0520,Hannah Baker,Patient Services,Scheduler,False,Active,2023-04-10,,U0170
+U0521,Jose Adams,Patient Services,Scheduler,False,Active,2021-05-21,,U0463
+U0522,Lucia Martinez,Billing,Billing Specialist,False,Active,2020-06-12,,U0047
+U0523,Emily Taylor,Nursing,RN - Staff Nurse,False,Active,2016-03-12,,U0112
+U0524,Jose Ali,Radiology,Radiology Tech,False,Active,2023-02-13,,
+U0525,Mei Lee,Nursing,RN - Staff Nurse,False,Active,2017-10-29,,U0332
+U0526,Sofia Rivera,Billing,Billing Specialist,False,Active,2023-11-12,,U0547
+U0527,Nancy Lee,Patient Services,Patient Services Supervisor,True,Active,2024-11-14,,
+U0528,Michael Smith,Facilities,Facilities Manager,True,Active,2021-11-20,,
+U0529,Chris Lopez,HR,HR Generalist,False,Active,2021-07-25,,U0343
+U0530,Linda Nguyen,Billing,Billing Specialist,False,Active,2019-09-22,,U0276
+U0531,Mei Baker,IT,Help Desk Analyst,False,Terminated,2019-12-23,2024-07-15,U0518
+U0532,Victor Thomas,IT,Help Desk Analyst,False,Active,2018-06-19,,U0439
+U0533,Diana Walker,Billing,Billing Supervisor,True,Active,2025-11-12,,
+U0534,Victor Martinez,Radiology,Radiology Tech,False,On Leave,2017-03-28,,
+U0535,Peter Khan,Nursing,RN - Staff Nurse,False,Active,2026-01-29,,U0332
+U0536,Mei Baker,Nursing,CNA,False,Active,2015-09-09,,U0444
+U0537,Carlos Jackson,Pharmacy,Pharmacy Tech,False,Active,2022-01-06,,U0114
+U0538,Lucia Rivera,Nursing,RN - Staff Nurse,False,Active,2022-07-25,,U0332
+U0539,Michael Nguyen,Nursing,RN - Staff Nurse,False,Active,2015-11-09,,U0589
+U0540,Kevin Moore,Patient Services,Scheduler,False,Active,2023-04-02,,U0527
+U0541,Robert Kim,Facilities,Maintenance Tech,False,On Leave,2018-07-25,,U0410
+U0542,Michael Wilson,Pharmacy,Pharmacy Tech,False,Active,2026-01-26,,U0133
+U0543,Brian Baker,Patient Services,Scheduler,False,Active,2017-07-04,,U0463
+U0544,Sofia Baker,Facilities,Maintenance Tech,False,Active,2016-02-13,,U0528
+U0545,Michael Nguyen,Nursing,RN - Staff Nurse,False,Active,2024-10-23,,U0444
+U0546,Mei Taylor,Pharmacy,Pharmacist,False,Active,2021-09-25,,U0465
+U0547,Aisha Rivera,Billing,Billing Supervisor,True,Active,2025-07-30,,
+U0548,Linda Ali,Nursing,RN - Staff Nurse,False,On Leave,2021-03-10,,U0026
+U0549,Omar Hernandez,IT,Security Analyst,False,Active,2016-01-04,,U0189
+U0550,Nancy Walker,Billing,Claims Analyst,False,Active,2019-09-27,,U0533
+U0551,Kevin Hernandez,Pharmacy,Pharmacist,False,Active,2023-08-09,,U0465
+U0552,Kevin Patel,Nursing,RN - Staff Nurse,False,Active,2023-05-07,,U0199
+U0553,Grace Baker,Nursing,RN - Staff Nurse,False,Active,2024-08-14,,U0199
+U0554,Robert Hernandez,Patient Services,Registration Clerk,False,Active,2017-03-01,,U0347
+U0555,Priya Johnson,Nursing,RN - Staff Nurse,False,Active,2025-02-06,,U0026
+U0556,Anna Johnson,Nursing,CNA,False,Active,2017-02-18,,U0036
+U0557,Chris Johnson,Billing,Billing Specialist,False,Active,2015-07-17,,U0533
+U0558,Fatima Moore,Pharmacy,Pharmacist,False,Active,2022-11-16,,U0114
+U0559,Fatima Garcia,Radiology,Radiology Tech,False,Active,2020-12-15,,
+U0560,Daniel Hernandez,Pharmacy,Pharmacist,False,Active,2018-06-30,,U0121
+U0561,Fatima Garcia,Nursing,RN - Staff Nurse,False,Active,2022-06-08,,U0436
+U0562,Chris Hernandez,Nursing,CNA,False,Active,2018-10-31,,U0112
+U0563,Maria Wilson,Patient Services,Scheduler,False,Active,2019-07-01,,U0320
+U0564,Brian Lopez,Radiology,Radiology Tech,False,Active,2017-05-05,,
+U0565,Lucia Hernandez,Radiology,Radiology Tech,False,Active,2015-04-02,,
+U0566,Robert Khan,Radiology,Radiologist,False,Active,2023-06-04,,
+U0567,Maria Carter,IT,Security Analyst,False,Terminated,2023-12-08,2025-02-25,U0518
+U0568,Victor Davis,Nursing,RN - Staff Nurse,False,Active,2021-11-12,,U0036
+U0569,Mei Davis,Billing,Billing Specialist,False,Active,2020-09-22,,U0533
+U0570,Lucia Smith,Pharmacy,Pharmacy Tech,False,On Leave,2025-08-09,,U0133
+U0571,Rosa Moore,Billing,Billing Specialist,False,Active,2025-12-15,,U0276
+U0572,Aisha Carter,Patient Services,Scheduler,False,Active,2016-09-03,,U0527
+U0573,Chris Khan,Pharmacy,Pharmacist,False,Active,2015-11-21,,U0114
+U0574,Maria Taylor,IT,Security Analyst,False,Active,2024-08-14,,U0189
+U0575,Nancy Garcia,Patient Services,Scheduler,False,On Leave,2018-04-28,,U0224
+U0576,George Baker,Pharmacy,Pharmacy Tech,False,Active,2016-06-29,,U0465
+U0577,Kevin Smith,Patient Services,Registration Clerk,False,Active,2024-01-02,,U0347
+U0578,Maria Baker,Radiology,Radiology Tech,False,Active,2016-01-14,,
+U0579,Samuel Carter,Patient Services,Scheduler,False,Active,2026-04-07,,U0463
+U0580,George Hill,Billing,Billing Specialist,False,Active,2017-12-15,,U0276
+U0581,Priya Anderson,Pharmacy,Pharmacist,False,Active,2016-06-21,,U0114
+U0582,Jose Thomas,Pharmacy,Pharmacy Tech,False,Active,2024-10-06,,U0212
+U0583,Michael Rivera,Nursing,RN - Staff Nurse,False,On Leave,2017-08-03,,U0112
+U0584,Fatima Wilson,Billing,Billing Supervisor,True,Active,2018-06-10,,
+U0585,Anna Ali,Patient Services,Registration Clerk,False,Active,2023-02-26,,U0527
+U0586,Daniel Davis,Radiology,Radiology Tech,False,Active,2017-01-25,,
+U0587,Emily Patel,Nursing,RN - Staff Nurse,False,Active,2019-07-28,,U0112
+U0588,Carlos Wilson,Billing,Billing Specialist,False,Active,2023-03-08,,U0547
+U0589,Brian Davis,Nursing,Nurse Manager,True,Active,2015-08-21,,
+U0590,Emily Kim,Nursing,RN - Staff Nurse,False,Terminated,2017-06-10,2025-02-22,U0036
+U0591,Rosa Johnson,Patient Services,Registration Clerk,False,Active,2015-06-12,,U0527
+U0592,Lucia Hernandez,Pharmacy,Pharmacist,False,Active,2022-09-29,,U0465
+U0593,Victor Baker,Billing,Billing Specialist,False,Active,2016-06-29,,U0584
+U0594,George Anderson,Radiology,Radiology Tech,False,Active,2016-09-21,,
+U0595,Nancy Hernandez,Nursing,RN - Staff Nurse,False,On Leave,2023-02-22,,U0036
+U0596,Kevin Nguyen,Nursing,CNA,False,Active,2016-04-10,,U0436
+U0597,Chris Lee,IT,Help Desk Analyst,False,Active,2021-02-01,,U0031
+U0598,Victor Jackson,Radiology,Radiology Tech,False,Active,2015-11-03,,
+U0599,Hannah Johnson,Facilities,Maintenance Tech,False,Active,2018-01-08,,U0405
+U0600,Priya Nguyen,Radiology,Radiology Tech,False,Active,2018-10-31,,
